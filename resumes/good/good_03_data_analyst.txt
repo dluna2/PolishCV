@@ -1,0 +1,39 @@
+MARCUS CHEN
+Austin, TX | (512) 555-0284 | marcus.chen@email.com | linkedin.com/in/marcuschen | github.com/marcuschen-data
+
+SUMMARY
+Detail-oriented Data Analyst with 5 years of experience transforming complex datasets into actionable business insights. Proficient in Python, SQL, and Tableau. Delivered analyses that saved $1.2M in operational costs and improved customer retention by 18%.
+
+SKILLS
+Languages & Tools: Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, MySQL), R
+Visualization: Tableau, Power BI, Looker, Matplotlib, Seaborn
+Data Engineering: ETL pipelines, Apache Spark, Airflow, dbt
+Cloud: AWS Redshift, Google BigQuery, Snowflake
+
+EXPERIENCE
+
+Data Analyst II | FinEdge Analytics, Austin, TX | Feb 2021 – Present
+- Built and maintained 15+ Tableau dashboards tracking KPIs for C-suite stakeholders
+- Designed SQL-based ETL pipelines processing 500GB+ of transaction data daily
+- Identified $1.2M in annual cost savings by analyzing vendor contract inefficiencies
+- Conducted cohort analyses revealing churn patterns, enabling targeted retention campaigns that reduced churn by 18%
+
+Data Analyst | RetailCo, Dallas, TX | Jul 2019 – Jan 2021
+- Analyzed customer purchase behavior using Python and SQL for a retail chain with 300+ locations
+- Created weekly/monthly automated reports using Python (Pandas) and emailed to 20+ stakeholders
+- Partnered with marketing team to evaluate campaign ROI, improving ad spend efficiency by 22%
+- Cleaned and validated data from 5+ disparate sources to ensure reporting accuracy
+
+EDUCATION
+B.S. in Statistics | University of Texas at Austin | 2019
+GPA: 3.8/4.0 | Honors Thesis: "Predictive Modeling of Customer Lifetime Value"
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate | 2021
+- Tableau Desktop Specialist | 2022
+- AWS Certified Data Analytics – Specialty | 2023
+
+PROJECTS
+Customer Churn Prediction Model (github.com/marcuschen-data/churn-model)
+- Built a logistic regression model predicting churn with 87% accuracy using Python and scikit-learn
+- Deployed model as a REST API using Flask; integrated with CRM dashboard

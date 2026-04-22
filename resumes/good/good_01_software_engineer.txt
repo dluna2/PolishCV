@@ -1,0 +1,37 @@
+JAMES WHITFIELD
+San Francisco, CA | (415) 555-0192 | james.whitfield@email.com | linkedin.com/in/jameswhitfield | github.com/jwhitfield
+
+SUMMARY
+Results-driven Software Engineer with 6 years of experience building scalable web applications and microservices. Proficient in Python, Java, and JavaScript. Proven track record of reducing system latency by 40% and improving deployment frequency through CI/CD pipeline optimization.
+
+SKILLS
+Languages: Python, Java, JavaScript (ES6+), TypeScript, SQL
+Frameworks: Django, Spring Boot, React, Node.js
+Tools: Docker, Kubernetes, Jenkins, Git, AWS (EC2, S3, Lambda), PostgreSQL, Redis
+
+EXPERIENCE
+
+Senior Software Engineer | Acme Tech Inc., San Francisco, CA | Jan 2021 – Present
+- Led backend development of a high-traffic e-commerce platform serving 2M+ monthly users
+- Reduced API response times by 40% by implementing Redis caching and database query optimization
+- Mentored a team of 4 junior developers and conducted weekly code reviews
+- Architected migration from monolith to microservices, improving deployment frequency from monthly to weekly
+
+Software Engineer | BrightSoft Solutions, Oakland, CA | Jun 2018 – Dec 2020
+- Developed RESTful APIs using Django and PostgreSQL for a SaaS analytics platform
+- Built automated CI/CD pipelines with Jenkins and Docker, reducing deployment time by 30%
+- Collaborated with product managers and designers in Agile sprints (2-week cycles)
+- Wrote unit and integration tests achieving 85% code coverage
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley | 2018
+GPA: 3.7/4.0 | Dean's List (4 semesters)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2022)
+- Certified Kubernetes Administrator (CKA) (2023)
+
+PROJECTS
+Open-Source Scheduler (github.com/jwhitfield/scheduler)
+- Built a distributed task scheduler in Python with 500+ GitHub stars
+- Supports horizontal scaling via Redis pub/sub and handles 10K+ jobs/day
