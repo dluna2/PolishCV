@@ -1,0 +1,31 @@
+THOMAS GRANT
+Washington, DC | (703) 555-0287 | thomas.grant@email.com | linkedin.com/in/thomasgrant-sec
+
+SUMMARY
+Cybersecurity Analyst with 6 years of experience in threat detection, incident response, and vulnerability management for government and financial sector clients. Holds active Secret clearance. Detected and remediated breaches that prevented an estimated $4M+ in potential losses; reduced mean time to detect (MTTD) by 55%.
+
+CLEARANCE
+Active DoD Secret Clearance (2019–present)
+
+SKILLS
+Security Tools: Splunk, CrowdStrike Falcon, Tenable Nessus, Palo Alto XSOAR, Wireshark, Metasploit
+Frameworks: MITRE ATT&CK, NIST CSF, ISO 27001, STIG
+Domains: SOC operations (Tier 2/3), penetration testing, SIEM management, incident response, vulnerability management
+
+EXPERIENCE
+
+Senior Cybersecurity Analyst | Federal Cyber Solutions, Washington, DC | Aug 2020 – Present
+- Monitor and investigate security events for 3 federal agency clients using Splunk SIEM (10B+ events/day)
+- Led incident response for 4 major breach events; contained threats within avg of 2.1 hours (industry avg: 8+ hours)
+- Reduced MTTD from 4.2 hours to 1.9 hours by tuning SIEM correlation rules and implementing UEBA
+- Managed quarterly vulnerability assessment program scanning 5,000+ endpoints; reduced critical/high findings by 63%
+- Developed and delivered cybersecurity awareness training to 800+ government employees
+
+Cybersecurity Analyst | CapitalShield Financial, McLean, VA | Jun 2018 – Jul 2020
+- Performed Tier 2 SOC analysis, triaging 150+ alerts/day and escalating confirmed incidents
+- Conducted internal penetration tests on web applications identifying 12 critical vulnerabilities
+- Authored incident response playbooks for phishing, ransomware, and insider threat scenarios
+
+EDUCATION
+B.S. in Cybersecurity | George Mason University | 2018 | GPA: 3.7/4.0
+CERTIFICATIONS: CISSP | 2021 | CompTIA Security+ | 2018 | CEH | 2020

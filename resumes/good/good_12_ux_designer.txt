@@ -1,0 +1,31 @@
+ANNA PETROV
+San Francisco, CA | (415) 555-0639 | anna.petrov@email.com | portfolio: annapetrov.ux | linkedin.com/in/annapetrov
+
+SUMMARY
+User Experience Designer with 5 years of experience designing intuitive digital products for millions of users. Skilled in user research, interaction design, and prototyping. Redesigned onboarding flow that increased activation rate by 32% and reduced support tickets by 20%.
+
+SKILLS
+Design Tools: Figma, Sketch, Adobe XD, InVision, Zeplin
+Research: User interviews, usability testing, A/B testing, heuristic evaluation, card sorting
+Other: Wireframing, prototyping, design systems, accessibility (WCAG 2.1), HTML/CSS basics
+
+EXPERIENCE
+
+Senior UX Designer | SnapCart (E-commerce), San Francisco, CA | Mar 2021 – Present
+- Led UX redesign of mobile checkout flow; reduced cart abandonment by 28% and increased conversion by 18%
+- Redesigned onboarding experience; activation rate improved from 54% to 71% within 60 days
+- Conducted 30+ user interviews and usability tests per quarter to inform product roadmap
+- Built and maintained a design system of 120+ components used across 3 product teams
+
+UX Designer | Nexus Health App, San Jose, CA | Jun 2019 – Feb 2021
+- Designed patient-facing telehealth scheduling and appointment management features
+- Reduced average task completion time from 4.2 minutes to 1.8 minutes through iterative prototyping
+- Collaborated with engineering team in two-week sprints; participated in daily standups and sprint reviews
+
+EDUCATION
+B.F.A. in Interaction Design | California College of the Arts | 2019
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate | 2020
+- Nielsen Norman Group UX Certified | 2022

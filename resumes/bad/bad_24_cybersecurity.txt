@@ -1,0 +1,23 @@
+HACKERMAN (preferred name) - Real name: Steve P.
+
+CYBER RESUME:
+I am a self-taught cybersecurity expert with advanced knowledge in hacking, penetration testing, and vulnerability research. I prefer not to reveal all my skills up front because that's an operational security risk. I have ethical hacking experience that I cannot fully disclose due to the sensitive nature of my work.
+
+What I've done:
+- Found a vulnerability in a major company's website (reported anonymously, no response, so I posted it on Reddit)
+- Set up a home lab with Kali Linux
+- Completed like half of TryHackMe
+- Watch DEF CON talks on YouTube extensively
+- My friends always ask me to fix their computers
+
+Formal experience: IT desk support, 2022-2023. Left because they wouldn't let me do real security work.
+
+Education: No degree. "Degrees are just gatekeeping."
+
+Certifications: None. "Certs are just gatekeeping too."
+
+Skills: Kali Linux, Metasploit, Nmap, Wireshark, Python (beginner), feeling superior to people with certs
+
+Availability: Remote ONLY. Absolutely no on-site. No phone calls either – Teams/Slack messages only.
+
+Note: I will not pass background checks if criminal history is searched at state level. Will discuss.

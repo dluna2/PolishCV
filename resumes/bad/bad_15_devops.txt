@@ -1,0 +1,23 @@
+Dmitri K.
+Email: dk@dk.dk (yes this is real)
+GitHub: (private, will share selectively)
+
+DevOps??? / Cloud??? / SysAdmin / Linux Guy
+
+Been doing "DevOps stuff" for a few years. I hate the term DevOps. It's just systems administration with a marketing rebrand. Anyway I know Linux, Docker maybe, and I've poked around AWS. I have opinions about Kubernetes (it's overused).
+
+Jobs:
+Junior sysadmin somewhere (2020-2022, left due to toxic environment)
+IT support before that (not DevOps but learned some things)
+
+SKILLS (the real ones): Linux (I'm good), bash scripting (decent), Docker (beginner), AWS (free tier mostly), Git (basic), Python (I want to learn more)
+
+SKILLS (that I'll say I have if asked): Kubernetes, Terraform, CI/CD, Jenkins, Ansible
+
+Education: Self-taught. No degree. Online courses. YouTube.
+
+Certifications: None but planning to take AWS exam "soon"
+
+Blog: I have opinions about tech and post them online but won't share the link professionally.
+
+Culture fit note: I do not attend mandatory fun events. I will not join company sports leagues. I prefer async communication only.

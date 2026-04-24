@@ -1,0 +1,35 @@
+SAMUEL OSEI
+Austin, TX | (512) 555-0764 | samuel.osei@email.com | linkedin.com/in/samuelosei | github.com/samuelosei-devops
+
+SUMMARY
+DevOps Engineer with 6 years of experience building and maintaining CI/CD pipelines, cloud infrastructure, and monitoring systems. Expert in AWS, Terraform, and Kubernetes. Reduced infrastructure costs by 35% and improved deployment frequency from bi-weekly to multiple times per day.
+
+SKILLS
+Cloud: AWS (EC2, EKS, RDS, S3, Lambda, CloudFormation), GCP, Azure
+IaC: Terraform, Ansible, CloudFormation, Pulumi
+CI/CD: Jenkins, GitHub Actions, CircleCI, ArgoCD, Spinnaker
+Monitoring: Prometheus, Grafana, Datadog, PagerDuty, ELK Stack
+Containers: Docker, Kubernetes, Helm
+
+EXPERIENCE
+
+Senior DevOps Engineer | Nexus Fintech, Austin, TX | Apr 2020 – Present
+- Architected and managed AWS infrastructure supporting 10M+ daily active users
+- Reduced cloud infrastructure costs by 35% ($420K/year) through right-sizing, reserved instances, and Spot usage
+- Implemented GitOps workflow with ArgoCD; increased deployment frequency from bi-weekly to 10+ deploys/day
+- Built Kubernetes-based auto-scaling reducing p99 latency by 45% during traffic spikes
+- Established centralized observability platform (Prometheus + Grafana) with 200+ custom dashboards
+
+DevOps Engineer | CloudOps Agency, Dallas, TX | Jun 2018 – Mar 2020
+- Migrated 4 client monolith applications to AWS microservices architecture
+- Wrote Terraform modules for repeatable infrastructure provisioning across dev, staging, and prod environments
+- Automated AMI patching and security compliance checks reducing manual effort by 8 hours/week
+
+EDUCATION
+B.S. in Computer Science | University of Texas at Austin | 2018
+GPA: 3.6/4.0
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer – Professional | 2021
+- Certified Kubernetes Administrator (CKA) | 2022
+- HashiCorp Certified: Terraform Associate | 2023

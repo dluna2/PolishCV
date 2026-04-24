@@ -1,0 +1,31 @@
+SARAH JOHNSON
+Boston, MA | (617) 555-0762 | sarah.johnson@email.com | linkedin.com/in/sarahjohnson-cfa
+
+SUMMARY
+CFA-certified Financial Analyst with 6 years of experience in investment analysis, financial modeling, and portfolio management. Expertise in equity research and DCF valuation. Generated alpha of 3.2% annually above benchmark through rigorous fundamental analysis.
+
+SKILLS
+Financial Modeling: DCF, LBO, M&A, three-statement modeling
+Tools: Bloomberg Terminal, FactSet, Excel (VBA), Python, SQL
+Domains: Equity research, fixed income, risk analysis, portfolio management
+
+EXPERIENCE
+
+Senior Financial Analyst | Beacon Capital Partners, Boston, MA | Jan 2020 – Present
+- Covered 18 mid-cap technology equities; buy-side recommendations generated 3.2% alpha vs. S&P 500
+- Built detailed three-statement financial models for 10+ companies per quarter
+- Presented investment theses to portfolio managers and CIO in weekly investment committee meetings
+- Automated weekly reporting using Excel VBA, saving 6 hours of manual work per week
+
+Financial Analyst | MassMutual Investments, Springfield, MA | Jul 2018 – Dec 2019
+- Supported fixed income team managing $4.2B in AUM with credit analysis and bond pricing
+- Conducted sensitivity analyses and stress tests for portfolio risk management
+- Prepared client-facing quarterly performance reports for institutional investors
+
+EDUCATION
+B.S. in Finance | Boston College, Carroll School of Management | 2018
+GPA: 3.8/4.0 | Beta Gamma Sigma Honor Society
+
+CERTIFICATIONS
+- Chartered Financial Analyst (CFA) – Level III Passed | CFA Institute | 2021
+- Financial Modeling & Valuation Analyst (FMVA) | CFI | 2019

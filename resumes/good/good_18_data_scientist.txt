@@ -1,0 +1,33 @@
+NATALIE BROOKS
+New York, NY | (646) 555-0497 | natalie.brooks@email.com | linkedin.com/in/nataliebrooks-ds | github.com/nbrooks-ds
+
+SUMMARY
+Data Scientist with 5 years of experience building machine learning models and data pipelines for financial services and e-commerce. Proficient in Python, R, and cloud ML platforms. Deployed models that generated $3.5M in additional annual revenue and reduced fraud losses by 22%.
+
+SKILLS
+ML/AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, NLP (transformers, BERT)
+Languages: Python, R, SQL
+Data Engineering: Spark, Airflow, dbt, Kafka
+Cloud: AWS SageMaker, GCP Vertex AI, Databricks
+Visualization: Matplotlib, Seaborn, Plotly, Tableau
+
+EXPERIENCE
+
+Senior Data Scientist | Pinnacle Financial Group, New York, NY | Feb 2021 – Present
+- Built and deployed an XGBoost-based fraud detection model reducing fraud losses by 22% ($1.8M/year)
+- Developed a customer lifetime value (CLV) model used to target high-value acquisition campaigns; generated $3.5M in incremental revenue
+- Led a team of 3 data scientists; established model review and documentation standards
+- Built real-time model serving infrastructure on AWS SageMaker handling 5K+ predictions/second
+
+Data Scientist | ShopNow E-commerce, Jersey City, NJ | Aug 2019 – Jan 2021
+- Built recommendation engine using collaborative filtering; increased average order value by 14%
+- Developed NLP sentiment analysis model processing 50K+ customer reviews/week for product feedback loop
+- Automated feature engineering pipeline with Apache Airflow reducing model training prep time by 60%
+
+EDUCATION
+M.S. in Data Science | Columbia University | 2019 | GPA: 3.9/4.0
+B.S. in Mathematics | NYU | 2017 | GPA: 3.8/4.0
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty | 2022
+- Google Professional ML Engineer | 2023
