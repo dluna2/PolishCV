@@ -1,0 +1,47 @@
+ISABELLA FLORES
+Los Angeles, CA | isabella.flores@email.com | linkedin.com/in/isabellaflores | github.com/isabellaflores
+
+SUMMARY
+Recent graduate in Computer Engineering with experience building scalable web applications, backend services, and AI-powered features for internal tools. Skilled in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL systems. Strong communicator with a track record of delivering polished software through internships, research, and team projects.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, GenAI, LLM integration, cloud computing, enterprise applications, testing, CI/CD, scalable backend design
+
+EXPERIENCE
+
+Software Engineer Intern | Pacific Vertex, Remote | Jun 2025 – Sep 2025
+- Developed React-based interfaces for an internal support and approvals platform used by business operations teams
+- Built backend services in Node.js and Express for workflow status, knowledge search, and notification delivery
+- Integrated AI-powered suggestions and content generation into user workflows using external LLM APIs
+- Collaborated with product managers and designers to improve usability, accessibility, and feature clarity
+- Contributed test coverage and deployment scripts in a fast-paced Agile environment
+
+Machine Learning Applications Intern | USC Intelligent Systems Group, Los Angeles, CA | Jan 2025 – May 2025
+- Built Python applications to evaluate LLM outputs for summarization, classification, and semantic search tasks
+- Prototyped retrieval and ranking workflows for enterprise-style document assistance tools
+- Created dashboards to compare model quality, latency, and prompt strategies
+- Presented recommendations on safe and effective AI feature integration for internal applications
+
+EDUCATION
+B.S. in Computer Engineering | University of Southern California | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Support Navigator | github.com/isabellaflores/employee-support-navigator
+- Built an employee-facing support platform using React, Node.js, GraphQL, and DynamoDB
+- Designed chat, autocomplete, and AI-generated suggestion workflows for internal knowledge and support tasks
+- Implemented backend services for request tracking, user context, and audit history
+- Improved response quality with prompt evaluation and fallback handling for low-confidence outputs
+
+Operations Tracker Pro | github.com/isabellaflores/operations-tracker-pro
+- Created a Spring Boot and React internal application for service coordination, reporting, and task tracking
+- Built REST APIs, dashboards, and approval workflows for multi-team operations
+- Improved reliability through validation, logging, and integration testing

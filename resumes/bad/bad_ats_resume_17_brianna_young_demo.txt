@@ -1,0 +1,55 @@
+BRIANNA YOUNG
+Phoenix AZ | message me first | phone/email available if needed
+
+ABOUT ME
+Engineering student with internship experience across software, APIs, cloud tools, and AI-related workflow features. Enjoy building useful products, learning quickly, and supporting teams wherever needed. Looking for an opportunity with good culture and room to grow.
+
+FOCUS AREAS
+frontend backend AI cloud systems web apps testing teamwork communication delivery
+
+TOOLS + STACK
+React Node JavaScript Python Java Spring GraphQL FastAPI AWS GCP Docker Git Mongo Postgres Redis Cypress Postman and more
+
+EXPERIENCE SNAPSHOT
+Sonoran Digital Labs
+- built components for workflow tools
+- APIs and resolvers
+- suggestions and drafting with AI
+- improved performance
+- worked cross-functionally
+
+ASU Enterprise Technology
+- reporting and automation apps
+- document and transaction data
+- docs and tests
+- bug triage and validation
+
+EDUCATION
+Arizona State University
+Software Engineering
+Expected 2027
+good academic standing
+
+CERTS
+Oracle Java
+Google Cloud
+misc online learning
+
+PROJECTS / EXAMPLES
+Workplace Request Copilot
+- request assistant
+- summaries and suggestions
+- logging and workflow transitions
+- caching and monitoring
+
+Integration Service Gateway
+- API aggregation platform
+- validation and auth
+- shared business logic
+
+LEADERSHIP
+coordinated student project work
+ran planning and demos
+
+NOTE
+Resume kept broad intentionally for flexibility.

@@ -1,0 +1,46 @@
+SOFIA RAMIREZ
+Austin TX / sofia.ramirez@email.com |linkedin.com/in/sofiaramirez | github.com/sofiaramirez
+
+PERSONAL BRAND STATEMENT
+Engineer with energy for intuitive products, technical collaboration, and AI enhanced workflow innovation. Brings a balanced mix of frontend creativity, backend support, and enterprise minded thinking. Enjoys solving problems and partnering with cross functional groups.
+
+TOOLS
+Languages and things: JS, TS, Python, Java, SQL-ish
+Framework world: React, Node, services, Spring, GraphQL, Flask, cloud
+General topics: testing, CI/CD, APIs, scalable systems, prompt engineering, enterprise apps
+
+CAREER EXPERIECE
+BlueOrbit Software / intern / remote / 2025
+• Built employee facing screens and helped on planning platform workflows
+• Supported services, resolvers, recommendation ideas, and scheduling functions
+• Integrated generative AI style capabilities for summaries and drafts
+• Worked with PM/design and supported testing and launch readiness
+
+Civic Data Labs / backend internship / Austin / 2025
+• Created APIs and service connections for reporting type tools
+• Managed data in multiple stores and improved reliability practices
+• Wrote docs for the engineering team and shared patterns
+
+ACADEMICS
+UT Austin
+Computer Engineering BS / 2026 / solid GPA / relevant classes completed successfully
+
+CREDENTIALS
+Google cloud badge
+AWS badge
+
+PROJECTS 
+Ops Assistant AI
+• Full stack operations helper with smart suggestions and chat features
+• Used third party language model connections and fallback logic
+• Authentication and scalable APIs included
+
+Media Metadata Explorer
+• Search and analytics application for larger media related datasets
+• Added dashboards, filtering, ingest, query, and backend support
+
+COMMUNITY
+Women in Computing member
+• Interview prep, mentorship, collaborative workshops, peer support
+
+

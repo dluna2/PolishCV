@@ -1,0 +1,52 @@
+ETHAN KIM
+Seattle, WA | ethan.kim@email.com | linkedin.com/in/ethankim | github.com/ethankim
+
+SUMMARY
+Third-year Computer Science student with internship and project experience building modern full-stack applications using React, Node.js, Java, and Python. Experienced in developing internal tools, backend APIs, and AI-powered web features using GraphQL, Spring Boot, MongoDB, and cloud services. Strong problem-solving and communication skills with a passion for building reliable, high-impact software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Tailwind CSS
+Tools: AWS, Docker, Git, MongoDB, Firebase, PostgreSQL, Postman, Jest
+Concepts: API design, internal tools, scalable systems, NoSQL, GenAI, LLM applications, algorithms, testing, Agile development
+
+EXPERIENCE
+
+Software Engineering Intern | NorthPeak Technologies, Bellevue, WA | Jun 2025 – Sep 2025
+- Built React-based interfaces for an internal workflow platform used by HR and finance stakeholders
+- Implemented backend APIs in Node.js and Express to support approvals, notifications, and reporting features
+- Added AI-powered content generation for internal templates using LLM APIs and prompt engineering techniques
+- Reduced page load time by 22% through frontend optimization and lazy loading strategies
+- Worked cross-functionally with engineers, designers, and product managers in 2-week sprint cycles
+
+Full-Stack Developer Intern | Campus Digital Services, Seattle, WA | Jan 2025 – May 2025
+- Developed student-service web tools using React, GraphQL, and MongoDB for appointment and document tracking
+- Created reusable UI components and form validation logic that improved usability and reduced support tickets
+- Built backend integrations with third-party calendar and notification services
+- Wrote automated tests and contributed to code reviews and deployment documentation
+
+EDUCATION
+B.S. in Computer Science | University of Washington | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures and Algorithms, Database Systems, Operating Systems, Computer Networks, Human-Computer Interaction
+
+CERTIFICATIONS
+- AWS Academy Cloud Foundations (2025)
+- Oracle Java Foundations Associate (2024)
+
+PROJECTS
+
+Enterprise Helpdesk Copilot | github.com/ethankim/helpdesk-copilot
+- Built an employee-facing support application with React, Node.js, GraphQL, and MongoDB
+- Implemented chat-based assistance, smart reply suggestions, and document summarization using LLM APIs
+- Designed backend services to manage tickets, conversation history, and knowledge-base retrieval
+- Deployed the app on AWS with containerized services and monitoring dashboards
+
+Team Sync Portal | github.com/ethankim/team-sync-portal
+- Created an internal team coordination tool with Spring Boot, React, and PostgreSQL
+- Built REST APIs for task assignment, activity feeds, and reporting features
+- Improved data retrieval efficiency through query optimization and caching
+
+LEADERSHIP
+Engineering Project Lead | UW Software Builders Club | Sep 2024 – Present
+- Led a team of 5 students building internal applications for student organizations
+- Coordinated sprint planning, task delegation, and technical design reviews

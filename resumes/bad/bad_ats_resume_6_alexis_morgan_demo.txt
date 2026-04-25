@@ -1,0 +1,50 @@
+ALEXIS MORGAN
+New York, NY | alexis.morgan@email.com | linkedin.com/in/alexismorgan | github.com/alexismorgan
+
+PROFILE
+Smart builder who has done lots of computer stuff and team projects and research and probably can learn anything fast. Likes product thinking, helping people, moving quickly, and working on interesting platforms. Looking for something in software, apps, innovation, tools, media, or whatever is a fit.
+
+SKILL
+Coding: JS, TS, Java, Python, SQL-ish
+Other: cloud, APIs, design, testing, databases, internet systems, AI things, prompts, teamwork, leadership, problem solving
+Favorite tools: React maybe, Node maybe, Spring, Graph stuff, Mongo sometimes, AWS/GCP, Docker, GitHub
+
+HIGHLIGHTS
+Intern @ BeaconWorks | summer
+- Helped out on several important screens for internal operations
+- Touched front end and some back end whenever needed
+- Sat in product meetings and made updates based on comments
+- Improved things for users
+- Worked on smart form ideas with AI
+- Did testing too
+
+Research Lab @ Columbia | during school
+- Worked on AI experiments and search ideas
+- Compared models/prompts and wrote notes
+- Made small tools and demo pages
+- Looked at latency and quality and related items
+
+ACADEMICS
+Columbia University
+Computer Science
+2026 maybe
+GPA available if needed
+
+BADGES / EXTRAS
+AWS thing
+Mongo course
+Other online learning
+
+THINGS I MADE
+WorkFlow AI Console
+- full stack workflow app
+- chat and autocomplete
+- APIs and tracking
+- deployed somewhere
+
+Service Integration Hub
+- app for connecting systems
+- dashboards and monitoring
+- better reliability
+
+

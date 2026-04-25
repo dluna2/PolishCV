@@ -1,0 +1,47 @@
+ALEXIS MORGAN
+New York, NY | alexis.morgan@email.com | linkedin.com/in/alexismorgan | github.com/alexismorgan
+
+SUMMARY
+Early-career Software Engineer with internship, research, and project experience building full-stack applications, internal tools, and AI-powered workflows. Strong background in JavaScript, React, Node.js, Python, and Java, with hands-on experience in Spring Boot, GraphQL, NoSQL databases, and cloud platforms. Known for strong problem-solving, clear communication, and delivering polished software in collaborative environments.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, scalable applications, internal tools, data structures, algorithms, CI/CD, testing
+
+EXPERIENCE
+
+Software Engineering Intern | BeaconWorks, Remote | Jun 2025 – Aug 2025
+- Developed React and TypeScript features for an internal operations platform used to manage employee requests and approvals
+- Built Node.js and GraphQL backend services for workflow status, notifications, and audit logging
+- Integrated LLM-powered smart suggestions into form entry flows, reducing repetitive manual input for internal users
+- Collaborated with product managers and designers to refine UX flows and improve usability across high-traffic screens
+- Added automated tests and deployment checks that improved release confidence and reduced regression issues
+
+Research Intern, Intelligent Systems Lab | Columbia University | Sep 2024 – May 2025
+- Built Python pipelines for retrieval-augmented generation experiments using vector search and prompt evaluation
+- Measured quality, latency, and relevance across multiple LLM workflows and summarized findings for faculty and peers
+- Developed lightweight web interfaces to compare answer quality across prompts and models
+- Helped document best practices for AI-assisted enterprise search and knowledge tools
+
+EDUCATION
+B.S. in Computer Science | Columbia University | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- MongoDB Node.js Developer Path (2025)
+
+PROJECTS
+
+WorkFlow AI Console | github.com/alexismorgan/workflow-ai-console
+- Built an employee-facing productivity application using React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart suggestion experiences for AI-assisted workflow completion
+- Implemented backend APIs for session handling, prompt history, and workflow tracking
+- Deployed services to AWS and supported scalable testing across multiple user roles
+
+Service Integration Hub | github.com/alexismorgan/service-integration-hub
+- Developed a Spring Boot and React platform to connect internal and third-party services through secure APIs
+- Added role-based dashboards, service health monitoring, and data sync workflows
+- Improved API response consistency through validation, retries, and structured error handling

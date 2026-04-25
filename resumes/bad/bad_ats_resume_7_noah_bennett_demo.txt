@@ -1,0 +1,63 @@
+NOAH BENNETT
+Chicago /  github.com/noahbennett
+
+ABOUT ME
+Builder, collaborator, student, engineer, thinker. I enjoy making useful products and solving hard problems with software and communication. Looking for growth and strong culture. Interested in front-end, back-end, AI, cloud, operations, product, and startup-style ownership.
+
+ABILITIES
+- Web
+- APIs
+- Java and Python
+- Cloud
+- Databases
+- Fast learner
+- Team player
+- Agile
+- Leadership
+- General engineering
+
+TOOLS
+React / Node / Express / Spring / GraphQL / FastAPI / AWS / GCP / Docker / Mongo / Postgres / Redis / testing / debugging / apps / internal tools / AI workflows
+
+EXPERIENCE 
+Stratus Labs | Intern | 2025
+- Built pieces of an internal platform
+- Worked with design and PM
+- Added recommendations with AI
+- Helped performance
+- Joined sprint work
+
+Midwest Innovation Center | Developer Intern | 2025
+- Supported reporting apps
+- Worked in services and databases
+- Wrote docs and tests
+- Helped with deploys
+
+SCHOOL
+UIC
+BS Computer Science
+Expected graduation: later
+Coursework: lots of standard CS classes
+
+CERTIFICATIONS
+Oracle Java
+Google Cloud
+etc.
+
+PROJECT 
+Ops Copilot Dashboard
+- assistant for internal operations
+- summaries and suggestions
+- state management and storage
+- caching/monitoring
+
+Internal API Gateway
+- unified service layer
+- auth and validation
+- common logic
+
+LEADERSHIP / OTHER
+Led some students
+Ran meetings
+Presented demos
+

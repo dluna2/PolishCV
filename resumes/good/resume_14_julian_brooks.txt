@@ -1,0 +1,52 @@
+JULIAN BROOKS
+Seattle, WA | julian.brooks@email.com | linkedin.com/in/julianbrooks | github.com/julianbrooks
+
+SUMMARY
+Third-year Computer Science student with experience developing frontend applications, backend APIs, and AI-enabled workflow tools for internal users. Proficient in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL databases. Brings strong ownership, collaboration, and problem-solving skills, with a focus on building scalable, reliable software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Firebase, Cypress
+Concepts: internal tooling, API development, LLM applications, scalable services, cloud platforms, algorithms, testing, debugging, cross-functional collaboration
+
+EXPERIENCE
+
+Frontend Engineering Intern | Cascade Logic, Seattle, WA | Jun 2025 – Aug 2025
+- Built responsive React components for an internal workflow suite used by employee operations teams
+- Integrated Node.js and GraphQL backend services into UI features for search, approvals, and task management
+- Added autocomplete and AI-assisted recommendations to improve repetitive user workflows
+- Improved frontend reliability through component tests, accessibility fixes, and structured bug triage
+- Worked closely with product and design partners to validate requirements and ship user-friendly solutions
+
+Software Developer Intern | UW Digital Services, Seattle, WA | Jan 2025 – May 2025
+- Built internal web tools using JavaScript, React, and Firebase to support service request and document routing workflows
+- Developed backend scripts and APIs for notifications, data processing, and user activity tracking
+- Gathered stakeholder requirements and prioritized enhancements based on user feedback
+- Reduced manual work by automating recurring administrative workflows through web-based tools
+
+EDUCATION
+B.S. in Computer Science | University of Washington | Expected 2027
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures and Algorithms, Software Design, Database Systems, Artificial Intelligence, Operating Systems, Human-Computer Interaction
+
+CERTIFICATIONS
+- Meta Front-End Developer Professional Certificate (2025)
+- AWS Academy Cloud Architecting (2025)
+
+PROJECTS
+
+AI Workflow Studio | github.com/julianbrooks/ai-workflow-studio
+- Built an internal workflow assistant with React, Node.js, GraphQL, and MongoDB
+- Designed intuitive chat and smart suggestion experiences for AI-powered employee workflows
+- Developed backend APIs for prompt storage, user sessions, analytics, and audit trails
+- Integrated external LLM services and built evaluation tools for response quality and latency
+
+Review Operations Hub | github.com/julianbrooks/review-operations-hub
+- Created a full-stack review and approval platform using Spring Boot, React, and PostgreSQL
+- Implemented dashboards, authentication, and scalable REST APIs for request and review workflows
+- Improved performance through API design refinements and database query optimization
+
+LEADERSHIP
+Technical Lead | Husky Builders Club | Sep 2024 – Present
+- Led student teams through planning, development, and demo delivery for full-stack applications
+- Coordinated milestone tracking, architecture reviews, and peer code reviews
