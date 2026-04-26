@@ -1,0 +1,32 @@
+RACHEL STONE
+Seattle, WA | (206) 555-0851 | rachel.stone@email.com | linkedin.com/in/rachelstone-pm
+
+SUMMARY
+Product Manager with 7 years of experience building consumer and enterprise SaaS products. Data-driven and customer-obsessed, with a track record of launching features used by millions. Grew product MAU from 200K to 1.4M and increased NPS from 32 to 61 within 18 months.
+
+SKILLS
+Product Tools: Jira, Confluence, Amplitude, Mixpanel, Figma, Pendo, LaunchDarkly
+Methodologies: Agile/Scrum, OKRs, Jobs-to-be-Done, continuous discovery
+Technical: SQL (proficient), API fundamentals, A/B testing, product analytics
+
+EXPERIENCE
+
+Senior Product Manager | Luminary SaaS, Seattle, WA | Jun 2020 – Present
+- Own product roadmap for core collaboration suite used by 1.4M monthly active users
+- Launched real-time co-editing feature; drove 23% increase in daily active usage within 90 days
+- Grew product MAU from 200K to 1.4M over 18 months by identifying and closing top user friction points
+- Improved NPS from 32 to 61 through systematic customer feedback loops and quarterly user research sprints
+- Managed cross-functional squad of 12 (engineers, designers, data analysts, QA)
+
+Product Manager | DataBridge Analytics, Redmond, WA | Jul 2017 – May 2020
+- Launched 3 major product features that contributed to 35% YoY revenue growth
+- Defined and tracked OKRs for 2 product lines; reported to VP of Product quarterly
+- Conducted 50+ customer discovery interviews to validate roadmap priorities
+
+EDUCATION
+B.S. in Information Systems | University of Washington | 2017
+GPA: 3.7/4.0 | Phi Beta Kappa
+
+CERTIFICATIONS
+- Certified Scrum Product Owner (CSPO) | Scrum Alliance | 2018
+- Pragmatic Institute Certified PM (PMMC) | 2020
