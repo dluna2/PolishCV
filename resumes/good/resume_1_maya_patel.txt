@@ -1,0 +1,51 @@
+MAYA PATEL
+San Jose, CA | maya.patel@email.com | linkedin.com/in/mayapatel | github.com/mayapatel
+
+SUMMARY
+Motivated Software Engineer and recent Computer Science graduate with experience building scalable web applications, AI-powered features, and internal productivity tools through internships, research, and academic projects. Proficient in JavaScript, React, Node.js, Python, and Java, with hands-on experience in GraphQL, Spring Boot, NoSQL databases, and cloud deployment. Strong collaborator with a track record of shipping high-quality software in fast-paced environments.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: Git, Docker, AWS, GCP, MongoDB, PostgreSQL, Redis, Jest, Cypress
+Concepts: REST APIs, GraphQL APIs, NoSQL, data structures, algorithms, CI/CD, GenAI, LLM integration, scalable application design
+
+EXPERIENCE
+
+Software Engineering Intern | CloudBridge Systems, San Francisco, CA | Jun 2025 – Aug 2025
+- Built employee-facing dashboard features in React and Node.js used by internal operations teams to manage workflow requests
+- Developed REST and GraphQL API endpoints for task status, approvals, and reporting, reducing manual processing time by 25%
+- Integrated OpenAI-powered smart text suggestions into internal forms, improving form completion speed and consistency
+- Partnered with product managers and designers to iterate on UX flows, accessibility, and performance improvements
+- Wrote unit and integration tests and contributed to CI/CD workflows using GitHub Actions
+
+Undergraduate Research Assistant, Applied AI Lab | University of California, Davis | Sep 2024 – May 2025
+- Prototyped LLM-powered semantic search and question-answering workflows for enterprise-style document retrieval
+- Built Python services to preprocess structured and unstructured data for retrieval pipelines using vector embeddings
+- Evaluated prompt quality, latency, and accuracy across multiple models and presented findings to faculty and student teams
+- Collaborated with 3 researchers to design experiments and improve reliability of AI-generated responses
+
+Teaching Assistant, Data Structures | University of California, Davis | Jan 2024 – May 2024
+- Guided 60+ students on algorithms, recursion, graph traversal, and complexity analysis
+- Led weekly debugging sessions and code reviews focused on clean code, testing, and problem solving
+
+EDUCATION
+B.S. in Computer Science | University of California, Davis | 2026
+GPA: 3.8/4.0 | Dean’s List | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Machine Learning, Distributed Systems
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- GraphQL with React: Professional Certificate (2025)
+
+PROJECTS
+
+AI Workflow Assistant | github.com/mayapatel/ai-workflow-assistant
+- Built an enterprise-style internal productivity tool with React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart suggestion UX flows powered by LLM APIs
+- Implemented role-based access, workflow history, and prompt logging for reliability and auditing
+- Deployed cloud-hosted services and supported 1,000+ test interactions during demo evaluation
+
+Knowledge Hub API Platform | github.com/mayapatel/knowledge-hub
+- Developed Spring Boot microservices with GraphQL and REST endpoints for document metadata and search
+- Integrated third-party APIs and NoSQL storage to support scalable content retrieval
+- Improved average query performance by 30% through indexing and caching strategies

@@ -1,0 +1,50 @@
+PRIYA SHAH
+Los Angeles, CA | priya.shah@email.com | linkedin.com/in/priyashah | github.com/priyashah
+
+SUMMARY
+Aspiring Software Engineer and recent graduate with internship and project experience building enterprise-style web applications and AI-enabled tools. Skilled in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL systems. Strong foundation in data structures, algorithms, and API design, with a passion for delivering reliable, user-focused applications that improve productivity at scale.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Redis, CI/CD
+Concepts: LLM applications, GenAI integration, internal tools, REST APIs, GraphQL APIs, cloud infrastructure, scalable design, testing and debugging
+
+EXPERIENCE
+
+Software Engineering Intern | Vertex Labs, Los Angeles, CA | Jun 2025 – Sep 2025
+- Built employee-facing product features in React and Node.js for workflow automation and reporting
+- Designed and implemented backend APIs to support approvals, content updates, and system integrations
+- Integrated LLM-powered smart suggestions and content generation into internal tools for business users
+- Improved reliability by adding input validation, logging, and automated test coverage
+- Collaborated with cross-functional partners to deliver features on time in an Agile environment
+
+AI Applications Intern | Human-Centered Computing Lab, Los Angeles, CA | Feb 2025 – May 2025
+- Developed Python services to test and evaluate LLM outputs for summarization, classification, and semantic retrieval
+- Built lightweight interfaces to compare prompt strategies and measure answer quality across models
+- Presented technical tradeoffs and experimental results to faculty and student developers
+
+EDUCATION
+B.S. in Computer Science | University of Southern California | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Machine Learning, Software Engineering, Database Systems, Cloud Computing, Natural Language Processing
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Internal Knowledge Assistant | github.com/priyashah/internal-knowledge-assistant
+- Built a full-stack enterprise knowledge assistant using React, Node.js, GraphQL, and MongoDB
+- Implemented chat-based workflows, semantic search, and AI-generated answer suggestions using LLM APIs
+- Developed backend services for document ingestion, access control, and response traceability
+- Designed for scalable usage with caching, asynchronous processing, and third-party service integrations
+
+TaskFlow Enterprise | github.com/priyashah/taskflow-enterprise
+- Created an internal task and approvals platform with Spring Boot, React, and PostgreSQL
+- Built REST APIs and role-based dashboards to manage requests across multiple teams
+- Added analytics and reporting views to help stakeholders make data-driven decisions
+
+ACTIVITIES
+Association for Computing Machinery | Member | 2023 – Present
+- Participated in coding interview prep, engineering workshops, and collaborative software projects

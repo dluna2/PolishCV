@@ -1,0 +1,47 @@
+SYDNEY PARKER
+Philadelphia, PA | sydney.parker@email.com | linkedin.com/in/sydneyparker | github.com/sydneyparker
+
+SUMMARY
+Recent Computer Science graduate with experience building employee-facing web applications, backend APIs, and AI-powered workflow features through internships and engineering projects. Proficient in JavaScript, React, Node.js, Python, and Java, with hands-on experience in Spring Boot, GraphQL, NoSQL databases, and AWS. Strong problem-solving and collaboration skills with a focus on building scalable, high-quality enterprise applications.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, internal tools, enterprise applications, data structures, algorithms, testing, CI/CD
+
+EXPERIENCE
+
+Software Engineering Intern | Liberty Stack Solutions, Remote | Jun 2025 – Aug 2025
+- Built React and TypeScript features for an internal employee portal used to manage approvals, requests, and operational reporting
+- Developed Node.js and GraphQL backend services for workflow state, notifications, and searchable activity logs
+- Integrated LLM-powered smart suggestions into support forms and internal knowledge workflows
+- Collaborated with product managers and designers to improve UX flows, accessibility, and release readiness
+- Added automated tests and deployment checks that reduced regression issues during feature launches
+
+Research Assistant, Intelligent Applications Lab | Drexel University | Sep 2024 – May 2025
+- Built Python services for retrieval-augmented generation experiments focused on enterprise-style search and question answering
+- Evaluated model relevance, latency, and response quality across multiple prompt strategies
+- Developed dashboards to compare LLM output quality and summarize experiment findings for faculty and student teams
+- Documented AI integration best practices for internal productivity and knowledge tools
+
+EDUCATION
+B.S. in Computer Science | Drexel University | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Apollo GraphQL Associate Certification (2025)
+
+PROJECTS
+
+Workplace AI Console | github.com/sydneyparker/workplace-ai-console
+- Built an employee-facing AI workflow application using React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart recommendation experiences for internal support and request workflows
+- Implemented backend APIs for prompt history, audit logs, and user session management
+- Deployed services to AWS and supported multi-user testing across multiple workflow scenarios
+
+Service Mesh Integrator | github.com/sydneyparker/service-mesh-integrator
+- Developed a Spring Boot and React platform for integrating internal and third-party services through unified APIs
+- Built dashboards, monitoring views, and secure service coordination workflows
+- Improved API reliability through validation, retry handling, and structured error management

@@ -1,0 +1,55 @@
+TYLER MITCHELL
+Nashville TN | please message first | direct contact available if needed
+
+PROFILE
+Engineering student with experience in apps, APIs, cloud tools, and AI workflow features. Enjoy building useful products, learning fast, and contributing across the stack. Looking for a place with strong culture and good problems to solve.
+
+AREAS OF FOCUS
+frontend backend web apps cloud AI systems delivery collaboration debugging testing
+
+TOOLS / STACK
+React Node JavaScript Python Java Spring GraphQL FastAPI AWS GCP Docker Git Mongo Postgres Redis Cypress Postman and more
+
+WORK SNAPSHOT
+Riverbend Digital
+- built workflow components
+- created APIs and resolvers
+- added drafting and suggestions with AI
+- improved responsiveness
+- worked across teams
+
+Vanderbilt Enterprise Technology
+- reporting and automation apps
+- document and transactional data
+- docs and test cases
+- deploy validation and bug triage
+
+EDUCATION
+Vanderbilt University
+Software Engineering
+Expected 2027
+strong academics
+
+CERTS
+Oracle Java
+Google Cloud
+misc coursework
+
+PROJECTS
+Workflow Request Copilot
+- request assistant
+- summaries and suggestions
+- prompt logs and workflow state
+- caching and monitoring
+
+Unified Service Gateway
+- API aggregation layer
+- auth and validation
+- centralized business logic
+
+LEADERSHIP
+led student app projects
+handled planning and demos
+
+NOTE
+Resume is broad on purpose because I am flexible for many roles.

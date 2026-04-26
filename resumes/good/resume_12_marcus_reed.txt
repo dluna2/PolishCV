@@ -1,0 +1,52 @@
+MARCUS REED
+Austin, TX | marcus.reed@email.com | linkedin.com/in/marcusreed | github.com/marcusreed
+
+SUMMARY
+Third-year Software Engineering student with internship experience building full-stack applications, scalable APIs, and AI-enhanced internal tools. Proficient in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL technologies. Strong problem-solver with experience collaborating across engineering, design, and product teams to deliver high-quality software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API design, LLM applications, enterprise workflow tools, cloud infrastructure, scalable systems, algorithms, testing, debugging, Agile development
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Longhorn Digital Systems, Austin, TX | May 2025 – Aug 2025
+- Built employee-facing React interfaces for a workflow platform used to manage approvals and operational requests
+- Developed Node.js APIs and GraphQL resolvers for search, task routing, notifications, and status tracking
+- Added AI-generated drafting and smart suggestions using third-party LLM APIs for internal productivity use cases
+- Improved page responsiveness through component optimization and reduced unnecessary data fetching
+- Collaborated with designers and engineers in sprint planning, implementation, and launch reviews
+
+Software Developer Intern | UT Enterprise Apps, Austin, TX | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and student operations applications
+- Integrated PostgreSQL and MongoDB data layers for transactional and document-based workflows
+- Wrote API documentation, test cases, and onboarding notes for student developers
+- Assisted with deployment validation and bug triage for internal tools used across campus teams
+
+EDUCATION
+B.S. in Software Engineering | The University of Texas at Austin | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Architecture, Artificial Intelligence, Web Development
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Enterprise Request Copilot | github.com/marcusreed/enterprise-request-copilot
+- Built an internal request assistant with React, Node.js, GraphQL, and MongoDB
+- Implemented chat, summarization, and smart suggestion workflows powered by LLM APIs
+- Designed backend services for prompt logging, request history, and workflow state transitions
+- Added monitoring and caching features to improve reliability during testing and demos
+
+Workflow Integration Gateway | github.com/marcusreed/workflow-integration-gateway
+- Developed a Spring Boot service layer to aggregate internal and third-party APIs into a unified platform
+- Added authentication, validation, and retry handling for downstream integrations
+- Reduced frontend integration effort by centralizing shared business logic and data access
+
+LEADERSHIP
+Project Lead | UT App Builders | Sep 2024 – Present
+- Led a team of 5 students in developing internal tools for student organizations
+- Coordinated design reviews, sprint planning, and technical demos

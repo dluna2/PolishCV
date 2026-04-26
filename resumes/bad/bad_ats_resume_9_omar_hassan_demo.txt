@@ -1,0 +1,54 @@
+OMAR HASSAN
+Atlanta | omar.hassan@email.com
+
+SUMMARY OF VALUE
+Motivated technical contributor with demonstrated initiative in software, AI, and enterprise-style problem solving. Able to collaborate, execute, ideate, and deliver. Interested in organizations where speed, ownership, product sense, and learning matter. Can support UI, services, integrations, and whatever else is needed.
+
+KEYWORDS / TOPICS / FOCUS
+software engineer, builder, innovation, cross-functional, scalable, AI, cloud, internal products, APIs, teamwork, communication, ownership, quality, problem-solving
+
+TOOLBOX
+React Node JavaScript Java Python Spring GraphQL Next Mongo Postgres Redis Firebase AWS GCP Docker Git testing
+
+PROFESSIONAL HISTORY
+Apex Lane Technologies | internship
+- created components for productivity tools
+- implemented APIs/endpoints
+- added smart reply ideas
+- wrote docs and tests
+- collaborated daily
+
+Georgia Tech Enterprise Systems | backend internship
+- developed services for workflow/reporting
+- integrated data stores
+- added validation and monitoring
+- helped releases
+
+EDUCATIONAL BACKGROUND
+Georgia Tech
+Computer Science
+Expected 2027
+High GPA
+
+CERTS
+AWS
+Azure AI
+
+PROJECT COLLECTION
+Employee Knowledge Copilot
+- AI support tool
+- recommendation and content generation
+- source ingestion
+- service integrations
+
+Unified Workflow Manager
+- approvals and routing
+- dashboards
+- centralized integrations
+
+LEADERSHIP
+HackGT team lead
+- planning
+- reviews
+- milestones
+

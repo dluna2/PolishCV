@@ -1,0 +1,49 @@
+ETHAN KIM
+Seattle Washington | linkedin.com/in/ethankim | github.com/ethankim
+
+
+ABOUT ME
+Builder of useful technology products with internship exposure, club leadership, and a drive to make modern experiences better. Interested in full stack work, user friendly solutions, scalable ideas, and business impact. Strong communicator, strong collaborator, highly motivated, and always ready for the next challenge.
+
+SKILLS
+Front end / Back end / APIs / Cloud / Data / Team player / Fast mover / Product mindset / AI curious
+React / JS / Java / Python / NoSQL / services / integrations / dashboards / web applications
+
+PROFESSIONAL EXPERIENCE
+NorthPeak Technologies / intern / Bellevue area / 2025 summer
+- Built workflow interfaces and helped support platform functionality
+- Implemented APIs and notifications for business operations use cases
+- Added AI generation ideas into templates and content workflows
+- Improved performance and participated in agile ceremonies
+
+Campus Digital Services / intern / Seattle / early 2025
+- Contributed to student service applications and internal web tools
+- Created reusable components and validation related features
+- Connected external services and wrote testing/documentation as needed
+
+EDUCATION
+University of Washington
+Computer Science degree in progress, expected sometime in 2027
+Relevant classes include systems, networks, HCI, algorithms, databases, and more
+
+AWARDS / CERTIFICATIONSS
+AWS academy item
+Oracle Java credential
+
+PERSONAL PROJECTS
+Enterprise Helpdesk Copilot
+- Support app for employees with chat, reples, and summaries
+- Included cloud deployment monitoring and data storage pieces
+- Managed ticket and knowledge style backend functionality
+
+Team Sync Portal
+- Team coordination solution with task and activity capabilities
+- Included service layer work and some database tuning
+
+LEADERSHIP / CAMPUS
+Software Builders Club lead
+- Ran planning sessions, delegated work, reviewed designs, and helped team ship projects
+
+OTHER
+Visual timeline version available in personal website
+Formatting intentionally modern and minimal

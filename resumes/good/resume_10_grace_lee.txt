@@ -1,0 +1,47 @@
+GRACE LEE
+San Diego, CA | grace.lee@email.com | linkedin.com/in/gracelee | github.com/gracelee
+
+SUMMARY
+Recent graduate in Software Engineering with internship and project experience building cloud-based internal applications, backend APIs, and AI-powered user experiences. Experienced with React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL databases. Strong foundation in algorithms, modern design patterns, and scalable system development, with a passion for shipping high-quality enterprise products.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Redis, GitHub Actions, Cypress
+Concepts: enterprise applications, cloud computing, internal tools, GenAI, LLM integration, REST APIs, GraphQL APIs, scalable architecture, testing, Agile
+
+EXPERIENCE
+
+Software Engineering Intern | Pacific Core Systems, San Diego, CA | May 2025 – Aug 2025
+- Developed React features for an internal enterprise application used to manage employee requests and workflow approvals
+- Built Node.js and GraphQL services to power dashboards, search, and task state updates
+- Integrated LLM-assisted content generation and smart suggestions into workflow forms and support pages
+- Worked with designers and product managers to refine intuitive UX flows for AI-powered features
+- Improved release quality through automated testing, code reviews, and deployment checklists
+
+Application Development Intern | Triton Technology Services, San Diego, CA | Jan 2025 – Apr 2025
+- Built Java and Spring Boot backend services for internal reporting and workflow automation tools
+- Integrated third-party APIs and internal data services to streamline operational processes
+- Used MongoDB and PostgreSQL to support both transactional and document-based application needs
+- Added error handling and logging to improve service reliability and maintainability
+
+EDUCATION
+B.S. in Software Engineering | University of California, San Diego | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Cloud Computing, Natural Language Processing
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2025)
+- Databricks Generative AI Fundamentals (2025)
+
+PROJECTS
+
+AI Service Desk | github.com/gracelee/ai-service-desk
+- Built a full-stack employee service platform using React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart suggestion experiences to support internal requests and knowledge retrieval
+- Developed backend APIs for ticket state, user context, prompt logging, and service integrations
+- Deployed cloud-hosted services and validated scalability through load and integration testing
+
+Enterprise Task Stream | github.com/gracelee/enterprise-task-stream
+- Created a React and Spring Boot workflow platform for internal task management and analytics
+- Built REST APIs, dashboards, and reporting views for stakeholders across multiple functions
+- Improved data visibility and decision-making through searchable activity histories and summary metrics

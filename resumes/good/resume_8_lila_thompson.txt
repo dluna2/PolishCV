@@ -1,0 +1,47 @@
+LILA THOMPSON
+Boston, MA | lila.thompson@email.com | linkedin.com/in/lilathompson | github.com/lilathompson
+
+SUMMARY
+Recent Computer Science graduate with experience building scalable full-stack applications and AI-powered internal tools through internships and software projects. Skilled in JavaScript, React, Node.js, Python, Java, Spring Boot, GraphQL, and NoSQL systems. Strong collaborator with a passion for building intuitive user experiences and reliable backend services that improve productivity.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, cloud computing, GenAI applications, LLM integration, enterprise tools, data structures, algorithms, CI/CD
+
+EXPERIENCE
+
+Software Engineer Intern | Harbor Digital, Boston, MA | Jun 2025 – Sep 2025
+- Built React-based user flows for an internal employee service portal supporting approvals, document requests, and support workflows
+- Developed backend APIs in Node.js and Express for search, notifications, and workflow tracking
+- Integrated AI-powered smart suggestions and text generation into request forms to improve completion speed
+- Worked closely with product and design teams to test prototypes and launch production-ready features
+- Contributed unit tests, bug fixes, and deployment scripts in a collaborative engineering environment
+
+AI Engineering Intern | Northeastern Data Lab, Boston, MA | Jan 2025 – May 2025
+- Developed Python applications for evaluating LLM output quality across summarization and question-answering tasks
+- Built retrieval and ranking workflows for enterprise-style document search prototypes
+- Created dashboards to compare prompt performance, latency, and user feedback across experiments
+- Presented technical recommendations on AI integration patterns to student researchers and faculty sponsors
+
+EDUCATION
+B.S. in Computer Science | Northeastern University | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Human-Computer Interaction, Machine Learning, Cloud Software Development
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Apollo GraphQL Associate Certification (2025)
+
+PROJECTS
+
+AI Request Assistant | github.com/lilathompson/ai-request-assistant
+- Built an internal request automation platform using React, Node.js, GraphQL, and DynamoDB
+- Designed AI-powered chat and autocomplete flows for handling employee questions and workflow guidance
+- Implemented backend services for request state, analytics, and integration with third-party APIs
+- Improved response quality through prompt evaluation and fallback handling for low-confidence outputs
+
+Team Operations Portal | github.com/lilathompson/team-operations-portal
+- Developed a Spring Boot and React internal application for task tracking and service coordination
+- Built REST APIs, dashboards, and reporting features for multi-team operational workflows
+- Improved system reliability through structured logging, validation, and integration tests
