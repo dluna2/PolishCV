@@ -1,0 +1,52 @@
+SYDNEY PARKER
+Philadelphia area | easiest contact is online | email/phone can be provided later
+
+ABOUT
+Recent grad with experience across software, AI, APIs, and internal systems. I like useful products, smart teams, and solving problems. Open to many kinds of engineering opportunities and happy to help wherever needed.
+
+SKILL THEMES
+coding, cloud, databases, AI, teamwork, communication, architecture, product thinking, testing, debugging, learning quickly
+
+TECH LIST
+JavaScript TypeScript Python Java SQL React Node Express Spring GraphQL Next AWS Docker Git Mongo Dynamo Postgres Jest CI/CD tools
+
+EXPERIENCE
+Liberty Stack Solutions | intern
+- built internal portal features
+- worked on approvals and reporting
+- touched backend workflow services
+- helped with AI suggestions
+- worked with PM and design
+- added tests and release checks
+
+Drexel research lab
+- built search and question answering experiments
+- compared prompts and response quality
+- made dashboards and summaries
+- documented findings for the group
+
+EDUCATION
+Drexel University
+Computer Science
+2026
+good GPA
+
+CERTIFICATIONS
+AWS
+GraphQL
+other learning
+
+PROJECTS
+Workplace AI Console
+- employee workflow app
+- chat and recommendations
+- audit logs and sessions
+- deployed to cloud
+
+Service Mesh Integrator
+- platform for connecting services
+- dashboards and monitoring
+- validation and retry handling
+
+OTHER
+Can tailor this resume later for a more specific role.

@@ -1,0 +1,47 @@
+ADRIAN WELLS
+Denver, CO | adrian.wells@email.com | linkedin.com/in/adrianwells | github.com/adrianwells
+
+SUMMARY
+Recent Computer Science graduate with experience building internal web applications, backend APIs, and AI-powered workflow features through internships and academic projects. Proficient in JavaScript, React, Node.js, Python, and Java, with hands-on experience using Spring Boot, GraphQL, NoSQL databases, and AWS. Strong problem-solving and communication skills with a focus on shipping scalable, reliable products.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, internal tools, enterprise applications, scalable systems, testing, CI/CD, data structures and algorithms
+
+EXPERIENCE
+
+Software Engineering Intern | Summit Grid Technologies, Remote | Jun 2025 – Aug 2025
+- Built React and TypeScript interfaces for an internal operations platform used to manage approvals, requests, and reporting
+- Developed Node.js and GraphQL backend services for task routing, notifications, and workflow state management
+- Integrated AI-powered smart suggestions into employee-facing forms using third-party LLM APIs
+- Worked closely with product managers and designers to improve usability, accessibility, and feature adoption
+- Added automated tests and release checks that improved deployment quality and reduced regression issues
+
+Research Assistant, Applied Systems Lab | Colorado State University | Sep 2024 – May 2025
+- Built Python services for retrieval-augmented generation experiments focused on enterprise-style knowledge search
+- Evaluated latency, relevance, and answer quality across multiple prompt and model configurations
+- Developed internal dashboards to compare LLM output quality and summarize experiment results
+- Collaborated with faculty and student researchers to document reliable AI integration patterns
+
+EDUCATION
+B.S. in Computer Science | Colorado State University | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Computing, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Neo4j Graph Data Science Fundamentals (2025)
+
+PROJECTS
+
+OpsFlow AI Assistant | github.com/adrianwells/opsflow-ai-assistant
+- Built an employee-facing AI workflow application using React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart recommendation flows for internal support and request workflows
+- Implemented backend APIs for prompt history, audit logs, and workflow tracking
+- Deployed services to AWS and supported multi-user testing across several workflow scenarios
+
+Enterprise Connector Platform | github.com/adrianwells/enterprise-connector-platform
+- Developed a Spring Boot and React platform for integrating internal and third-party services through unified APIs
+- Built role-based dashboards, monitoring views, and secure data exchange workflows
+- Improved integration reliability through validation, retry logic, and structured error handling

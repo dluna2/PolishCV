@@ -1,0 +1,42 @@
+PRIYA SHAH
+Los Angeles, CA | priya.shah@email.com | 
+
+SUMMARY
+Aspiring engineer with internships and projects across enterprise style applications, AI enabled features, and productivity focused solutions. Brings strong fundamentals, curiosity, user focus, and a practical approach to building modern software that helps organizations move faster.
+
+SKILL
+React Node JavaScript Python Java APIs cloud NoSQL testing debugging internal tools AI LLM workflows reporting collaboration design thinking delivery
+
+WORK HISTORY 
+Vertex Labs / software intern / Los Angeles / 2025
+~ Built features for workflow automation and reporting experiences
+~ Designed APIs and integrations supporting approvals and content updates
+~ Added smart suggestions and content generation with language models
+~ Improved logging, validation, and test coverage while collaborating in agile
+
+Human Centered Computing Lab / AI applications intern / Los Angeles / 2025
+~ Developed Python based evaluation services for summarization, classification, and retrieval
+~ Built simple interfaces for comparing prompts and answer quality
+~ Presented findings and tradeoffs to technical audiences
+
+EDUCATION BACKGROUND
+University of Southern California
+Computer Science BS / 2026 / strong GPA / notable coursework in ML, NLP, cloud, databases, algorithms
+
+CERTIFICATIONS & LEARNING
+AWS cloud practitioner
+Azure AI fundmentals
+
+PROJECTS AND INITIATIVES
+Internal Knowledge Assistant
+~ Full stack knowledge helper with chat workflows and semantic retrieval
+~ Included document ingestion, traceability, caching, async processing, and integrations
+
+Task Flow Enterprise
+~ Internal task and approvals solution with dashboards and reporting
+~ Service A.P.I.s and role based capabilities for multiple teams
+
+VOLUNTERR
+Association for Computing Machinery
+~ Interview prep, workshops, collaborative projects
+

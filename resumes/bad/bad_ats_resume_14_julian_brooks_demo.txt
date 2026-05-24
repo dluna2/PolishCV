@@ -1,0 +1,53 @@
+JULIAN BROOKS
+Seattle| julian.brooks@email.com | linkedin.com/in/julianbrooks | github.com/julianbrooks
+
+ABOUT
+Student engineer with experience in user interfaces, backend logic, automation, and AI workflow ideas. Good with teams, ownership, and shipping projects. Interested in software roles where I can contribute across the stack and keep learning.
+
+SKILL
+building apps, supporting systems, integrating services, fixing bugs, making interfaces, writing APIs, working with people, learning quickly
+
+React / Node / JavaScript / Java / Python / Spring / GraphQL / Next / AWS / GCP / Docker / Mongo / Postgres / Redis / Firebase / Cypress
+
+WORK EXPERIENCE
+Cascade Logic | frontend intern
+- built workflow components
+- connected backend services
+- added AI recommendations
+- improved tests/accessibility
+- partnered with design/product
+
+UW Digital Services | developer intern
+- internal web tools
+- scripts and APIs
+- stakeholder requirements
+- automated manual tasks
+
+EDUCATION
+University of Washington
+Computer Science
+2027 expected
+good academic standing
+
+CERTS
+Meta front end
+AWS academy
+etc.
+
+PROJECTS
+AI Workflow Studio
+- workflow assistant
+- chat and smart suggestions
+- analytics and audit trails
+- evaluation tools
+
+Review Operations Hub
+- review/approval platform
+- dashboards and authentication
+- better performance
+
+LEADERSHIP
+technical lead in club work
+- planning
+- reviews
+- milestones
