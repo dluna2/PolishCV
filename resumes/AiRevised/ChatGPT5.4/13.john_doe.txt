@@ -1,0 +1,49 @@
+John Doe
+San Francisco, CA
+
+TARGET ROLE
+Full Stack Software Engineer 4 - Enterprise Engineering
+
+PROFESSIONAL SUMMARY
+Full stack software engineer with internship, research, and project experience building employee-facing and enterprise internal applications. Hands-on with React, JavaScript, TypeScript, Node.js, Java/Spring Boot (SpringBoot), Python, REST APIs, GraphQL, SQL and NoSQL data layers, cloud-hosted services, and AI-powered workflow features. Experienced with GenAI and LLM capabilities including chat interfaces, autocomplete, content generation, smart suggestions, retrieval, prompt evaluation, logging, and fallback handling. Known for cross-functional collaboration with product managers, designers, engineers, and stakeholders while improving quality, scalability, reliability, and usability.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Front End: React, Next.js where applicable, HTML, CSS, responsive UI, UX flows, accessibility, employee-facing applications
+Backend and APIs: Node.js, Express, Java, Spring Boot, SpringBoot, Python, FastAPI/Flask where applicable, REST APIs, GraphQL, service integrations, API design
+AI and LLM: GenAI, LLM integration, generative AI, chat interfaces, autocomplete, content generation, smart suggestions, prompt engineering, prompt evaluation, retrieval, semantic search, RAG concepts, summarization
+Data Layers: NoSQL, MongoDB, DynamoDB where applicable, PostgreSQL, SQL, Redis, document databases, transactional databases, caching, indexing
+Cloud, DevOps, Quality: AWS, Azure AI, Docker, Git, GitHub Actions/Jenkins where applicable, CI/CD, Jest, Cypress, testing, logging, monitoring, scalability, reliability
+Computer Science: data structures, algorithms, modern design patterns, debugging, API quality, distributed systems fundamentals
+
+PROFESSIONAL EXPERIENCE
+Pacific Vertex - Software Engineering Intern | [Add location] | [Add dates]
+- Designed and implemented React, JavaScript, and TypeScript experiences for interfaces, services, AI suggestions, PM/design collaboration, tests, scripts.
+- Built and maintained Node.js, Java/Spring Boot (SpringBoot), REST API, and GraphQL service layers to power internal and employee-facing workflows.
+- Integrated GenAI and LLM-powered capabilities such as chat interfaces, autocomplete, smart suggestions, content generation, summaries, prompt logs, or fallback behavior where applicable.
+- Collaborated with product managers, designers, engineers, and stakeholders to test, deploy, validate, and improve scalable enterprise applications.
+
+USC Intelligent Systems Group - ML Applications Intern | Los Angeles, CA | [Add dates]
+- Prototyped AI, LLM, retrieval, ranking, semantic search, summarization, or evaluation workflows for model output evaluation, retrieval/ranking prototypes, dashboards, recommendations.
+- Built Python and JavaScript tools, dashboards, and experiments to compare prompt quality, response relevance, latency, and model behavior.
+- Documented technical tradeoffs, recommendations, and evaluation results for engineers, researchers, and stakeholders.
+- Applied data structures, algorithms, and modern design patterns to improve search, retrieval, and AI-assisted application behavior.
+
+PROJECTS
+Employee Support Navigator
+- Built a full-stack enterprise-style application for employee support platform with autocomplete, AI suggestions, request tracking, context, fallback handling.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+Operations Tracker Pro
+- Built a full-stack enterprise-style application for internal application with dashboards, approvals, testing, logging.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+EDUCATION
+B.S. Computer Engineering, University of Southern California, 2026
+Relevant coursework: data structures, algorithms, databases, cloud computing, software architecture, AI/ML, NLP, HCI, systems, API design
+
+CERTIFICATIONS AND LEARNING
+- AWS Developer
+- Azure AI

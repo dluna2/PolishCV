@@ -1,0 +1,56 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack software engineer with experience designing and delivering scalable, AI-powered enterprise applications and internal workflow platforms. Proven ability to build React, Node.js, Spring Boot, and GraphQL systems supporting employee-facing tools and high-volume operations. Hands-on experience integrating GenAI and LLM-powered features including chat interfaces, smart recommendations, and automated content generation to improve productivity and reduce manual effort. Strong track record of end-to-end feature ownership, cross-functional collaboration, and shipping reliable, high-performance systems on AWS and GCP.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Next.js, HTML/CSS, Cypress
+Backend: Node.js, Express, Spring Boot, FastAPI, REST APIs, GraphQL APIs, Microservices
+AI/ML: GenAI, LLM integration, RAG pipelines, prompt engineering, summarization systems
+Cloud & DevOps: AWS (Lambda, API Gateway, DynamoDB, S3), GCP, Docker, CI/CD, GitHub Actions
+Databases: PostgreSQL, MongoDB, Redis, DynamoDB, NoSQL data modeling
+Practices: Scalable system design, API architecture, reliability engineering, performance optimization, testing, monitoring, debugging, Agile, data structures, algorithms
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Sonoran Digital Labs, Phoenix, AZ | May 2025 – Aug 2025
+Owned development of React-based workflow platform used by 300+ employees, delivering approval systems, request tracking, and real-time status visibility across internal operations
+Designed and implemented Node.js APIs and GraphQL services for search, notifications, task routing, and reporting, processing 4,000+ daily events with high availability and reliability
+Integrated GenAI-powered drafting and smart recommendation features using external LLM services, reducing manual content creation time by 35% and improving workflow efficiency
+Optimized frontend performance by 22% through improved data fetching strategies and component-level rendering optimizations across 6 core modules
+Collaborated cross-functionally with engineers, designers, and product stakeholders to deliver 5 features across 3 agile sprints, ensuring timely and high-quality releases
+
+Software Developer Intern | ASU Enterprise Technology, Tempe, AZ | Jan 2025 – Apr 2025
+Developed Spring Boot microservices powering internal reporting and process automation tools used by 1,500+ administrative users across campus systems
+Designed and implemented hybrid data architecture using MongoDB and PostgreSQL to manage 60,000+ records with both transactional and document-based access patterns
+Authored API documentation, 30+ automated test cases, and onboarding materials, improving developer ramp-up efficiency and system maintainability
+Supported deployment validation, bug triage, and production issue resolution, improving system stability and reducing operational overhead
+
+PROJECTS
+
+Workplace Request Copilot | React, Node.js, AWS, LLM APIs, Redis | github.com/briannayoung/workplace-request-copilot
+Designed and built an AI-powered internal request assistant supporting chat, summarization, and recommendation workflows across employee operations
+Implemented scalable backend services for request history, prompt logging, and workflow state transitions across 5 lifecycle stages
+Processed 700+ simulated requests across 4 workflow types, reducing average resolution time by 37% through intelligent automation
+Integrated caching and monitoring systems, sustaining <250ms response time under concurrent load with high reliability
+
+Integration Service Gateway | Spring Boot, GraphQL, PostgreSQL | github.com/briannayoung/integration-service-gateway
+Led development of a Spring Boot service layer aggregating 5 internal and third-party APIs into unified REST and GraphQL endpoints
+Implemented authentication, validation, and retry mechanisms, reducing downstream error rates by 25% and improving system resilience
+Centralized shared business logic and service access, reducing frontend integration complexity by 38% for multiple internal teams
+Designed extensible API architecture enabling scalable service integrations and maintainable system growth
+
+EDUCATION
+B.S. in Software Engineering | Arizona State University | Expected May 2027
+GPA: 3.7/4.0 | Coursework: Data Structures, Algorithms, Database Management, Software Design, Artificial Intelligence, Web Engineering
+
+CERTIFICATIONS
+Oracle Java Foundations Associate, 2025
+Google Cloud Digital Leader, 2025
+
+LEADERSHIP
+Project Coordinator | ASU Code Collective | Sep 2024 – Present
+Led a cross-functional team of 5 engineers building internal web tools for 3 campus organizations, delivering 2 projects on schedule with full sprint ownership
+Managed sprint planning, demos, and technical documentation reviews across multiple development cycles, improving team delivery consistency and collaboration

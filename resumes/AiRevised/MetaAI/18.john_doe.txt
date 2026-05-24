@@ -1,0 +1,41 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 4+ years academic and professional experience delivering scalable, enterprise applications and internal tools. Built React, Node.js, Spring Boot, and GraphQL systems powering employee-facing platforms for 500+ business users. Integrated GenAI and LLM-powered features including chat interfaces, autocomplete, and AI-generated suggestions to reduce manual work by 31%. Partner cross-functionally with product managers, designers, and stakeholders to ship reliable, high-quality UX and backend services on AWS. Passion for internal tooling, workforce productivity, and end-to-end ownership of mission-critical systems.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML/CSS, Jest
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs, Flask
+AI/ML: GenAI, LLM integration, RAG, prompt engineering, semantic search, summarization
+Cloud & DevOps: AWS, Docker, CI/CD, Jenkins, Microservices
+Databases: PostgreSQL, MongoDB, DynamoDB, NoSQL
+Practices: Scalable systems, Reliability, Testing, Monitoring, API design, Agile, Data structures, Algorithms
+EXPERIENCE
+Software Engineer Intern | Oakline Systems | Remote | Jun 2025 – Sep 2025
+Owned React interface development for internal support and approvals platform used by 500+ business team members, streamlining employee-facing workflows
+Architected and shipped 11 Node.js and Express backend services for workflow state, knowledge search, and notification delivery, processing 4,000+ daily events with 99.9% reliability
+Integrated GenAI and LLM-powered suggestions and content generation using external LLM APIs, reducing form completion time by 31%
+Collaborated cross-functionally with product managers and designers to refine 6 UX flows, driving 19% improvement in task success rate
+Led quality strategy with 48+ Jest automated tests and CI/CD deployment automation, cutting deployment cycle time by 18%
+AI Applications Intern | NC State Intelligent Computing Lab | Raleigh, NC | Jan 2025 – May 2025
+Built Python applications to evaluate LLM outputs across 7 model configurations for summarization, classification, and semantic search at enterprise scale
+Prototyped retrieval-augmented generation and ranking pipelines for document assistance across 13,000+ records, optimizing relevance and latency
+Developed internal React dashboards to compare model quality, latency, and prompt strategies, enabling 2x faster experiment iteration across 5 research projects
+Partnered cross-functionally with 3 faculty advisors and 8 student developers to document safe and effective GenAI integration patterns
+PROJECTS
+Employee Support Navigator | React, Node.js, AWS, LLM APIs, DynamoDB | github.com/cameronprice/employee-support-navigator
+Shipped employee-facing AI support platform handling 950+ simulated interactions across 5 internal request categories
+Designed and implemented chat interfaces, autocomplete, and AI-generated suggestion workflows, reducing average time-to-resolution by 40%
+Built scalable backend services for request tracking, user context, and audit history across 4 integrated microservices
+Improved response reliability through prompt evaluation and fallback handling, achieving 90% confidence threshold with full monitoring
+Process Tracker Studio | Spring Boot, React, REST APIs, PostgreSQL | github.com/cameronprice/process-tracker-studio
+Led development of Spring Boot and React application for service coordination, reporting, and task tracking across 5 simulated teams
+Delivered REST APIs, dashboards, and approval workflows processing 180+ daily task transitions for internal stakeholders
+Improved system reliability by 23% through validation logic, structured logging, and integration testing
+EDUCATION
+B.S. Computer Engineering | North Carolina State University | May 2026
+GPA: 3.7/4.0 | Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+CERTIFICATIONS
+AWS Certified Developer – Associate, 2025
+Microsoft Azure AI Fundamentals, 2025

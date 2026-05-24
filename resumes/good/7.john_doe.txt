@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Third-year Computer Science student with practical experience building modern web applications, backend APIs, and AI-enabled features for internal workflow tools. Proficient in React, Node.js, JavaScript, Java, and Python, with experience in GraphQL, Spring Boot, NoSQL, and cloud deployment. Strong foundation in algorithms, system design, and cross-functional collaboration.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API development, enterprise applications, GenAI, LLMs, NoSQL databases, cloud infrastructure, Agile development, testing, debugging
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Stratus Labs, Chicago, IL | May 2025 – Aug 2025
+- Built employee-facing UI components in React for a workflow orchestration platform used by 250+ internal team members
+- Developed Node.js APIs and GraphQL resolvers supporting 8,000+ daily approvals, search queries, and task routing events
+- Added AI-generated drafting and smart recommendations using third-party LLM APIs, reducing manual entry time by 32% in user testing
+- Improved frontend performance by 18% by optimizing rendering patterns and reducing unnecessary API calls across 6 components
+- Partnered with engineers, designers, and product stakeholders to ship 6 features within sprint timelines across 3 two-week sprints
+
+Software Developer Intern | Midwest Innovation Center, Chicago, IL | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and request management applications serving 120+ staff
+- Integrated MongoDB and PostgreSQL data layers to support 50,000+ structured and semi-structured records
+- Created API documentation and 30+ test cases to improve maintainability for future student developers
+- Supported deployment and monitoring of 3 internal tools used by campus operations teams
+
+EDUCATION
+B.S. in Computer Science | University of Illinois Chicago | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Operating Systems, Artificial Intelligence
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Ops Copilot Dashboard | github.com/noahbennett/ops-copilot-dashboard
+- Created a full-stack internal operations assistant handling 600+ simulated employee requests
+- Implemented chat interfaces, summarization, and smart suggestion workflows, cutting average resolution time by 38%
+- Designed backend services for prompt storage, user sessions, and workflow state management across 4 workflow types
+- Added monitoring and caching features sustaining <200ms response time during demo-scale load testing
+
+Internal API Gateway | github.com/noahbennett/internal-api-gateway
+- Built a Spring Boot service layer aggregating 6 internal and third-party APIs into a unified interface
+- Added authentication, request validation, and service fallback handling, reducing downstream error rate by 24%
+- Improved integration speed for frontend consumers by 40% by centralizing common business logic
+
+LEADERSHIP
+Engineering Lead | UIC App Development Club | Sep 2024 – Present
+- Led a team of 6 students building internal web tools for 4 campus organizations
+- Organized sprint planning, technical design sessions, and project demos for 2 full project cycles; delivered on time for both

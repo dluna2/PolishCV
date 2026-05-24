@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer specializing in enterprise internal tools and AI-powered workflows. Deep experience with Node, JavaScript, React, SpringBoot, GraphQL, and NoSQL. Designed and implemented intuitive UX flows for AI-powered features including chat interfaces, autocomplete, and smart suggestions for employee-facing applications. Built and maintained backend services and REST/GraphQL APIs with attention to scalability and reliability on AWS. Experienced integrating GenAI and LLMs into workflow systems. Strong foundation in data structures, algorithms, and design patterns.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Node.js, Next.js
+Backend: SpringBoot, Express, REST APIs, GraphQL APIs
+Data: NoSQL (MongoDB, DynamoDB), PostgreSQL, data layers
+AI: GenAI, LLMs, LLM integration, retrieval-augmented generation
+Cloud & DevOps: AWS, Docker, CI/CD, GitHub Actions, Jest
+Engineering: scalable high-performing applications, internal tools, design patterns, algorithms, testing
+
+WORK EXPERIENCE
+
+Software Engineering Intern | BeaconWorks, Remote | Jun 2025 – Aug 2025
+
+Developed React and TypeScript features for an internal operations platform used by 350+ employees to manage requests and approvals, improving task completion rate by 20%
+Built Node.js backend services and GraphQL APIs for workflow status, notifications, and audit logging handling 3,000+ daily events with attention to scalability and reliability
+Integrated GenAI and LLMs to deliver smart suggestions in form entry flows, reducing repetitive manual input time by 28% for internal users
+Collaborated with product managers and designers to design and implement intuitive UX flows across 5 high-traffic screens
+Implemented REST/GraphQL endpoints and added 55+ automated tests with Jest and GitHub Actions, cutting regression incidents by 35%
+Research Intern, Intelligent Systems Lab | Columbia University | Sep 2024 – May 2025
+
+Built Python pipelines for GenAI retrieval-augmented generation experiments across 4 document corpora totaling 15,000+ records
+Measured quality, latency, and relevance across 6 LLM workflows, improving top-3 retrieval precision by 19%
+Developed lightweight React web interfaces to compare answer quality across prompts and models, enabling 3x faster experiment iteration for enterprise search
+Documented best practices for AI-assisted enterprise search adopted by 2 follow-on research projects, demonstrating clear communication and collaboration
+PROJECTS
+
+WorkFlow AI Console | github.com/alexismorgan/workflow-ai-console
+Led design, development, and deployment of employee-facing productivity application supporting 4 user roles and 800+ simulated workflow interactions
+
+Designed and implemented intuitive UX flows for AI-powered features: chat interfaces, autocomplete, and smart suggestions, cutting average workflow completion time by 32%
+Built and maintained backend services and APIs for session handling, prompt history, and workflow tracking across 3 integrated services using Node.js and GraphQL
+Deployed scalable high-performing application to AWS sustaining less than 250ms p95 latency during load testing with 50 concurrent users
+Service Integration Hub | github.com/alexismorgan/service-integration-hub
+Led end-to-end delivery of SpringBoot and React platform connecting internal and third-party services
+
+Engineered secure REST APIs integrating 5 internal and third-party services with role-based dashboards and service health monitoring for 3 business teams
+Applied design patterns for validation, retries, and structured error handling, improving API response consistency by 30%
+Partnered across functions to build, test, and deploy enterprise-wide integrations
+EDUCATION
+B.S. in Computer Science | Columbia University | Expected 2026
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2025)
+MongoDB Node.js Developer Path (2025)

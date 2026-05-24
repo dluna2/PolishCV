@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+TARGET ROLE
+Full Stack Software Engineer 4 - Enterprise Engineering
+
+PROFESSIONAL SUMMARY
+Full stack software engineer with internship, research, and project experience building employee-facing and enterprise internal applications. Hands-on with React, JavaScript, TypeScript, Node.js, Java/Spring Boot (SpringBoot), Python, REST APIs, GraphQL, SQL and NoSQL data layers, cloud-hosted services, and AI-powered workflow features. Experienced with GenAI and LLM capabilities including chat interfaces, autocomplete, content generation, smart suggestions, retrieval, prompt evaluation, logging, and fallback handling. Known for cross-functional collaboration with product managers, designers, engineers, and stakeholders while improving quality, scalability, reliability, and usability.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Front End: React, Next.js where applicable, HTML, CSS, responsive UI, UX flows, accessibility, employee-facing applications
+Backend and APIs: Node.js, Express, Java, Spring Boot, SpringBoot, Python, FastAPI/Flask where applicable, REST APIs, GraphQL, service integrations, API design
+AI and LLM: GenAI, LLM integration, generative AI, chat interfaces, autocomplete, content generation, smart suggestions, prompt engineering, prompt evaluation, retrieval, semantic search, RAG concepts, summarization
+Data Layers: NoSQL, MongoDB, DynamoDB where applicable, PostgreSQL, SQL, Redis, document databases, transactional databases, caching, indexing
+Cloud, DevOps, Quality: AWS, GCP, Docker, Git, GitHub Actions/Jenkins where applicable, CI/CD, Jest, Cypress, testing, logging, monitoring, scalability, reliability
+Computer Science: data structures, algorithms, modern design patterns, debugging, API quality, distributed systems fundamentals
+
+PROFESSIONAL EXPERIENCE
+Cascade Logic - Frontend Engineering Intern | [Add location] | [Add dates]
+- Built intuitive React and JavaScript UX flows for workflow components, backend service connections, AI recommendations, tests, accessibility, design/product partnership.
+- Connected front-end components to backend services, REST APIs, GraphQL resolvers, and internal integrations while improving accessibility and usability.
+- Implemented AI-powered UI patterns such as autocomplete, smart recommendations, chat-style workflows, and content suggestions.
+- Partnered with product managers, designers, and engineers on testing, release readiness, and quality improvements.
+
+UW Digital Services - Developer Intern | Seattle, WA | [Add dates]
+- Built internal web tools and automation for internal web tools, scripts, APIs, stakeholder requirements, automation.
+- Developed React, Node.js, Python/Java, REST API, GraphQL, and data-layer functionality for reporting, routing, notifications, and workflow operations.
+- Gathered stakeholder requirements, wrote documentation and tests, and supported deploy validation, release checks, and bug triage.
+- Improved operational efficiency by automating manual steps and connecting internal systems through reliable APIs.
+
+PROJECTS
+AI Workflow Studio
+- Built a full-stack enterprise-style application for workflow assistant with chat, smart suggestions, analytics, audit trails, evaluation tools.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+Review Operations Hub
+- Built a full-stack enterprise-style application for review/approval platform with dashboards, authentication, performance improvements.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+EDUCATION
+B.S. Computer Science, University of Washington, expected 2027
+Relevant coursework: data structures, algorithms, databases, cloud computing, software architecture, AI/ML, NLP, HCI, systems, API design
+
+CERTIFICATIONS AND LEARNING
+- Meta Front-End
+- AWS Academy
+
+LEADERSHIP
+- Technical Lead, Club Projects - planning, reviews, milestones

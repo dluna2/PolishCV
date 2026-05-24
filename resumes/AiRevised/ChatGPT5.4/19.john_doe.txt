@@ -1,0 +1,56 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack software engineer with experience designing and delivering scalable, AI-powered enterprise applications and internal workflow platforms. Proven ability to build React, Node.js, Spring Boot, and GraphQL systems supporting employee-facing tools and high-volume operations. Hands-on experience integrating GenAI and LLM-powered features including chat interfaces, autocomplete, and intelligent recommendations to improve productivity and reduce manual effort. Strong record of end-to-end feature ownership, cross-functional collaboration, and shipping reliable, high-performance systems on AWS and GCP.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frontend: React, Next.js, HTML/CSS, Cypress
+Backend: Node.js, Express, Spring Boot, REST APIs, GraphQL APIs, Microservices
+AI/ML: GenAI, LLM integration, prompt engineering, workflow automation, recommendation systems
+Cloud & DevOps: AWS (Lambda, API Gateway, DynamoDB, S3), GCP, Docker, CI/CD, GitHub Actions
+Databases: PostgreSQL, MongoDB, Redis, Firebase, NoSQL data modeling
+Practices: Scalable system design, API architecture, reliability engineering, performance optimization, testing, monitoring, debugging, Agile, data structures, algorithms
+
+EXPERIENCE
+
+Frontend Engineering Intern | Northstar Logic, Minneapolis, MN | Jun 2025 – Aug 2025
+Owned development of React-based components for an internal workflow platform used by 350+ employees, enabling efficient approvals, search, and task management across operations
+Integrated Node.js and GraphQL backend services into 7 core features, supporting 3,500+ daily events with reliable data flow and state management
+Implemented AI-powered autocomplete and recommendation features using external LLM services, reducing repetitive user actions by 31% and improving workflow efficiency
+Improved frontend stability and accessibility by adding 42+ automated tests, resolving 16 bugs, and fixing 10 accessibility issues
+Collaborated cross-functionally with product managers and designers to deliver 4 features on schedule, ensuring strong UX alignment and usability
+
+Software Developer Intern | University of Minnesota Digital Services, Minneapolis, MN | Jan 2025 – May 2025
+Developed internal web tools using React, JavaScript, and Firebase supporting 2,500+ users across student and administrative workflows
+Built backend scripts and APIs for notifications, data processing, and activity tracking, handling 400+ daily transactions with consistent performance
+Gathered requirements from 4 stakeholder teams and translated them into prioritized engineering deliverables
+Automated 4 recurring administrative workflows, reducing manual effort by 38% and improving operational efficiency
+
+PROJECTS
+
+AI Workflow Studio | github.com/daphnecollins/ai-workflow-studio
+Designed and built an AI-powered workflow assistant supporting chat, autocomplete, and intelligent suggestion features across 4 workflow categories
+Implemented backend services for prompt storage, user sessions, analytics, and audit trails across 3 integrated systems
+Processed 750+ simulated interactions, reducing task completion time by 34% through contextual automation and recommendations
+Integrated LLM services with evaluation tooling and load testing, achieving <250ms p95 response time under concurrent usage
+
+Approval Review Hub | github.com/daphnecollins/approval-review-hub
+Built a full-stack approval and review platform using Spring Boot, React, and PostgreSQL supporting multi-stage workflow execution
+Developed 11 REST API endpoints for approvals, authentication, and data access with scalable backend design
+Improved system performance by 26% through API optimization and efficient database query strategies
+Designed dashboards and role-based workflows enabling streamlined review cycles and user visibility
+
+EDUCATION
+B.S. in Computer Science | University of Minnesota Twin Cities | Expected May 2027
+GPA: 3.8/4.0 | Coursework: Data Structures and Algorithms, Software Design, Database Systems, Artificial Intelligence, Operating Systems, Human-Computer Interaction
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate, 2025
+AWS Academy Cloud Architecting, 2025
+
+LEADERSHIP
+Technical Lead | Gopher Builders Club | Sep 2024 – Present
+Led a team of 4–5 engineers in building full-stack applications, driving architecture discussions, code reviews, and milestone delivery across multiple project phases
+Coordinated sprint planning, progress tracking, and demo presentations, improving team execution and delivery consistency

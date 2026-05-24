@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+CAREER STATEMENT
+Engineer with exposure to full-stack work, AI tools, cloud systems, and enterprise-style applications. Strong ownership mindset and collaborative approach. Interested in building useful software and contributing wherever the team needs help most.
+
+SKILL THEMES
+software, APIs, cloud, AI, databases, systems, quality, problem solving, teamwork, adaptability
+
+TECHNICAL OVERVIEW
+JS TS Python Java SQL React Node Express Spring GraphQL Flask AWS Docker Git Mongo Dynamo Postgres Jenkins Jest
+
+PROFESSIONAL HISTORY
+Oakline Systems | software intern
+- developed interfaces
+- built services
+- integrated AI suggestions
+- worked with product/design
+- added tests and automation
+
+NC State lab | AI applications intern
+- evaluated outputs
+- prototyped retrieval pipelines
+- built dashboards
+- recommended safe feature ideas
+
+ACADEMICS
+NC State
+Computer Engineering
+2026
+GPA available on request
+
+CERTIFICATIONS
+AWS Developer
+Azure AI
+other learning
+
+PROJECTS
+Employee Support Navigator
+- support platform
+- autocomplete and suggestions
+- audit history and request tracking
+- fallback handling
+
+Process Tracker Studio
+- reporting and task tracking
+- APIs and approvals
+- testing and logging
+
+MISC
+Can expand bullets in an interview or tailored version.

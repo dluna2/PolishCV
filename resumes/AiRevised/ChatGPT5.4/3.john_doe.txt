@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+TARGET ROLE
+Full Stack Software Engineer 4 - Enterprise Engineering
+
+PROFESSIONAL SUMMARY
+Full stack software engineer with internship, research, and project experience building employee-facing and enterprise internal applications. Hands-on with React, JavaScript, TypeScript, Node.js, Java/Spring Boot (SpringBoot), Python, REST APIs, GraphQL, SQL and NoSQL data layers, cloud-hosted services, and AI-powered workflow features. Experienced with GenAI and LLM capabilities including chat interfaces, autocomplete, content generation, smart suggestions, retrieval, prompt evaluation, logging, and fallback handling. Known for cross-functional collaboration with product managers, designers, engineers, and stakeholders while improving quality, scalability, reliability, and usability.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Front End: React, Next.js where applicable, HTML, CSS, responsive UI, UX flows, accessibility, employee-facing applications
+Backend and APIs: Node.js, Express, Java, Spring Boot, SpringBoot, Python, FastAPI/Flask where applicable, REST APIs, GraphQL, service integrations, API design
+AI and LLM: GenAI, LLM integration, generative AI, chat interfaces, autocomplete, content generation, smart suggestions, prompt engineering, prompt evaluation, retrieval, semantic search, RAG concepts, summarization
+Data Layers: NoSQL, MongoDB, DynamoDB where applicable, PostgreSQL, SQL, Redis, document databases, transactional databases, caching, indexing
+Cloud, DevOps, Quality: AWS, GCP, Docker, Git, GitHub Actions/Jenkins where applicable, CI/CD, Jest, Cypress, testing, logging, monitoring, scalability, reliability
+Computer Science: data structures, algorithms, modern design patterns, debugging, API quality, distributed systems fundamentals
+
+PROFESSIONAL EXPERIENCE
+BlueOrbit Software - Software Engineering Intern | Remote | 2025
+- Designed and implemented React, JavaScript, and TypeScript experiences for employee-facing planning workflows, services, resolvers, recommendations, scheduling, GenAI summaries and drafts.
+- Built and maintained Node.js, Java/Spring Boot (SpringBoot), REST API, and GraphQL service layers to power internal and employee-facing workflows.
+- Integrated GenAI and LLM-powered capabilities such as chat interfaces, autocomplete, smart suggestions, content generation, summaries, prompt logs, or fallback behavior where applicable.
+- Collaborated with product managers, designers, engineers, and stakeholders to test, deploy, validate, and improve scalable enterprise applications.
+
+Civic Data Labs - Backend Engineering Intern | Austin, TX | 2025
+- Developed backend services and APIs for APIs, service connections, reporting tools, data stores, reliability practices, engineering documentation.
+- Implemented Java/Spring Boot (SpringBoot), Node.js, Python, REST API, and GraphQL patterns for service integrations and data access layers.
+- Worked with SQL and NoSQL data stores such as PostgreSQL, MongoDB, DynamoDB, and Redis; added validation, logging, monitoring, and error handling.
+- Supported deployment, documentation, testing, and reliability practices for internal and third-party service integrations.
+
+PROJECTS
+Ops Assistant AI
+- Built a full-stack enterprise-style application for full-stack operations helper with chat, smart suggestions, third-party LLM integrations, fallback logic, authentication, scalable APIs.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+Media Metadata Explorer
+- Built a full-stack enterprise-style application for search and analytics for media datasets with dashboards, filtering, ingestion, querying, backend support.
+- Designed React UX flows and backend REST/GraphQL APIs using Node.js, Java/Spring Boot (SpringBoot), Python services, and cloud-hosted data layers.
+- Applied GenAI, LLM integration, retrieval, smart suggestions, content generation, logging, monitoring, caching, or fallback logic based on project needs.
+
+EDUCATION
+B.S. Computer Engineering, The University of Texas at Austin, 2026
+Relevant coursework: data structures, algorithms, databases, cloud computing, software architecture, AI/ML, NLP, HCI, systems, API design
+
+CERTIFICATIONS AND LEARNING
+- Google Cloud Badge
+- AWS Badge
+
+LEADERSHIP
+- Women in Computing Member - mentorship, interview preparation, workshops, peer support

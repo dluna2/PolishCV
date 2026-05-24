@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent Computer Science graduate with experience building scalable full-stack applications and AI-powered internal tools through internships and software projects. Skilled in JavaScript, React, Node.js, Python, Java, Spring Boot, GraphQL, and NoSQL systems. Strong collaborator with a passion for building intuitive user experiences and reliable backend services that improve productivity.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, cloud computing, GenAI applications, LLM integration, enterprise tools, data structures, algorithms, CI/CD
+
+EXPERIENCE
+
+Software Engineer Intern | Harbor Digital, Boston, MA | Jun 2025 – Sep 2025
+- Built React-based user flows for an internal employee service portal serving 600+ users across approvals, document requests, and support workflows
+- Developed 10 backend APIs in Node.js and Express for search, notifications, and workflow tracking processing 4,000+ daily events
+- Integrated AI-powered smart suggestions and text generation into request forms, improving average form completion speed by 33%
+- Worked closely with product and design teams to test 4 prototypes and launch 3 production-ready features on schedule
+- Contributed 50+ unit tests, 8 bug fixes, and deployment scripts reducing mean time to deployment by 20%
+
+AI Engineering Intern | Northeastern Data Lab, Boston, MA | Jan 2025 – May 2025
+- Developed Python applications evaluating LLM output quality across 7 model configurations for summarization and Q&A tasks
+- Built retrieval and ranking workflows for enterprise-style document search prototypes across 12,000+ records
+- Created dashboards comparing prompt performance, latency, and user feedback, enabling 2x faster experiment iteration across 5 experiments
+- Presented technical recommendations on 3 AI integration patterns to 12 student researchers and 2 faculty sponsors
+
+EDUCATION
+B.S. in Computer Science | Northeastern University | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Human-Computer Interaction, Machine Learning, Cloud Software Development
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Apollo GraphQL Associate Certification (2025)
+
+PROJECTS
+
+AI Request Assistant | github.com/lilathompson/ai-request-assistant
+- Built an internal request automation platform handling 900+ simulated employee interactions across 5 workflow types
+- Designed AI-powered chat and autocomplete flows, reducing average time-to-resolution by 42% in user testing
+- Implemented backend services for request state, analytics, and integration with 3 third-party APIs
+- Improved response quality through prompt evaluation and fallback handling, achieving 91% confidence threshold in testing
+
+Team Operations Portal | github.com/lilathompson/team-operations-portal
+- Developed a Spring Boot and React internal application for task tracking and service coordination across 4 simulated teams
+- Built REST APIs, dashboards, and reporting features for multi-team operational workflows handling 200+ daily tasks
+- Improved system reliability by 26% through structured logging, validation, and integration testing

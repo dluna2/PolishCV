@@ -1,0 +1,45 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 4+ years academic and professional experience building scalable employee-facing applications, REST/GraphQL APIs, and AI-enabled workflow tools. Delivered React and Node.js/Spring Boot systems serving 2,800+ internal users and processing 3,200+ daily events. Integrated LLM-powered autocomplete and AI-assisted recommendations that reduced repetitive user actions by 32%. Strong cross-functional partner to product and design with end-to-end ownership of reliable, high-quality software on AWS/GCP. Passionate about workforce productivity, internal tooling, and mission-critical enterprise systems.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frontend: React, Next.js, HTML/CSS, Cypress
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs
+AI/ML: GenAI, LLM integration, prompt engineering, smart suggestions, chat interfaces
+Cloud & DevOps: AWS, GCP, Docker, Firebase, CI/CD, Git
+Databases: PostgreSQL, MongoDB, Redis, NoSQL
+Practices: Scalable systems, Reliability, Testing, Monitoring, API design, Agile, Data structures, Algorithms
+EXPERIENCE
+Frontend Engineering Intern | Lakeview Logic | Columbus, OH | Jun 2025 – Aug 2025
+Led responsive React component development for internal workflow suite used by 320+ employee operations team members
+Integrated Node.js and GraphQL backend services into 8 UI features for search, approvals, and task management, handling 3,200+ daily events with 99.9% uptime
+Shipped autocomplete and AI-assisted recommendations using LLM APIs, reducing repetitive user actions in high-usage workflows by 32%
+Improved frontend reliability with 40+ Cypress component tests, fixing 11 accessibility issues and resolving 14 bugs
+Partnered cross-functionally with product and design to validate requirements and ship 4 user-friendly features on schedule
+Software Developer Intern | Ohio State Digital Services | Columbus, OH | Jan 2025 – May 2025
+Built internal web tools using React, JavaScript, and Firebase supporting 2,800+ students and staff with request routing and document workflows
+Developed backend scripts and APIs for notifications, data processing, and user activity tracking across 450+ daily transactions
+Gathered requirements from 5 stakeholder teams and prioritized enhancements based on user feedback for employee-facing tools
+Reduced manual administrative effort by 37% by automating 4 recurring administrative workflows through web-based applications
+PROJECTS
+AI Operations Studio | React, Node.js, LLM APIs, PostgreSQL, AWS | github.com/wesleyhart/ai-operations-studio
+Shipped internal workflow assistant handling 780+ simulated interactions across 4 enterprise workflow categories
+Designed intuitive chat and smart suggestion experiences, cutting average task completion time by 33% for internal users
+Built scalable backend APIs for prompt storage, user sessions, analytics, and audit trails across 3 integrated microservices
+Integrated external LLM services sustaining <250ms p95 response time under concurrent load with 25 simulated users
+Review and Approval Hub | Spring Boot, React, REST APIs, PostgreSQL | github.com/wesleyhart/review-and-approval-hub
+Created full-stack review and approval platform using Spring Boot and React supporting 90+ simulated review cycles
+Delivered dashboards, authentication, and 12 scalable REST API endpoints for approval and review workflows
+Improved performance by 25% through API design refinements and database query optimization
+LEADERSHIP
+Technical Lead | Buckeye Builders Club | The Ohio State University | Sep 2024 – Present
+Led cross-functional student teams of 4–6 through planning, development, and demo delivery for 2 full-stack applications
+Drove milestone tracking, architecture reviews, and peer code reviews across 3 project phases, enforcing testing and reliability standards
+EDUCATION
+B.S. Computer Science | The Ohio State University | May 2027
+GPA: 3.8/4.0 | Coursework: Data Structures and Algorithms, Software Design, Database Systems, Artificial Intelligence, Operating Systems, Human-Computer Interaction
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate, 2025
+AWS Academy Cloud Architecting, 2025

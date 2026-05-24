@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Third-year Computer Science student with experience developing frontend applications, backend APIs, and AI-enabled workflow tools for internal users. Proficient in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL databases. Strong communication and ownership skills with a passion for building high-quality software that improves productivity at scale.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Firebase, Cypress
+Concepts: internal tooling, API development, LLM applications, scalable services, cloud platforms, algorithms, testing, debugging, cross-functional collaboration
+
+EXPERIENCE
+
+Frontend Engineering Intern | Northstar Logic, Minneapolis, MN | Jun 2025 – Aug 2025
+- Built responsive React components for an internal workflow suite serving 350+ employee operations team members
+- Integrated Node.js and GraphQL backend services into 7 UI features for search, approvals, and task management handling 3,500+ daily events
+- Added autocomplete and AI-assisted recommendations, reducing repetitive user actions in high-usage workflows by 31%
+- Improved frontend reliability by adding 42+ component tests, fixing 10 accessibility issues, and resolving 16 bugs
+- Worked closely with product and design partners to validate requirements and ship 4 user-friendly features on schedule
+
+Software Developer Intern | University of Minnesota Digital Services, Minneapolis, MN | Jan 2025 – May 2025
+- Built internal web tools using JavaScript, React, and Firebase supporting 2,500+ students and staff with request routing and document workflows
+- Developed backend scripts and APIs for notifications, data processing, and user activity tracking across 400+ daily transactions
+- Gathered requirements from 4 stakeholder teams and prioritized enhancements based on user feedback
+- Reduced manual administrative effort by 38% by automating 4 recurring administrative tasks through web-based tools
+
+EDUCATION
+B.S. in Computer Science | University of Minnesota Twin Cities | Expected 2027
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures and Algorithms, Software Design, Database Systems, Artificial Intelligence, Operating Systems, Human-Computer Interaction
+
+CERTIFICATIONS
+- Meta Front-End Developer Professional Certificate (2025)
+- AWS Academy Cloud Architecting (2025)
+
+PROJECTS
+
+AI Workflow Studio | github.com/daphnecollins/ai-workflow-studio
+- Built an internal workflow assistant handling 750+ simulated interactions across 4 workflow types
+- Designed intuitive chat and smart suggestion experiences, cutting average task completion time by 34%
+- Developed backend APIs for prompt storage, user sessions, analytics, and audit trails across 3 integrated services
+- Integrated external LLM services and built evaluation tools achieving <250ms p95 response time under concurrent load
+
+Approval Review Hub | github.com/daphnecollins/approval-review-hub
+- Created a full-stack review and approval platform using Spring Boot, React, and PostgreSQL supporting 100+ simulated review cycles
+- Implemented dashboards, authentication, and 11 scalable REST API endpoints for approval and review workflows
+- Improved performance by 26% through API design refinements and database query optimization
+
+LEADERSHIP
+Technical Lead | Gopher Builders Club | Sep 2024 – Present
+- Led student teams of 4–5 through planning, development, and demo delivery for 2 full-stack applications
+- Coordinated milestone tracking, architecture reviews, and peer code reviews across 3 project phases

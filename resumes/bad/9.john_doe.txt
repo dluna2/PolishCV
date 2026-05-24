@@ -1,0 +1,54 @@
+John Doe
+San Francisco, CA
+
+Summary
+Full-stack software engineer (Georgia Tech CS, expected 2027) with internship experience building enterprise internal tools and AI-enhanced features. Built React and Node.js front ends and Spring Boot and GraphQL back ends on AWS, serving 300+ users and 5,000+ daily requests. Implemented GenAI-powered chat interfaces, content generation, and smart suggestions using LLMs, reducing drafting time 40%. Focused on scalable APIs, reliability, and cross-functional delivery.
+
+Technical Skills
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frontend: React, Next.js, Node.js
+Backend: Spring Boot, GraphQL, REST APIs, Express
+Data: NoSQL (MongoDB, Redis), PostgreSQL
+AI/LLM: LLM applications, chat interfaces, content generation, smart suggestions, prompt engineering, retrieval workflows
+Cloud & DevOps: AWS (Certified Cloud Practitioner), GCP, Docker, Git, CI/CD, monitoring, logging
+Practices: API design, scalable backend services, internal tooling, testing with Jest, data structures and algorithms, cross-functional collaboration
+
+Experience
+
+Software Engineering Intern — Apex Lane Technologies, Remote | Jun 2025 – Aug 2025
+Designed and implemented React interfaces and reusable components for internal productivity suite used by 300+ operations and support team members
+Built Node.js backend APIs and GraphQL endpoints for search, approvals, and activity tracking handling 5,000+ daily requests with attention to scalability and reliability
+Added GenAI-powered smart reply and knowledge suggestion features using external LLM services, reducing average response drafting time by 40%
+Improved reliability by expanding test coverage from 45% to 78% and documenting 15 API contracts
+Collaborated daily with product managers, designers, and 8 engineers to deliver 5 features on schedule across 4 sprints
+
+Backend Engineering Intern — Georgia Tech Enterprise Systems, Atlanta, GA | Jan 2025 – May 2025
+Developed Spring Boot services for internal tools supporting workflow automation and reporting for 500+ campus users
+Integrated PostgreSQL and MongoDB (NoSQL) to manage 80,000+ business records and document-style entries
+Added logging, monitoring, and input validation, reducing API error rate by 21% and improving observability across 6 services
+Assisted with release testing and deployment coordination, enabling 3 successful zero-downtime releases
+
+Projects
+Employee Knowledge Copilot — github.com/omarhassan/employee-knowledge-copilot
+Built AI-powered employee support tool with chat interface, content generation, and smart recommendation workflows handling 1,100+ simulated knowledge queries across 4 departments
+Improved answer relevance by 24% over keyword search using LLM-based retrieval
+Developed backend APIs for source ingestion of 6,000+ documents, access control, and conversation history
+Connected 4 third-party AI and internal service integrations to operationalize workflows at scale
+
+Unified Workflow Manager — github.com/omarhassan/unified-workflow-manager
+Created Spring Boot and React application coordinating approvals, task routing, and reporting for 6 simulated teams
+Designed APIs and dashboards for multi-step internal workflow management handling 150+ daily task transitions
+Reduced processing friction by 30% by centralizing integrations with messaging and calendar services
+
+Education
+B.S. in Computer Science — Georgia Institute of Technology | Expected May 2027
+
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures and Algorithms, Objects and Design, Database Systems, Computer Networks, Artificial Intelligence, Information Visualization
+
+Certifications
+AWS Certified Cloud Practitioner (2025)
+Microsoft Azure AI Fundamentals (2025)
+Leadership
+Technical Project Lead — HackGT Team | Sep 2024 – Present
+Led 5-person student team through architecture planning, development, and final demos for full-stack applications at HackGT (1,000+ participants)
+Coordinated task prioritization, code reviews, and milestone tracking across 2 hackathon cycles

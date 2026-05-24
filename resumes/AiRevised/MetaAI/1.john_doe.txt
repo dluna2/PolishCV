@@ -1,0 +1,48 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer with 4+ years academic + industry experience building scalable, high-performing enterprise applications. Expertise in React, TypeScript, Node.js, Java, SpringBoot, JavaScript, Python, GraphQL, REST APIs, NoSQL, and cloud platforms (AWS). Experience integrating GenAI and LLMs into employee-facing tools to enhance productivity. Strong foundation in data structures, algorithms, and modern design patterns. Passionate about creating intuitive UX flows for AI-powered features that save time and money.
+
+TECHNICAL SKILLS
+Frontend: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, UX/UI Design
+Backend: Node.js, Java, SpringBoot, Python, REST APIs, GraphQL, OpenAI API
+Databases: NoSQL, SQL, FAISS, Indexing, Caching Strategies
+Cloud & DevOps: AWS, CI/CD, Unit Testing
+AI/ML: GenAI, LLMs, OpenAI, Semantic Search, Embeddings, Prompt Engineering, RAG
+Other: Data Structures, Algorithms, Design Patterns, Agile, Git
+
+EXPERIENCE
+CloudBridge Systems | Software Engineer Intern | San Jose, CA | 06/2025 - 08/2025
+- Designed and implemented React + TypeScript + Node.js dashboard features for internal, employee-facing enterprise applications
+- Integrated OpenAI LLM for smart text suggestions into UI, cutting task completion time by 40% for internal users
+- Improved code quality and reliability by adding 45 unit tests, reducing regression risk and cutting deployment rollbacks by 30%
+- Collaborated cross-functionally with PMs and designers to ship intuitive UX flows for AI-powered features on AWS infrastructure
+
+University of California, Davis | Research Assistant - AI/ML | Davis, CA | 09/2024 - 06/2025
+- Developed LLM-based semantic search system using Python and FAISS embeddings to improve retrieval accuracy for academic research
+- Evaluated 5 model configurations and presented findings to faculty; collaborated with researchers to reduce LLM hallucination rate
+- Built and maintained backend data pipelines with attention to scalability and reliability of AI experiments
+
+University of California, Davis | Teaching Assistant - Data Structures & Algorithms | Davis, CA | 01/2024 - 06/2024
+- Led debugging sessions for 100+ students on data structures, algorithms, and Java implementations
+- Communicated technical concepts to cross-functional skill levels, improving average assignment scores 15%
+
+PROJECTS
+AI Workflow Assistant | React, TypeScript, Node.js, OpenAI, AWS, GenAI, LLMs
+- Built internal full stack app with chat interface and content generation features using OpenAI LLMs for enterprise workflows
+- Designed intuitive UX flows for AI-powered smart suggestions and autocomplete; deployed on AWS with CI/CD
+- Operationalized workflows at scale for internal teams, reducing manual task time 40%
+
+Knowledge Hub API Platform | Java, SpringBoot, GraphQL, REST, NoSQL, Caching
+- Architected and delivered scalable backend services using SpringBoot with GraphQL and REST endpoints for metadata across 50K+ records
+- Applied caching strategies and indexing to improve 3rd party query performance by 30%
+- Built quality APIs for internal products with focus on reliability and high performance; designed using modern design patterns
+
+EDUCATION
+B.S. Computer Science, University of California, Davis | Expected 06/2026
+Dean's List. Relevant Coursework: Data Structures, Algorithms, Distributed Systems, Machine Learning, Cloud Computing
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Completed: GraphQL Fundamentals Course

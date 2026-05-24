@@ -1,0 +1,59 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER (NEW GRAD 2026)
+
+SUMMARY
+Full-stack software engineer (B.S. Computer Engineering 2026) with experience building React/TypeScript UI, Node.js/GraphQL services, and Java/Spring Boot APIs across internships and projects. Delivered measurable workflow impact by integrating LLM-assisted summaries and drafting (20% faster turnaround) into internal tools. Strong foundation in algorithms, scalable API design, and cloud deployment; effective partner with product and design.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React
+Backend: Node.js, Express, Spring Boot, Flask, REST APIs, GraphQL
+Datastores: PostgreSQL, MongoDB, DynamoDB
+Cloud/DevOps: AWS, GCP, Docker, Jenkins, Git, CI/CD
+AI: LLM integration, prompt engineering
+Concepts: cloud computing, testing, enterprise applications
+
+EXPERIENCE
+
+Software Engineer Intern | BlueOrbit Software, Remote | May 2025 – Aug 2025
+Technologies: React, TypeScript, Node.js, GraphQL
+- Improved cross-team planning efficiency for 200+ users across 4 departments by delivering employee-facing React features for a resource planning platform
+- Enabled scheduling, search, and recommendation workflows by building 10 Node.js services and GraphQL resolvers processing 5,000+ daily requests
+- Improved task turnaround time by 20% by integrating generative AI for smart summaries and response drafting into 3 internal workflows
+- Increased usability for high-usage dashboards by partnering with product and design to refine UX flows, reducing user-reported friction by 25%
+- Reduced release risk by participating in code reviews and contributing to release testing, catching 12 critical bugs before production
+
+Backend Developer Intern | Civic Data Labs, Austin, TX | Jan 2025 – Apr 2025
+Technologies: Java, Spring Boot, MongoDB, PostgreSQL
+- Delivered data collection and reporting capabilities by building 8 Spring Boot API endpoints and service integrations serving 50+ internal analysts
+- Supported transactional and semi-structured workloads by managing data access patterns across MongoDB and PostgreSQL handling 100K+ records
+- Improved API reliability and debuggability by implementing input validation, error handling, and logging practices, reducing error rate by 18%
+- Increased engineering velocity by documenting 20+ endpoints and integration patterns for internal teams
+
+EDUCATION
+B.S. in Computer Engineering | The University of Texas at Austin | 2026
+GPA: 3.6/4.0 | Relevant Coursework: Algorithms, Software Design, Databases, Cloud Computing, Artificial Intelligence, Web Programming
+
+CERTIFICATIONS
+- Google Cloud Digital Leader (2025)
+- AWS Certified Cloud Practitioner (2025)
+
+PROJECTS
+
+Ops Assistant AI | github.com/sofiaramirez/ops-assistant-ai
+Technologies: React, Node.js, GraphQL, DynamoDB, LLM APIs
+- Built a full-stack internal operations assistant handling 800+ test interactions across 4 simulated user roles
+- Improved workflow completion speed by 30% by implementing chat interfaces, autocomplete, and smart suggestions
+- Improved reliability by integrating third-party LLM APIs with fallback handling, achieving 99% uptime in testing
+- Enabled secure multi-user access by designing scalable backend APIs and authentication flows for 5 permission levels
+
+Media Metadata Explorer | github.com/sofiaramirez/media-metadata-explorer
+Technologies: React, Java, Spring Boot, REST
+- Built a React + Spring Boot application for searching, tagging, and analyzing 25,000+ media metadata records
+- Improved discoverability by adding analytics dashboards and filtering features, reducing average search time by 45%
+
+ACTIVITIES
+Women in Computing | Member | 2023 – Present
+- Strengthened technical communication through interview prep, peer mentorship, and collaborative project workshops with 80+ members

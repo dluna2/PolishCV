@@ -1,0 +1,54 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer with experience building employee-facing internal tools using React, Node.js, JavaScript, and GraphQL. Shipped GenAI-assisted autocomplete and recommendations for enterprise workflow suites serving 400+ users. Developed REST APIs and NoSQL data layers on AWS and GCP, automating workflows that reduced manual effort by 35%. Demonstrated independent ownership leading 4 to 6 person student teams through end-to-end delivery.
+
+SKILLS
+Frontend: JavaScript, React, Next.js, HTML, CSS, responsive design, UX flows
+Backend: Node.js, GraphQL, REST APIs, Java, Python, Spring Boot
+Data & AI: NoSQL (MongoDB, Redis, Firebase), PostgreSQL, GenAI, AI-assisted recommendations, autocomplete, smart suggestions
+Cloud & Platform: AWS, GCP, Docker, Firebase, scalability, reliability, CI/CD
+Practices: Git, Cypress automated testing, Agile, cross-functional collaboration, data-driven decisions, ownership, accessibility
+
+EXPERIENCE
+
+Cascade Logic — Frontend Intern
+Seattle, WA | 06/2025 – 08/2025
+- Designed and implemented responsive React components for an internal workflow suite used by 400+ employee operations team members
+- Integrated Node.js and GraphQL backend services into 8 UI features for search, approvals, and task management
+- Added autocomplete and GenAI-assisted recommendations, reducing repetitive user actions in high-usage workflows by 30%
+- Improved frontend reliability by contributing 45 Cypress component tests, fixing 12 accessibility issues, and resolving 18 bugs
+
+UW Digital Services — Developer Intern
+Seattle, WA | 01/2025 – 05/2025
+- Built internal web tools using JavaScript, React, and Firebase supporting 3,000+ students and staff for service requests and document routing
+- Developed REST APIs and backend scripts for notifications, data processing, and user activity tracking across 500+ daily events
+- Gathered requirements from 5 stakeholder teams and prioritized enhancements based on user feedback
+- Automated 4 recurring workflows through web-based tools, reducing manual administrative effort by 35%
+
+LEADERSHIP
+
+Husky Builders Club — Technical Lead
+University of Washington | 09/2024 – Present
+- Lead student teams of 4 to 6 engineers through planning, development, and demo delivery for 2 full-stack applications
+- Coordinated milestone tracking, architecture reviews, and peer code reviews across 3 project phases
+- Communicated technical tradeoffs to non-technical stakeholders and drove independent decision-making
+
+PROJECTS
+
+AI Workflow Studio
+- Built workflow assistant with chat interface and smart suggestions using React and Node.js
+- Implemented content generation features backed by NoSQL data store with analytics and audit trails
+
+Review Operations Hub
+- Developed review and approval platform with dashboards and authentication
+- Improved performance for internal tooling through optimized data fetching
+
+EDUCATION
+University of Washington — B.S. Computer Science
+Seattle, WA | Expected 06/2027
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate
+AWS Academy Cloud Foundations

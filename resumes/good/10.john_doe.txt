@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent graduate in Software Engineering with internship and project experience building cloud-based internal applications, backend APIs, and AI-powered user experiences. Experienced with React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL databases. Strong foundation in algorithms, modern design patterns, and scalable system development, with a passion for shipping high-quality enterprise products.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Redis, GitHub Actions, Cypress
+Concepts: enterprise applications, cloud computing, internal tools, GenAI, LLM integration, REST APIs, GraphQL APIs, scalable architecture, testing, Agile
+
+EXPERIENCE
+
+Software Engineering Intern | Pacific Core Systems, San Diego, CA | May 2025 – Aug 2025
+- Developed React features for an internal enterprise application used by 400+ employees to manage requests and workflow approvals
+- Built Node.js and GraphQL services powering dashboards, search, and task state updates processing 6,000+ daily events
+- Integrated LLM-assisted content generation and smart suggestions into workflow forms, reducing form completion time by 28%
+- Worked with designers and product managers to refine UX flows for 5 AI-powered features, improving task success rate by 22%
+- Improved release quality by adding 40+ automated tests, conducting code reviews, and maintaining deployment checklists that cut rollbacks by 25%
+
+Application Development Intern | Triton Technology Services, San Diego, CA | Jan 2025 – Apr 2025
+- Built Java and Spring Boot backend services for internal reporting and workflow automation tools serving 200+ staff
+- Integrated 4 third-party APIs and internal data services, streamlining 3 core operational processes
+- Used MongoDB and PostgreSQL to support 70,000+ transactional and document-based records
+- Added error handling and logging, reducing unhandled exception rate by 19% and improving maintainability
+
+EDUCATION
+B.S. in Software Engineering | University of California, San Diego | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Cloud Computing, Natural Language Processing
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2025)
+- Databricks Generative AI Fundamentals (2025)
+
+PROJECTS
+
+AI Service Desk | github.com/gracelee/ai-service-desk
+- Built a full-stack employee service platform handling 750+ simulated support tickets across 5 user roles
+- Designed chat, autocomplete, and smart suggestion experiences, reducing average ticket resolution time by 35%
+- Developed backend APIs for ticket state, user context, prompt logging, and 3 service integrations
+- Deployed cloud-hosted services sustaining <300ms p95 latency during load and integration testing
+
+Enterprise Task Stream | github.com/gracelee/enterprise-task-stream
+- Created a React and Spring Boot workflow platform for internal task management and analytics across 4 teams
+- Built REST APIs, dashboards, and reporting views for 8+ stakeholder roles tracking 15 operational KPIs
+- Improved data visibility through searchable activity histories spanning 10,000+ task records

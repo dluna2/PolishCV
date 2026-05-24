@@ -1,0 +1,60 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER (NEW GRAD 2026)
+
+SUMMARY
+Full-stack software engineer (B.S. CS 2026) with experience shipping React/TypeScript UI features and Node.js/GraphQL + REST APIs across internship, research, and projects. Delivered measurable workflow impact (25% manual processing reduction) and built LLM-assisted UX features to improve user speed and consistency. Strong fundamentals in data structures/algorithms, scalable API design, and cloud deployment.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Next.js
+Backend: Node.js, Express, Spring Boot, REST APIs, GraphQL
+Datastores: PostgreSQL, MongoDB, Redis
+Cloud/DevOps: AWS, GCP, Docker, CI/CD (GitHub Actions)
+Testing: Jest, Cypress
+AI: GenAI, LLM integration
+
+EXPERIENCE
+
+Software Engineering Intern | CloudBridge Systems, San Francisco, CA | Jun 2025 – Aug 2025
+Technologies: React, TypeScript, Node.js, Express, REST, GraphQL, GitHub Actions
+- Reduced manual processing time by 25% by designing and delivering task status/approval/reporting capabilities across REST and GraphQL endpoints serving 300+ internal users
+- Improved internal request throughput by 18% by building employee-facing dashboard features in React that streamlined workflow request management across 4 teams
+- Improved form completion speed and consistency by integrating OpenAI-powered smart text suggestions into internal form experiences, cutting average form completion time by 40%
+- Increased usability and accessibility by partnering with PM/design to iterate on UX flows and performance hot spots across 6 high-traffic screens
+- Reduced regression risk by adding 45+ unit/integration tests and contributing to CI/CD workflows in GitHub Actions, cutting deployment rollbacks by 30%
+
+Undergraduate Research Assistant, Applied AI Lab | University of California, Davis | Sep 2024 – May 2025
+Technologies: Python, LLMs, embeddings, retrieval pipelines
+- Built LLM-powered semantic search and Q&A prototypes for enterprise-style document retrieval, improving answer relevance scores by 22% over baseline keyword search
+- Improved retrieval readiness by building Python preprocessing services for 10,000+ structured and unstructured documents to support vector-embedding workflows
+- Enabled data-driven model selection by evaluating prompt quality, latency, and accuracy across 5 model configurations and presenting findings to faculty and student teams
+- Improved reliability of AI-generated responses by collaborating with 3 researchers to design experiments and iterate on evaluation criteria, reducing hallucination rate by 15%
+
+Teaching Assistant, Data Structures | University of California, Davis | Jan 2024 – May 2024
+- Supported 60+ students on algorithms, recursion, graph traversal, and complexity analysis by running weekly office hours and targeted review sessions
+- Improved student debugging and code quality by leading 10 weekly debugging sessions and code reviews focused on clean code and testing; section pass rate improved by 12%
+
+EDUCATION
+B.S. in Computer Science | University of California, Davis | 2026
+GPA: 3.8/4.0 | Dean's List | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Machine Learning, Distributed Systems
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- GraphQL with React: Professional Certificate (2025)
+
+PROJECTS
+
+AI Workflow Assistant | github.com/mayapatel/ai-workflow-assistant
+Technologies: React, Node.js, GraphQL, MongoDB, LLM APIs
+- Built an enterprise-style internal productivity tool with React, Node.js, GraphQL, and MongoDB supporting 5 simulated user roles
+- Implemented LLM-powered chat, autocomplete, and smart suggestions, reducing average task completion time by 35% in user testing
+- Improved auditability and reliability by implementing role-based access, workflow history, and prompt logging across 1,000+ test interactions
+- Validated scalability by deploying cloud-hosted services and sustaining <200ms p95 response time during load testing
+
+Knowledge Hub API Platform | github.com/mayapatel/knowledge-hub
+Technologies: Java, Spring Boot, REST, GraphQL
+- Developed Spring Boot services with GraphQL and REST endpoints for document metadata and search across 50,000+ records
+- Improved integration coverage by connecting 3 third-party APIs and NoSQL storage to support scalable content retrieval
+- Improved average query performance by 30% by applying indexing and caching strategies

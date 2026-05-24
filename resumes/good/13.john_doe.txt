@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent graduate in Computer Engineering with experience building scalable web applications, backend services, and AI-powered features for internal tools. Skilled in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL systems. Strong communicator with a track record of delivering polished software through internships, research, and team projects.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, GenAI, LLM integration, cloud computing, enterprise applications, testing, CI/CD, scalable backend design
+
+EXPERIENCE
+
+Software Engineer Intern | Pacific Vertex, Remote | Jun 2025 – Sep 2025
+- Developed React-based interfaces for an internal support and approvals platform used by 450+ business operations team members
+- Built backend services in Node.js and Express for workflow status, knowledge search, and notification delivery handling 4,500+ daily events
+- Integrated AI-powered suggestions and content generation using external LLM APIs, reducing manual form entry time by 32%
+- Collaborated with product managers and designers to improve usability and accessibility across 6 key features, increasing task success rate by 18%
+- Contributed 45+ tests and deployment scripts in an Agile environment, reducing release cycle time by 15%
+
+Machine Learning Applications Intern | USC Intelligent Systems Group, Los Angeles, CA | Jan 2025 – May 2025
+- Built Python applications to evaluate LLM outputs across 8 model configurations for summarization, classification, and semantic search
+- Prototyped retrieval and ranking workflows for enterprise-style document assistance across 14,000+ records
+- Created dashboards comparing model quality, latency, and prompt strategies across 6 experiments, improving top-3 retrieval accuracy by 20%
+- Presented recommendations on safe and effective AI feature integration to 3 faculty advisors and 10 student developers
+
+EDUCATION
+B.S. in Computer Engineering | University of Southern California | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Support Navigator | github.com/isabellaflores/employee-support-navigator
+- Built an employee-facing support platform handling 1,000+ simulated support interactions across 5 request types
+- Designed chat, autocomplete, and AI-generated suggestion workflows, cutting average time-to-resolution by 38%
+- Implemented backend services for request tracking, user context, and audit history across 4 integrated systems
+- Improved response quality with prompt evaluation and fallback handling, achieving 89% confidence threshold in testing
+
+Operations Tracker Pro | github.com/isabellaflores/operations-tracker-pro
+- Created a Spring Boot and React internal application for service coordination, reporting, and task tracking across 6 simulated teams
+- Built REST APIs, dashboards, and approval workflows handling 200+ daily task transitions
+- Improved reliability by 24% through validation, logging, and integration testing across 3 service layers

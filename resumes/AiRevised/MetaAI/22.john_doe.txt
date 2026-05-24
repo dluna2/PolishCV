@@ -1,0 +1,45 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 4+ years academic and professional experience building scalable employee-facing applications, REST/GraphQL APIs, and GenAI-powered workflow tools. Delivered React, Node.js, Spring Boot, and MongoDB systems serving 1,200+ internal users and processing 3,500+ daily events. Integrated LLM APIs for AI-generated drafting and smart suggestions that reduced manual content creation time by 33%. Strong cross-functional partner to engineering, design, and product with end-to-end ownership of reliable, high-quality software on AWS/GCP. Passionate about workforce productivity, internal tooling, and mission-critical enterprise systems.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML/CSS, Cypress
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs, FastAPI
+AI/ML: GenAI, LLM integration, prompt engineering, summarization, smart suggestions, chat interfaces
+Cloud & DevOps: AWS, GCP, Docker, CI/CD, Microservices
+Databases: PostgreSQL, MongoDB, Redis, NoSQL
+Practices: Scalable systems, Reliability, Testing, Monitoring, API design, Agile, Data structures, Algorithms
+EXPERIENCE
+Full-Stack Engineering Intern | Riverbend Digital | Nashville, TN | May 2025 – Aug 2025
+Led React component development for employee-facing workflow platform used by 280+ users for approvals, requests, and operational visibility
+Architected Node.js APIs and GraphQL resolvers for search, notifications, task routing, and reporting, handling 3,500+ daily events with 99.9% uptime
+Shipped AI-generated drafting and smart suggestions using third-party LLM APIs, reducing manual content creation time by 33%
+Improved frontend responsiveness by 20% by optimizing data fetching and reducing unnecessary re-renders across 5 components
+Partnered cross-functionally with engineers, designers, and product stakeholders to ship 5 features on time across 3 sprints
+Software Developer Intern | Vanderbilt Enterprise Technology | Nashville, TN | Jan 2025 – Apr 2025
+Built Spring Boot services for internal reporting and process automation serving 1,200+ campus administrative users
+Integrated MongoDB and PostgreSQL to support 55,000+ document-style and transactional records with optimized schemas
+Wrote API documentation, 28+ Cypress/Jest test cases, and onboarding notes adopted by 3 future student developers
+Supported deployment validation and bug triage for 2 internal tools, ensuring reliability for campus administrative teams
+PROJECTS
+Workflow Request Copilot | React, Node.js, LLM APIs, PostgreSQL, AWS | github.com/tylermitchell/workflow-request-copilot
+Shipped internal request assistant handling 650+ simulated employee requests across 4 enterprise workflow types
+Designed chat, summarization, and smart suggestion workflows, reducing average resolution time by 36% for internal users
+Built scalable backend services for request history, prompt logging, and workflow transitions across 5 status stages
+Implemented caching and monitoring features sustaining <250ms p95 response time during 20-user concurrent load testing
+Unified Service Gateway | Spring Boot, REST APIs, PostgreSQL | github.com/tylermitchell/unified-service-gateway
+Developed Spring Boot service layer aggregating 5 internal and third-party APIs into a single platform for employee-facing apps
+Added authentication, validation, and retry handling, reducing downstream error rate by 22%
+Reduced frontend integration complexity by 36% by centralizing shared business logic and service access
+LEADERSHIP
+Engineering Lead | Vanderbilt App Builders | Vanderbilt University | Sep 2024 – Present
+Led cross-functional student team of 5 building internal tools for 3 university organizations, delivering 2 full-stack applications on schedule
+Drove sprint planning, demo preparation, and technical documentation reviews across 2 project cycles, enforcing testing and reliability standards
+EDUCATION
+B.S. Software Engineering | Vanderbilt University | May 2027
+GPA: 3.7/4.0 | Coursework: Data Structures, Algorithms, Database Systems, Software Design, Artificial Intelligence, Web Development
+CERTIFICATIONS
+Oracle Java Foundations Associate, 2025
+Google Cloud Digital Leader, 2025

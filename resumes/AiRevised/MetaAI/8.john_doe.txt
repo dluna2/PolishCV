@@ -1,0 +1,54 @@
+John Doe
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer with experience building scalable, high-performing enterprise applications and AI-powered internal tools. Expert in JavaScript, React, Node.js, Spring Boot, GraphQL, and NoSQL systems. Designed and implemented intuitive UX flows for AI-powered features including chat interfaces, autocomplete, content generation, and smart suggestions. Developed backend services and REST/GraphQL APIs on AWS that process thousands of daily events. Collaborates effectively with product managers, designers, and engineers to deliver reliable solutions on schedule.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML, CSS, Responsive Design, UX flows
+Backend: Node.js, Express, Spring Boot, Flask, REST APIs, GraphQL, Apollo
+Data: NoSQL (MongoDB, DynamoDB), PostgreSQL, data modeling
+AI and ML: Generative AI, LLM integration, prompt engineering, retrieval and ranking, RAG, chat interfaces, autocomplete, content generation, smart suggestions
+Cloud and DevOps: AWS, Docker, Jenkins, CI/CD, Git
+Engineering Practices: data structures, algorithms, design patterns, unit testing (Jest), agile development, cross-functional collaboration
+
+WORK EXPERIENCE
+
+Software Engineer Intern | Harbor Digital, Boston, MA
+Jun 2025 – Sep 2025
+
+Engineered React-based user flows for an internal employee service portal serving 600+ users across approvals, document requests, and support workflows
+Developed 10 backend APIs using Node.js and Express for search, notifications, and workflow tracking, processing 4,000+ daily events with attention to scalability and reliability
+Integrated generative AI and LLM-powered smart suggestions and text generation into request forms, improving average form completion speed by 33%
+Collaborated with product managers and designers to test 4 prototypes and launch 3 production-ready features on schedule
+Implemented 50+ unit tests with Jest, resolved 8 bugs, and created Jenkins deployment scripts that reduced mean time to deployment by 20%
+AI Engineering Intern | Northeastern Data Lab, Boston, MA
+Jan 2025 – May 2025
+
+Developed Python applications evaluating LLM output quality across 7 model configurations for summarization and Q&A tasks
+Built retrieval and ranking workflows for enterprise-style document search prototypes across 12,000+ records
+Created dashboards comparing prompt performance, latency, and user feedback, enabling 2x faster experiment iteration across 5 experiments
+Presented technical recommendations on 3 AI integration patterns to 12 researchers and 2 faculty sponsors, influencing project direction
+PROJECTS
+
+AI Request Assistant | github.com/lilathompson/ai-request-assistant
+
+Built internal request automation platform handling 900+ simulated employee interactions across 5 workflow types
+Designed and implemented intuitive UX flows for AI-powered chat and autocomplete, reducing average time-to-resolution by 42% in user testing
+Implemented backend services for request state and analytics, integrating with 3 third-party APIs
+Improved response quality through prompt evaluation and fallback handling, achieving 91% confidence threshold
+Team Operations Portal | github.com/lilathompson/team-operations-portal
+
+Developed Spring Boot and React internal application for task tracking and service coordination across 4 simulated teams
+Built REST APIs, dashboards, and reporting features for multi-team operational workflows handling 200+ daily tasks
+Improved system reliability by 26% through structured logging, validation, and integration testing on AWS and Docker
+EDUCATION
+B.S. in Computer Science | Northeastern University | Expected May 2026
+GPA: 3.7/4.0
+Relevant Coursework: Algorithms, Data Structures, Databases, Computer Systems, Human-Computer Interaction, Machine Learning, Cloud Software Development
+
+CERTIFICATIONS
+
+AWS Certified Developer – Associate (2025)
+Apollo GraphQL Associate Certification (2025)

@@ -1,0 +1,49 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack software engineer with experience designing and delivering scalable, AI-powered enterprise applications and internal platforms. Strong track record building React, Node.js, Spring Boot, and GraphQL systems that power employee-facing workflows and operational tooling. Hands-on experience integrating GenAI and LLM-driven features including chat interfaces, autocomplete, and intelligent recommendations to improve productivity and reduce manual effort. Proven ability to own features end-to-end, collaborate cross-functionally with product, design, and engineering stakeholders, and ship reliable, high-performance systems on AWS.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Next.js, HTML/CSS, Jest
+Backend: Node.js, Express, Spring Boot, REST APIs, GraphQL APIs, Microservices
+AI/ML: GenAI, LLM integration, RAG pipelines, prompt engineering, OpenAI APIs
+Cloud & DevOps: AWS (Lambda, API Gateway, DynamoDB, S3), Docker, CI/CD, GitHub Actions
+Databases: PostgreSQL, MongoDB, DynamoDB, Redis, NoSQL data modeling
+Practices: Scalable system design, API architecture, reliability engineering, testing, monitoring, data structures, algorithms, Agile
+
+EXPERIENCE
+Software Engineering Intern | Summit Grid Technologies | Remote | Jun 2025 – Aug 2025
+Owned development of a React and TypeScript internal operations platform used by 400+ employees, optimizing approval, request, and reporting workflows across multiple business functions
+Designed and implemented Node.js and GraphQL backend services for task routing, notifications, and workflow orchestration, processing 4,500+ daily events with 99.9% service reliability
+Architected and integrated GenAI-powered smart suggestions into employee-facing workflows using third-party LLM APIs, reducing manual input time by 29% and improving data consistency
+Collaborated cross-functionally with product managers and designers to redesign UX across 5 core modules, increasing feature adoption by 22% and improving user efficiency
+Led testing and release quality initiatives with 50+ automated tests and CI/CD pipelines, reducing regression incidents by 32% and improving deployment stability
+
+Research Assistant | Applied Systems Lab | Colorado State University | Sep 2024 – May 2025
+Engineered Python-based retrieval-augmented generation pipelines across 18,000+ documents, enabling scalable evaluation of LLM-based knowledge systems
+Optimized LLM performance by benchmarking 6 model and prompt configurations, improving top-3 retrieval precision by 18% while reducing response latency
+Developed internal React dashboards for evaluating output quality, latency, and relevance, accelerating experimentation cycles by 2.5x across multiple research initiatives
+Partnered with faculty and cross-functional research teams to formalize GenAI integration patterns, influencing adoption in downstream enterprise-oriented projects
+
+PROJECTS
+OpsFlow AI Assistant | React, Node.js, AWS, OpenAI, DynamoDB | github.com/adrianwells/opsflow-ai-assistant
+Designed and built an AI-powered enterprise workflow assistant supporting chat, autocomplete, and recommendation-driven task execution across internal workflows
+Implemented scalable backend services for prompt history, audit logging, and workflow tracking across distributed microservices architecture
+Simulated 850+ workflow executions across 4 categories, reducing task completion time by 34% through intelligent automation and contextual suggestions
+Deployed on AWS using Docker with monitoring and load testing for 30 concurrent users, sustaining <250ms p95 latency and high system reliability
+
+Enterprise Connector Platform | Spring Boot, React, GraphQL, PostgreSQL | github.com/adrianwells/enterprise-connector-platform
+Led end-to-end development of a Spring Boot and React platform integrating 5 internal and third-party systems through unified REST and GraphQL APIs
+Designed role-based dashboards, monitoring systems, and secure data exchange pipelines enabling cross-team workflow orchestration
+Improved system reliability by 29% through implementation of validation layers, retry mechanisms, and structured error handling strategies
+Built extensible API architecture supporting scalable integrations and maintainable service expansion across enterprise use cases
+
+EDUCATION
+B.S. Computer Science | Colorado State University | May 2026
+GPA: 3.8/4.0 | Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner, 2025
+Neo4j Graph Data Science Fundamentals, 2025

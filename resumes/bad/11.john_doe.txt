@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+SUMMERY
+Curious software person with experience across apps, AI, and internal systems. I like solving problems, working with teams, and learning quickly in fast-paced environments. Interested in building useful things and finding a company where I can grow.
+
+STRENGTHS
+coding, communication, research, product thinking, teamwork, ownership, curiosity, adaptability, cloud, testing, databases, APIs, AI
+
+TECH OVERVIEW
+JavaScript, TypeScript, Python, Java, SQL, React, Node, Express, Spring, GraphQL, Next, AWS, Docker, Git, Mongo, Dynamo, Postgres, Jest, CI things
+
+WORK HISTORY
+Redwood Platforms | software intern | 2025
+- built features for internal operations
+- worked on requests and reporting
+- touched services and notifications
+- helped with AI suggestion ideas
+- worked with PM and design
+- added tests
+
+Stanford HAI Lab | assistant / research
+- prototyped knowledge tools
+- compared prompts and model quality
+- made dashboards and notes
+- shared findings with team
+
+SCHOOL STUFF
+UC Berkeley
+Computer Science
+2026
+GPA is good
+
+CERTS / COURSES
+AWS cloud practitioner
+GraphQL certification
+other online learning
+
+PROJECTS SECTION
+Workforce AI Assistant
+- full stack productivity tool
+- chat and recommendations
+- logging and sessions
+- deployed in cloud
+
+Internal Service Orchestrator
+- platform connecting services
+- dashboards and monitoring
+- retry logic and validation
+
+

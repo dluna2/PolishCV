@@ -1,0 +1,49 @@
+John Doe
+San Francisco, CA
+
+INTRO
+Software person with experience in applications, APIs, cloud systems, and AI-related features. Strong at figuring things out, collaborating, and getting projects across the finish line. Interested in meaningful products and teams with good people.
+
+SKILL AREAS
+Programming, architecture, web apps, internal tooling, AI support features, cloud, data, debugging, testing, teamwork, adaptability
+
+TECH
+JS / TS / Python / Java / SQL / React / Node / Express / Spring / GraphQL / FastAPI / AWS / Mongo / Dynamo / Postgres / Redis / GitHub Actions / Cypress
+
+WORK EXPERIENCE
+Pacific Core Systems | 2025
+- developed features for an enterprise app
+- built services for dashboards and search
+- used AI assistance in forms and support pages
+- partnered with design/product
+- improved quality checks
+
+Triton Technology Services | 2025
+- built backend services
+- integrated APIs and data
+- worked with databases
+- added error handling/logging
+
+EDUCATION
+UC San Diego
+Software Engineering
+2026
+GPA can be discussed
+
+CERTIFICATIONS + LEARNING
+AWS Solutions Architect
+GenAI fundamentals
+other coursework
+
+PROJECTS
+AI Service Desk
+- employee service platform
+- chat/autocomplete/suggestions
+- backend ticket/context logging
+- scalability testing
+
+Enterprise Task Stream
+- workflow platform
+- dashboards and reporting
+- searchable histories
+

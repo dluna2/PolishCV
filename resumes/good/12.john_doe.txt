@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Third-year Software Engineering student with internship experience building full-stack applications, scalable APIs, and AI-enhanced internal tools. Proficient in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL technologies. Strong problem-solver with experience collaborating across engineering, design, and product teams to deliver high-quality software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API design, LLM applications, enterprise workflow tools, cloud infrastructure, scalable systems, algorithms, testing, debugging, Agile development
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Longhorn Digital Systems, Austin, TX | May 2025 – Aug 2025
+- Built employee-facing React interfaces for a workflow platform serving 350+ users managing approvals and operational requests
+- Developed Node.js APIs and GraphQL resolvers for search, task routing, notifications, and status tracking processing 5,000+ daily events
+- Added AI-generated drafting and smart suggestions using third-party LLM APIs, reducing manual content creation time by 38%
+- Improved page responsiveness by 20% through component optimization and reduced unnecessary data fetching across 7 views
+- Collaborated with designers and engineers in sprint planning, implementation, and launch reviews, shipping 5 features across 3 sprints
+
+Software Developer Intern | UT Enterprise Apps, Austin, TX | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and student operations applications serving 2,000+ campus users
+- Integrated PostgreSQL and MongoDB data layers managing 90,000+ transactional and document-based records
+- Wrote API documentation, 35+ test cases, and onboarding notes for 4 student developers
+- Assisted with deployment validation and bug triage for 3 internal tools used across campus teams
+
+EDUCATION
+B.S. in Software Engineering | The University of Texas at Austin | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Architecture, Artificial Intelligence, Web Development
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Enterprise Request Copilot | github.com/marcusreed/enterprise-request-copilot
+- Built an internal request assistant handling 800+ simulated requests across 4 workflow types
+- Implemented chat, summarization, and smart suggestion workflows, reducing average request resolution time by 40%
+- Designed backend services for prompt logging, request history, and workflow state transitions across 5 status stages
+- Added monitoring and caching features sustaining <250ms response time during testing with 25 concurrent users
+
+Workflow Integration Gateway | github.com/marcusreed/workflow-integration-gateway
+- Developed a Spring Boot service layer aggregating 5 internal and third-party APIs into a unified platform
+- Added authentication, validation, and retry handling, reducing downstream error rate by 23%
+- Reduced frontend integration effort by 35% by centralizing shared business logic and data access
+
+LEADERSHIP
+Project Lead | UT App Builders | Sep 2024 – Present
+- Led a team of 5 students developing internal tools for 3 student organizations, delivering 2 full applications on schedule
+- Coordinated design reviews, sprint planning, and technical demos across 2 project cycles

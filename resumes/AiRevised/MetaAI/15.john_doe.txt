@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Software Engineer focused on employee-facing enterprise tools. Builds intuitive front-end experiences in React and JavaScript with Node.js and GraphQL APIs, and Java Spring Boot backend services backed by NoSQL and SQL data layers. Experience integrating LLM-powered content generation, chat, autocomplete, and smart suggestions into internal workflows on AWS. Delivers high-quality products through automated testing, code reviews, and cross-functional partnership with designers and product managers. Thrives on independence and data-driven decisions in dynamic environments.
+
+SKILLS
+Frontend: JavaScript, TypeScript, React, HTML, CSS, responsive design
+Backend: Node.js, Express, Spring Boot, Java, Python, FastAPI, REST APIs, GraphQL
+Data: NoSQL, MongoDB, DynamoDB, PostgreSQL, Redis, SQL, data structures, algorithms
+AI and LLM: Generative AI, LLMs, LLM-based content generation, chat interfaces, autocomplete, smart suggestions, prompt engineering, Natural Language Processing
+Cloud and DevOps: Amazon Web Services (AWS), Docker, GitHub Actions, CI/CD, Jest, logging, monitoring, cloud computing
+Practices: modern design patterns, API design, third-party integrations, scalable systems, software architecture, debugging, testing
+
+WORK EXPERIENCE
+
+Horizon Core Systems – Software Engineer Intern
+San Diego, CA | Jun 2025 – Aug 2025
+
+Developed React features for internal enterprise application supporting 500+ employees for requests, approvals, and analytics
+Built Node.js and GraphQL services powering dashboards, search, and workflow state updates across 5,500+ daily events
+Integrated LLM-based content generation and smart suggestions into support pages and workflow forms, reducing task completion time by 27%
+Partnered with designers and product managers to refine UX flows for 5 AI-powered features, increasing task success rate by 20%
+Improved release quality by adding 42+ automated tests with Jest, conducting code reviews, and maintaining deployment checklists that cut rollbacks by 22%
+Triton Enterprise Technology – Backend Engineer Intern
+San Diego, CA | Jan 2025 – Apr 2025
+
+Developed Java and Spring Boot backend services for internal workflow automation and reporting tools serving 300+ staff
+Integrated 4 internal and third-party APIs, streamlining 3 key operational data exchange workflows
+Implemented MongoDB and PostgreSQL data models supporting 80,000+ document-based and transactional records
+Added validation, error handling, and logging, reducing unhandled error rate by 17%
+PROJECTS
+
+Internal Helpdesk AI – github.com/nehadesai/internal-helpdesk-ai
+
+Designed full-stack employee support tool handling 800+ simulated support tickets across 5 categories
+Built chat, autocomplete, and smart suggestion experiences with React frontend and Node.js GraphQL backend, reducing average resolution time by 36%
+Developed backend APIs for ticket state, user context, prompt logs, and 3 service integrations
+Deployed cloud-hosted services on AWS with Docker, sustaining <300ms p95 latency during load testing
+Enterprise Process Stream – github.com/nehadesai/enterprise-process-stream
+
+Created React and Spring Boot workflow platform for internal task management across 4 teams and 15 KPIs
+Built REST APIs, dashboards, and searchable activity histories spanning 8,000+ task records
+Delivered analytics views that improved stakeholder decision-making, reducing average reporting prep time by 30%
+EDUCATION
+University of California San Diego – B.S. Software Engineering | Expected 2026
+Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Cloud Computing, Natural Language Processing
+
+CERTIFICATIONS
+
+AWS Certified Solutions Architect – Associate
+Databricks Generative AI Fundamentals, 2025

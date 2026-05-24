@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack software engineer with experience designing and delivering scalable, AI-powered enterprise applications and internal workflow platforms. Proven ability to build React, Node.js, Spring Boot, and GraphQL systems supporting employee-facing tools and high-volume operations. Hands-on experience integrating GenAI and LLM-powered features including chat interfaces, autocomplete, and intelligent recommendations to improve productivity and reduce manual effort. Strong ownership mindset with a track record of delivering reliable, high-performance systems through internships, research, and end-to-end project execution on AWS.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Next.js, HTML/CSS, Jest
+Backend: Node.js, Express, Spring Boot, Flask, REST APIs, GraphQL APIs, Microservices
+AI/ML: GenAI, LLM integration, RAG pipelines, prompt engineering, summarization, semantic search
+Cloud & DevOps: AWS (Lambda, API Gateway, DynamoDB, S3), Docker, CI/CD, Jenkins, GitHub Actions
+Databases: PostgreSQL, MongoDB, DynamoDB, Redis, NoSQL data modeling
+Practices: Scalable system design, API architecture, reliability engineering, testing, monitoring, debugging, Agile, data structures, algorithms
+
+EXPERIENCE
+
+Software Engineer Intern | Oakline Systems, Remote | Jun 2025 – Sep 2025
+Owned development of a React-based internal support and approvals platform used by 500+ employees, enabling streamlined request handling and workflow visibility across business operations
+Designed and implemented 11 backend services using Node.js and Express for workflow orchestration, knowledge search, and notification delivery, processing 4,000+ daily events with high reliability
+Integrated GenAI-powered suggestions and content generation using external LLM APIs, reducing form completion time by 31% and improving user efficiency
+Collaborated cross-functionally with product managers and designers to optimize 6 UX workflows, increasing task success rate by 19%
+Enhanced deployment quality and speed by adding 48+ automated tests and CI/CD automation, reducing deployment cycle time by 18%
+
+AI Applications Intern | NC State Intelligent Computing Lab, Raleigh, NC | Jan 2025 – May 2025
+Engineered Python-based systems to evaluate LLM performance across 7 model configurations for summarization, classification, and semantic search use cases
+Prototyped retrieval and ranking pipelines across 13,000+ records, enabling scalable document assistance and knowledge retrieval workflows
+Developed dashboards for analyzing model quality, latency, and prompt strategies, accelerating experimentation cycles by 2x across multiple projects
+Collaborated with faculty and research teams to define safe and effective AI feature patterns, influencing adoption across 3 downstream applications
+
+PROJECTS
+
+Employee Support Navigator | github.com/cameronprice/employee-support-navigator
+Designed and built an AI-powered employee support platform with chat, autocomplete, and intelligent suggestion workflows across 5 request categories
+Implemented scalable backend services for request tracking, user context, and audit history across 4 integrated systems
+Processed 950+ simulated interactions, reducing average time-to-resolution by 40% through automation and contextual recommendations
+Improved system robustness through prompt evaluation strategies and fallback handling, achieving 90% confidence thresholds in testing
+
+Process Tracker Studio | github.com/cameronprice/process-tracker-studio
+Built a Spring Boot and React application for task coordination, reporting, and approval workflows across 5 simulated teams
+Designed REST APIs and dashboards supporting 180+ daily task transitions with reliable state management
+Improved system reliability by 23% through validation layers, structured logging, and integration testing
+Developed extensible backend architecture enabling scalable workflow management and service coordination
+
+EDUCATION
+B.S. in Computer Engineering | North Carolina State University | 2026
+GPA: 3.7/4.0 | Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+AWS Certified Developer – Associate, 2025
+Microsoft Azure AI Fundamentals, 2025

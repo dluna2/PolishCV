@@ -1,0 +1,45 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 3+ years academic and internship experience delivering scalable, enterprise applications and internal tools. Built React, Node.js, Spring Boot, and GraphQL systems powering employee-facing workflows for 1,500+ users. Integrated GenAI and LLM-powered features including chat, smart recommendations, and AI-generated drafting to reduce manual work by 35%. Collaborate cross-functionally with engineers, designers, and product partners to ship reliable, high-quality UX and backend services on AWS and GCP. Passion for internal tooling, data-driven decisions, and end-to-end ownership of workforce productivity products.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML/CSS, Cypress
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs, FastAPI
+AI/ML: GenAI, LLM integration, RAG, prompt engineering, summarization
+Cloud & DevOps: AWS, GCP, Docker, CI/CD, Microservices
+Databases: PostgreSQL, MongoDB, NoSQL, Redis
+Practices: Scalable systems, Reliability, API design, Testing, Monitoring, Debugging, Agile, Data structures, Algorithms
+EXPERIENCE
+Full-Stack Engineering Intern | Sonoran Digital Labs | Phoenix, AZ | May 2025 – Aug 2025
+Owned React component development for employee-facing workflow platform serving 300+ users, delivering approvals, requests, and status visibility features
+Designed and shipped Node.js APIs and GraphQL resolvers for search, notifications, task routing, and reporting, processing 4,000+ daily events with high reliability
+Integrated GenAI and LLM-powered drafting and smart recommendations using external LLM services, reducing manual content creation time by 35%
+Optimized frontend performance by 22% through data fetching improvements and re-render reduction across 6 core components
+Collaborated cross-functionally with engineers, designers, and product partners to deliver 5 features on time across 3 two-week sprints
+Software Developer Intern | ASU Enterprise Technology | Tempe, AZ | Jan 2025 – Apr 2025
+Built Spring Boot microservices for internal reporting and process automation used by 1,500+ campus administrative users
+Architected MongoDB and PostgreSQL data layers managing 60,000+ document-style and transactional records with NoSQL and SQL access patterns
+Authored API documentation, 30+ automated test cases, and onboarding guides adopted by 3 future student developers
+Led deployment validation and bug triage for 2 enterprise tools, improving reliability and reducing production incidents
+PROJECTS
+Workplace Request Copilot | React, Node.js, AWS, LLM APIs, Redis | github.com/briannayoung/workplace-request-copilot
+Shipped employee-facing AI request assistant handling 700+ simulated requests across 4 internal workflow types for workforce productivity
+Implemented chat interfaces, summarization, and smart suggestion workflows, cutting average resolution time by 37%
+Built scalable backend services for request history, prompt logging, and workflow transitions across 5 status stages
+Added caching and monitoring, sustaining <250ms p95 response time under 20-user concurrent load with 99.9% reliability
+Integration Service Gateway | Spring Boot, GraphQL, PostgreSQL | github.com/briannayoung/integration-service-gateway
+Led development of Spring Boot service layer aggregating 5 internal and third-party APIs into unified REST and GraphQL endpoints
+Implemented authentication, validation, and retry handling, reducing downstream error rate by 25% and improving system reliability
+Reduced frontend integration complexity by 38% by centralizing shared business logic and service access for 3 internal teams
+EDUCATION
+B.S. Software Engineering | Arizona State University | Expected May 2027
+GPA: 3.7/4.0 | Coursework: Data Structures, Algorithms, Database Management, Software Design, Artificial Intelligence, Web Engineering
+CERTIFICATIONS
+Oracle Java Foundations Associate, 2025
+Google Cloud Digital Leader, 2025
+LEADERSHIP
+Project Coordinator | ASU Code Collective | Sep 2024 – Present
+Coordinated cross-functional student team of 5 building internal web tools for 3 campus organizations, delivering 2 projects on schedule
+Led sprint planning, demo prep, and technical documentation reviews across 2 full development cycles

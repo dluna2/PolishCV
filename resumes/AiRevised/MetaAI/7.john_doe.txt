@@ -1,0 +1,76 @@
+John Doe
+San Francisco, CA
+
+Summary
+Full Stack Software Engineer with hands-on experience building enterprise, employee-facing applications with React, Node.js, JavaScript, Spring Boot, GraphQL, and NoSQL. Proven ability to design and implement intuitive UX flows for AI-powered features including chat interfaces, summarization, and smart suggestions using GenAI and LLMs. Experienced integrating third-party LLM APIs into existing workflow systems on AWS and GCP, delivering scalable, reliable backend services and REST/GraphQL APIs. Strong foundation in data structures, algorithms, and modern design patterns. Thrives independently while partnering cross-functionally with engineers, product managers, and designers to ship high-quality products on time.
+
+Skills
+Languages: JavaScript, TypeScript, Java, Python, SQL
+
+Frontend: React, Node.js, HTML/CSS, responsive UX flows
+
+Backend: Spring Boot, Express, FastAPI, REST APIs, GraphQL
+
+Data: NoSQL (MongoDB, Redis), PostgreSQL, data modeling
+
+AI/ML: GenAI, LLMs, prompt engineering, AI-generated drafting, smart recommendations, chat interfaces, summarization
+
+Cloud & DevOps: AWS, GCP, Docker, CI/CD, deployment, monitoring
+
+Practices: scalable systems, reliability, API development, enterprise applications, system design, data structures, algorithms, design patterns, testing (Cypress, Postman), Agile development, cross-functional collaboration
+
+Experience
+Full-Stack Engineering Intern | Stratus Labs, Chicago, IL | May 2025 – August 2025
+- Designed and implemented React and JavaScript UI components for employee-facing workflow orchestration platform used by 250+ internal users
+
+- Built Node.js backend services and GraphQL resolvers supporting 8,000+ daily approvals, search queries, and task routing events with focus on scalability and reliability
+
+- Integrated GenAI and LLM-powered capabilities (third-party LLM APIs) to deliver AI-generated drafting and smart suggestions, reducing manual entry time by 32% in user testing
+
+- Optimized frontend performance by 18% by reducing unnecessary API calls and improving rendering patterns across 6 components
+
+- Partnered cross-functionally with engineers, designers, and product managers to ship 6 features in 3 two-week sprints, communicating technical tradeoffs to influence direction
+
+Software Developer Intern | Midwest Innovation Center, Chicago, IL | January 2025 – April 2025
+- Developed Spring Boot microservices and REST APIs for internal reporting and request management applications serving 120+ staff
+
+- Integrated NoSQL (MongoDB) and PostgreSQL data layers supporting 50,000+ structured and semi-structured records
+
+- Created API documentation and 30+ automated test cases to improve maintainability and code quality
+
+- Supported deployment and monitoring of 3 internal tools on cloud infrastructure for campus operations teams
+
+Projects
+Ops Copilot Dashboard | github.com/noahbennett/ops-copilot-dashboard
+- Built full-stack internal operations assistant for enterprise workflows handling 600+ simulated employee requests
+
+- Implemented intuitive UX flows for AI-powered features: chat interfaces, summarization, and smart suggestions using LLMs
+
+- Designed backend services for prompt storage, user sessions, and workflow state management across 4 workflow types
+
+- Added caching with Redis and monitoring, sustaining <200ms response time under demo-scale load
+
+Internal API Gateway | github.com/noahbennett/internal-api-gateway
+- Built Spring Boot service layer aggregating 6 internal and third-party APIs into unified GraphQL and REST interface
+
+- Implemented authentication, request validation, and fallback handling, reducing downstream error rate by 24%
+
+- Centralized common business logic, improving frontend integration speed by 40% for internal consumers
+
+Education
+B.S. Computer Science | University of Illinois Chicago | Expected May 2027
+
+GPA: 3.7/4.0
+
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Operating Systems, Artificial Intelligence
+
+Certifications
+- Oracle Java Foundations Associate – 2025
+
+- Google Cloud Digital Leader – 2025
+
+Leadership
+Engineering Lead | UIC App Development Club | September 2024 – Present
+- Led team of 6 students delivering internal web tools for 4 campus organizations, owning end-to-end development
+
+- Organized sprint planning and technical design sessions, delivered 2 full project cycles on time

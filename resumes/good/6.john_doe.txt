@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Early-career Software Engineer with internship, research, and project experience building full-stack applications, internal tools, and AI-powered workflows. Strong background in JavaScript, React, Node.js, Python, and Java, with hands-on experience in Spring Boot, GraphQL, NoSQL databases, and cloud platforms. Known for strong problem-solving, clear communication, and delivering polished software in collaborative environments.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, scalable applications, internal tools, data structures, algorithms, CI/CD, testing
+
+EXPERIENCE
+
+Software Engineering Intern | BeaconWorks, Remote | Jun 2025 – Aug 2025
+- Developed React and TypeScript features for an internal operations platform used by 350+ employees to manage requests and approvals
+- Built Node.js and GraphQL backend services for workflow status, notifications, and audit logging handling 3,000+ daily events
+- Integrated LLM-powered smart suggestions into form entry flows, reducing repetitive manual input time by 28% for internal users
+- Collaborated with product managers and designers to refine UX flows across 5 high-traffic screens, improving task completion rate by 20%
+- Added 55+ automated tests and deployment checks that improved release confidence and cut regression incidents by 35%
+
+Research Intern, Intelligent Systems Lab | Columbia University | Sep 2024 – May 2025
+- Built Python pipelines for retrieval-augmented generation experiments across 4 document corpora totaling 15,000+ records
+- Measured quality, latency, and relevance across 6 LLM workflows, improving top-3 retrieval precision by 19%
+- Developed lightweight web interfaces to compare answer quality across prompts and models, enabling 3x faster experiment iteration
+- Documented best practices for AI-assisted enterprise search adopted by 2 follow-on research projects
+
+EDUCATION
+B.S. in Computer Science | Columbia University | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- MongoDB Node.js Developer Path (2025)
+
+PROJECTS
+
+WorkFlow AI Console | github.com/alexismorgan/workflow-ai-console
+- Built an employee-facing productivity application supporting 4 user roles and 800+ simulated workflow interactions
+- Designed chat, autocomplete, and smart suggestion experiences, cutting average workflow completion time by 32%
+- Implemented backend APIs for session handling, prompt history, and workflow tracking across 3 integrated services
+- Deployed to AWS sustaining <250ms p95 latency during load testing with 50 concurrent simulated users
+
+Service Integration Hub | github.com/alexismorgan/service-integration-hub
+- Developed a Spring Boot and React platform connecting 5 internal and third-party services through secure APIs
+- Added role-based dashboards, service health monitoring, and data sync workflows for 3 business teams
+- Improved API response consistency by 30% through validation, retries, and structured error handling

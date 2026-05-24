@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+CAREER NOTES
+Engineer with internship, research, and project exposure across software, backend services, AI workflows, and internal applications. I enjoy collaboration, learning, and improving systems. Looking for a role where I can wear multiple hats.
+
+GENERAL STRENGTHS
+problem solving, software, APIs, cloud, AI, databases, usability, teamwork, testing, debugging, systems thinking
+
+TECHNICAL ITEMS
+JS TS Python Java SQL React Node Express Spring GraphQL Flask AWS Docker Git Mongo Dynamo Postgres Jenkins Jest
+
+EXPERIENCE
+Atlantic Harbor Systems | intern
+- developed interfaces
+- built workflow services
+- integrated AI suggestions
+- worked with product/design
+- added tests and automation
+
+University of Miami lab
+- evaluated model outputs
+- prototyped retrieval pipelines
+- built dashboards
+- shared recommendations
+
+ACADEMICS
+University of Miami
+Computer Engineering
+2026
+GPA available
+
+CERTIFICATIONS
+AWS Developer
+Azure AI
+online learning
+
+PROJECTS
+Employee Knowledge Navigator
+- support platform
+- autocomplete and suggestions
+- audit history and tracking
+- fallback handling
+
+Workflow Tracker Pro
+- service coordination app
+- dashboards and approvals
+- logging and testing
+
+MISC
+Can expand details in a targeted version later.

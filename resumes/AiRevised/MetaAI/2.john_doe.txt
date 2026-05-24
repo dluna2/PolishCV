@@ -1,0 +1,42 @@
+John Doe
+San Francisco, CA
+
+ABOUT ME
+Full Stack Software Engineer with internship experience in React, Node, and Java. Proven track record of delivering scalable applications and collaborating with teams to drive business impact. Proficient in AI-powered features, cloud computing, and modern design patterns.
+
+SKILLS
+Front-end: React, JavaScript, Node
+Back-end: Java, SpringBoot, NoSQL, GraphQL
+Cloud: AWS
+AI/ML: OpenAI LLM, Anthropic, llama
+Other: APIs, data structures, algorithms
+
+PROFESSIONAL EXPERIENCE
+NorthPeak Technologies / Intern / Bellevue area / 2025 summer
+
+Improved stakeholder productivity for 150+ HR and finance users by integrating AI-powered features
+Implemented 12 backend API endpoints and reduced page load time by 22%
+Cut drafting time for template generation by 35%
+Worked with OpenAI LLM and Anthropic integrations
+Campus Digital Services / Intern / Seattle / early 2025
+
+Improved document tracking for 2000+ students using React, GraphQL, and MongoDB
+Reduced support burden by 20% with 8 reusable UI components and form validation
+EDUCATION
+University of Washington Computer Science degree in progress, expected sometime in 2027
+
+AWARDS / CERTIFICATIONS
+AWS academy item
+Oracle Java credential
+
+PERSONAL PROJECTS
+Enterprise Helpdesk Copilot - Support app for employees with chat, replies, and summaries
+
+Included cloud deployment monitoring and data storage pieces
+Managed ticket and knowledge style backend functionality
+Team Sync Portal - Team coordination solution with task and activity capabilities
+Included service layer work and some database tuning
+LEADERSHIP / CAMPUS
+Software Builders Club lead
+
+Ran planning sessions, delegated work, reviewed designs, and helped team ship projects
