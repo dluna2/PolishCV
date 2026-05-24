@@ -1,0 +1,50 @@
+John Doe
+San Francisco, CA
+
+INTRODUCTION
+Recent graduate with exposure to software engineering, cloud applications, backend APIs, and AI-powered experiences. Strong interest in enterprise tools, useful products, and collaborative teams. Comfortable helping in different areas depending on what the business needs most.
+
+MAIN AREAS
+software, internal apps, APIs, data, cloud, AI, debugging, testing, systems, collaboration, delivery
+
+TOOLS / LANGUAGES / PLATFORMS
+JavaScript TypeScript Python Java SQL React Node Express Spring GraphQL FastAPI AWS Docker Git Mongo Dynamo Postgres Redis GitHub Actions Jest
+
+EXPERIENCE HIGHLIGHTS
+Horizon Core Systems
+- built features for enterprise apps
+- developed services and dashboards
+- integrated AI content generation
+- worked with design and PM
+- improved release quality
+
+Triton Enterprise Technology
+- backend services
+- API integrations
+- transactional and document databases
+- validation and logging
+
+EDUCATION
+UC San Diego
+Software Engineering
+2026
+GPA available
+
+CERTS AND LEARNING
+AWS Solutions Architect
+Databricks GenAI fundamentals
+
+PROJECTS / WORK SAMPLES
+Internal Helpdesk AI
+- support tool
+- chat and autocomplete
+- logs and integrations
+- cloud hosted
+
+Enterprise Process Stream
+- workflow platform
+- dashboards and histories
+- analytics views
+
+EXTRA
+Resume can be tailored later for a specific company or title.

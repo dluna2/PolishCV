@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+PROFILE NOTES
+Software builder with experience in apps, APIs, AI, research, and internal systems. I like solving problems, working with people, and helping teams move faster. Interested in many kinds of engineering roles and open to different titles depending on fit.
+
+GENERAL AREAS
+coding, collaboration, cloud, databases, AI, product thinking, architecture, debugging, testing, communication, ownership
+
+TECH / STUFF
+JavaScript TypeScript Python Java SQL React Node Express Spring GraphQL Next AWS Docker Git Mongo Dynamo Postgres Jest CI tools
+
+WORK EXPERIENCE
+Summit Grid Technologies | intern
+- built interfaces for internal operations
+- helped with approvals and reporting
+- worked on services and notifications
+- touched AI suggestion features
+- partnered with design and PM
+- added testing work
+
+Applied Systems Lab
+- worked on knowledge search experiments
+- compared prompts and models
+- made dashboards and summaries
+- documented lessons learned
+
+SCHOOL
+Colorado State University
+Computer Science
+2026
+solid GPA
+
+CERTIFICATIONS / LEARNING
+AWS
+Neo4j
+other course material
+
+PROJECTS
+OpsFlow AI Assistant
+- employee workflow app
+- chat and recommendations
+- logging and tracking
+- cloud deploy
+
+Enterprise Connector Platform
+- service integrations
+- dashboards
+- retry logic and validation
+
+EXTRA
+Can tailor this for different roles if useful.

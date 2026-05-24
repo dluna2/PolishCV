@@ -1,0 +1,50 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Engineer with internship, lab, and project exposure across software, backend services, AI workflows, and internal applications. I enjoy useful products, collaboration, and improving systems. Looking for an environment where I can wear many hats.
+
+SKILLS
+problem solving, software, APIs, cloud, AI, teamwork, debugging, testing, usability, learning, systems thinking
+
+TECHNICAL LIST
+JS TS Python Java SQL React Node Express Spring GraphQL Flask AWS Docker Git Mongo Dynamo Postgres Jenkins Jest
+
+PROFESSIONAL EXPERIENCE
+Pacific Vertex | intern
+- developed interfaces
+- built services
+- integrated AI suggestions
+- collaborated with PM/design
+- added tests and scripts
+
+USC Intelligent Systems Group | ML applications intern
+- evaluated outputs
+- prototyped retrieval/ranking
+- built dashboards
+- gave recommendations
+
+ACADEMICS
+USC
+Computer Engineering
+2026
+strong GPA
+
+CERTIFICATIONS
+AWS Developer
+Azure AI
+online content
+
+PROJECT EXAMPLES
+Employee Support Navigator
+- employee support platform
+- autocomplete and AI suggestions
+- request tracking and context
+- fallback handling
+
+Operations Tracker Pro
+- internal application
+- dashboards and approvals
+- testing and logging
+
+

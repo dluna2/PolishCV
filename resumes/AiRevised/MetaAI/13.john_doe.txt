@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full-stack software engineer focused on employee-facing enterprise tools. Experienced with React, JavaScript/TypeScript, Node.js, and Spring Boot building internal platforms used by 450+ operators. Recently integrated LLM-powered chat, autocomplete, and content generation using OpenAI APIs, reducing manual entry time 32% and improving task success 18%. Built Python evaluation pipelines for summarization and retrieval across 14,000 documents. Passion for high-quality, scalable internal applications and close partnership with product and design.
+
+SKILLS
+
+Frontend: JavaScript, TypeScript, React, HTML/CSS, accessibility, usability
+Backend: Node.js, Express, Spring Boot, Java, Python, REST APIs
+AI / LLM: Generative AI, LLMs, OpenAI APIs, prompt engineering, RAG, retrieval and ranking, summarization, classification, semantic search, chat interfaces, autocomplete, content generation, fallback handling
+Data & Platforms: workflow orchestration, knowledge search, notification delivery, audit history, Agile CI/CD, testing (Jest), Docker, Jenkins
+Cloud & Certs: AWS (Developer Associate), Azure AI Fundamentals
+PROFESSIONAL EXPERIENCE
+
+Pacific Vertex — Software Engineering Intern (Remote) | 06/2025 – 09/2025
+
+Developed React-based interfaces for an internal support and approvals platform used by 450+ business operations team members
+Built backend services in Node.js and Express for workflow status, knowledge search, and notification delivery handling 4,500+ daily events with attention to scalability and reliability
+Integrated AI-powered suggestions and content generation using external LLM APIs (OpenAI), reducing manual form entry time by 32%
+Collaborated with product managers and designers to improve usability and accessibility across 6 key features, increasing task success rate by 18%
+Created ∼45 automated tests and deployment scripts in Agile environment, reducing release cycle time by 15%
+USC Intelligent Systems Group — ML Applications Intern | Los Angeles, CA | 01/2025 – 05/2025
+
+Built Python applications to evaluate LLM outputs across 8 model configurations for summarization, classification, and semantic search
+Prototyped retrieval and ranking workflows for enterprise-style document assistance across 14,000 records
+Built dashboards comparing model quality, latency, and prompt strategies across 6 experiments, improving top-3 retrieval accuracy by 20%
+Shared recommendations on safe and effective AI feature integration with 3 faculty advisors and 10 student developers, influencing project direction
+PROJECTS
+
+Employee Support Navigator | github.com/isabellaflores/employee-support-navigator
+
+Built employee-facing support platform handling 1,000+ simulated support interactions across 5 request types
+Designed and implemented chat, autocomplete, and AI-generated suggestion workflows, cutting average time-to-resolution by 38%
+Implemented backend services for request tracking, user context, and audit history across 4 integrated systems
+Improved response quality with prompt evaluation and fallback handling, achieving 89% confidence threshold in testing
+Operations Tracker Pro | github.com/isabellaflores/operations-tracker-pro
+
+Created Spring Boot and React internal application for service coordination, reporting, and task tracking across 6 simulated teams
+Built REST APIs, dashboards, and approval workflows handling 200+ daily task transitions
+Improved reliability by 24% through validation, logging, and integration testing across 3 service layers
+EDUCATION
+University of Southern California — B.S. Computer Engineering | Expected 05/2026 | Los Angeles, CA
+
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Microsoft Azure AI Fundamentals

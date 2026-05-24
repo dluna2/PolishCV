@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer building enterprise internal tools and AI-powered workflow applications with React, JavaScript, Node.js, Java, and Python. Designed intuitive UX flows for GenAI features including LLM-powered chat interfaces, autocomplete, and smart suggestions. Developed REST APIs and automated operations on AWS, collaborating cross-functionally with stakeholders to deliver scalable, reliable solutions.
+
+SKILLS
+Frontend: JavaScript, React, Node.js, HTML, CSS, accessibility
+Backend: Java, Python, REST APIs, API design, data structures, algorithms, design patterns
+AI: GenAI, LLMs, LLM integration, AI-powered features, prompt engineering, evaluation tooling
+Data & Cloud: AWS, data stores, SQL, databases
+Practices: Enterprise applications, internal tools, scalability, reliability, testing, cross-functional collaboration
+
+EXPERIENCE
+ElevateWorks — Frontend Engineering Intern, Remote | Summer 2025
+-Built responsive React interfaces for enterprise workflow requests and approvals using JavaScript and Node.js
+-Integrated UI with backend service layers via REST APIs to support production components for internal users
+-Implemented AI-powered autocomplete and smart suggestions using LLM integration, improving workflow efficiency
+-Improved testing, accessibility, and reliability through iterative delivery with product stakeholders
+
+University of California, Irvine — Office of Information Technology — Developer Intern | 2025
+-Developed internal enterprise tools for campus operations, automating routing and notifications with web-based workflow automation
+-Built REST APIs and Python scripting for backend services, reducing manual effort for employee-facing systems
+-Gathered requirements from cross-functional stakeholders and prioritized updates using data-driven decisions
+
+PROJECTS
+WorkflowGPT — Full Stack Productivity Application
+- Architected productivity app with React front end and Node.js backend featuring LLM-powered chat interface, content generation, and smart suggestions
+- Integrated external GenAI models with session handling and audit logs for enterprise use cases
+- Applied AWS architecture principles to deploy scalable components
+
+Review Hub — Peer Review Platform
+- Built platform with authentication, dashboards, and workflows using Java and Python
+- Designed REST APIs with improved endpoint design and query tuning for performance
+
+EDUCATION
+-University of California, Irvine — B.S. Software Engineering, Expected 2027
+-Coursework: software architecture, artificial intelligence, databases, algorithms, human-computer interaction
+
+CERTIFICATIONS
+-Meta Front-End Developer Certificate
+-AWS Academy Graduate — Architecting
+
+LEADERSHIP
+HackUCI — Student Team Project Manager
+
+Led planning, milestones, demos, and technical documentation for engineering team delivery

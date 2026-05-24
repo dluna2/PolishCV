@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent Computer Engineering graduate with hands-on experience building scalable web applications, backend services, and AI-powered features for internal tools. Proficient in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL systems. Strong ownership mindset with a record of delivering reliable software through internships, research, and collaborative engineering projects.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, cloud computing, GenAI, LLM integration, enterprise applications, testing, CI/CD, scalable backend services
+
+EXPERIENCE
+
+Software Engineer Intern | Oakline Systems, Remote | Jun 2025 – Sep 2025
+- Developed React-based interfaces for an internal support and approvals platform serving 500+ business team members
+- Built 11 backend services in Node.js and Express for workflow state, knowledge search, and notification delivery handling 4,000+ daily events
+- Integrated AI-powered suggestions and content generation using external LLM APIs, reducing form completion time by 31%
+- Partnered with product managers and designers to refine 6 UX flows, improving task success rate by 19%
+- Added 48+ tests and deployment automation, reducing deployment cycle time by 18%
+
+AI Applications Intern | NC State Intelligent Computing Lab, Raleigh, NC | Jan 2025 – May 2025
+- Built Python applications evaluating LLM outputs across 7 model configurations for summarization, classification, and semantic search
+- Prototyped retrieval and ranking pipelines for enterprise-style document assistance across 13,000+ records
+- Created dashboards comparing model quality, latency, and prompt strategies, enabling 2x faster experiment iteration across 5 experiments
+- Shared recommendations on safe and effective AI feature design with 3 faculty advisors and 8 student developers
+
+EDUCATION
+B.S. in Computer Engineering | North Carolina State University | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Support Navigator | github.com/cameronprice/employee-support-navigator
+- Built an employee-facing support platform handling 950+ simulated interactions across 5 request categories
+- Designed chat, autocomplete, and AI-generated suggestion workflows, reducing average time-to-resolution by 40%
+- Implemented backend services for request tracking, user context, and audit history across 4 integrated systems
+- Improved response quality through prompt evaluation and fallback handling, achieving 90% confidence threshold in testing
+
+Process Tracker Studio | github.com/cameronprice/process-tracker-studio
+- Created a Spring Boot and React application for service coordination, reporting, and task tracking across 5 simulated teams
+- Built REST APIs, dashboards, and approval workflows handling 180+ daily task transitions
+- Improved system reliability by 23% through validation, logging, and integration testing

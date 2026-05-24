@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer graduating May 2026 with internship experience delivering enterprise, employee-facing applications using React, TypeScript, Node.js, and Java Spring Boot. Designed and implemented intuitive UX flows for AI-powered features including chat interfaces, autocomplete, and content generation using LLMs and GraphQL APIs. Built scalable backend services and REST APIs on AWS and GCP serving 5,000+ daily requests. Strong partner to product and design with a data-driven approach to reliability and performance.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, Python, Flask, GraphQL, REST APIs, SQL, PostgreSQL, NoSQL (MongoDB, DynamoDB), AWS, GCP, Docker, Jenkins, Git, CI/CD, GenAI, LLMs, Anthropic Claude, prompt engineering, input validation, testing, algorithms, data structures, design patterns, scalable systems, enterprise applications, cloud computing
+
+EXPERIENCE
+
+Software Engineering Intern | BlueOrbit Software | Remote | May 2025 – Aug 2025
+Technologies: React, TypeScript, Node.js, GraphQL, Anthropic Claude
+
+Designed and implemented employee-facing React features for resource planning platform used by 200+ users across 4 departments, improving cross-team planning efficiency
+Built 10 Node.js microservices and GraphQL resolvers powering scheduling, search, and recommendation workflows, processing 5,000+ daily requests with 99.9% availability
+Integrated Anthropic Claude LLM for generative AI smart summaries and response drafting into 3 internal workflows, improving task turnaround time 20%
+Partnered with product and design to refine UX flows for AI-powered dashboards, reducing user-reported friction 25% through usability testing and iteration
+Reduced release risk by leading code reviews and release testing, identifying and resolving 12 critical bugs before production
+Backend Engineering Intern | Civic Data Labs | Austin, TX | Jan 2025 – Apr 2025
+Technologies: Java, Spring Boot, MongoDB, PostgreSQL
+
+Delivered data collection and reporting capabilities by designing 8 Spring Boot REST API endpoints and service integrations serving 50+ internal analysts
+Architected data access patterns for transactional and semi-structured workloads across MongoDB (NoSQL) and PostgreSQL, handling 100,000+ records
+Improved API reliability and observability by implementing input validation, error handling, and structured logging, reducing error rate 18%
+Accelerated engineering velocity by documenting 20+ APIs and integration patterns, enabling reuse across internal teams
+PROJECTS
+
+Ops Assistant AI | github.com/sofiaramirez/ops-assistant-ai
+Technologies: React, Node.js, GraphQL, DynamoDB, Anthropic Claude, AWS
+
+Built full-stack internal operations assistant with chat interface, autocomplete, and smart suggestions for enterprise workflows, handling 800+ test interactions across 4 simulated user roles
+Integrated third-party LLM APIs with prompt engineering and fallback handling, achieving 99% uptime in testing and improving workflow completion speed 30%
+Designed scalable backend APIs and JWT authentication supporting 5 permission levels, architected for AWS deployment
+Media Metadata Explorer | github.com/sofiaramirez/media-metadata-explorer
+Technologies: React, Java, Spring Boot, REST APIs, PostgreSQL
+
+Built React and Spring Boot application for searching, tagging, and analyzing 25,000+ media metadata records
+Improved discoverability by implementing analytics dashboards and advanced filtering, reducing average search time 45%
+EDUCATION
+B.S. Computer Engineering | The University of Texas at Austin | Expected May 2026
+GPA: 3.6/4.0
+Relevant Coursework: Algorithms, Software Design, Databases, Cloud Computing, Artificial Intelligence, Web Programming
+
+CERTIFICATIONS
+Google Cloud Digital Leader, 2025
+AWS Certified Cloud Practitioner, 2025
+
+ACTIVITIES
+Women in Computing | Member | 2023 – Present
+Provided peer mentorship, interview prep, and technical workshops for 80+ members, strengthening cross-functional communication and collaboration

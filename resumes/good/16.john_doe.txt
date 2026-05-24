@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent Computer Science graduate with experience building internal web applications, backend APIs, and AI-powered workflow features through internships and academic projects. Proficient in JavaScript, React, Node.js, Python, and Java, with hands-on experience using Spring Boot, GraphQL, NoSQL databases, and AWS. Strong problem-solving and communication skills with a focus on shipping scalable, reliable products.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, internal tools, enterprise applications, scalable systems, testing, CI/CD, data structures and algorithms
+
+EXPERIENCE
+
+Software Engineering Intern | Summit Grid Technologies, Remote | Jun 2025 – Aug 2025
+- Built React and TypeScript interfaces for an internal operations platform used by 400+ employees to manage approvals, requests, and reporting
+- Developed Node.js and GraphQL backend services for task routing, notifications, and workflow state management processing 4,500+ daily events
+- Integrated AI-powered smart suggestions into employee-facing forms using third-party LLM APIs, reducing manual entry time by 29%
+- Worked closely with product managers and designers to improve usability across 5 screens, increasing feature adoption by 22%
+- Added 50+ automated tests and release checks that improved deployment quality and cut regression incidents by 32%
+
+Research Assistant, Applied Systems Lab | Colorado State University | Sep 2024 – May 2025
+- Built Python services for retrieval-augmented generation experiments across 3 corpora totaling 18,000+ documents
+- Evaluated latency, relevance, and answer quality across 6 prompt and model configurations, improving top-3 retrieval precision by 18%
+- Developed internal dashboards to compare LLM output quality, enabling 2.5x faster experiment iteration across 4 experiments
+- Collaborated with 2 faculty members and 5 student researchers to document reliable AI integration patterns adopted by 2 follow-on projects
+
+EDUCATION
+B.S. in Computer Science | Colorado State University | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Computing, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Neo4j Graph Data Science Fundamentals (2025)
+
+PROJECTS
+
+OpsFlow AI Assistant | github.com/adrianwells/opsflow-ai-assistant
+- Built an employee-facing AI workflow application handling 850+ simulated requests across 4 workflow categories
+- Designed chat, autocomplete, and smart recommendation flows, cutting average task completion time by 34%
+- Implemented backend APIs for prompt history, audit logs, and workflow tracking across 3 integrated services
+- Deployed to AWS with multi-user testing across 30 concurrent simulated users, sustaining <250ms p95 latency
+
+Enterprise Connector Platform | github.com/adrianwells/enterprise-connector-platform
+- Developed a Spring Boot and React platform integrating 5 internal and third-party services through unified APIs
+- Built role-based dashboards, monitoring views, and secure data exchange workflows for 3 team roles
+- Improved integration reliability by 29% through validation, retry logic, and structured error handling

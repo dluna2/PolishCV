@@ -1,0 +1,55 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+
+Full-stack software engineer with experience building employee-facing web applications, backend APIs, and AI-powered workflow features through internship, research, and engineering projects. Hands-on experience with JavaScript, TypeScript, React, Node.js, Python, Java, Spring Boot, GraphQL, NoSQL databases, and AWS. Built internal tools, workflow systems, and LLM-enabled applications with a focus on scalable architecture, high-quality engineering, and cross-functional collaboration.
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks & Libraries: React, Next.js, Node.js, Express, Spring Boot, GraphQL
+Cloud & DevOps: AWS, Docker, Git, GitHub Actions, CI/CD
+Databases: MongoDB, DynamoDB, PostgreSQL
+Testing: Jest, automated testing, deployment validation
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, RAG, internal tools, enterprise applications, data structures, algorithms, testing, scalable systems
+
+EXPERIENCE
+
+Software Engineering Intern | Liberty Stack Solutions, Remote | Jun 2025 – Aug 2025
+
+Built React and TypeScript features for an internal employee portal serving 500+ users across approvals, requests, and operational reporting workflows
+Developed Node.js and GraphQL backend services for workflow state, notifications, and searchable activity logs handling 4,500+ daily events
+Integrated LLM-powered smart suggestions into support forms and knowledge workflows, reducing manual input time by 29%
+Partnered with product managers and designers to improve UX flows across 5 screens, increasing task completion rate by 21%
+Added 55+ automated tests and deployment checks, reducing regression incidents by 30%
+
+Research Assistant, Intelligent Applications Lab | Drexel University | Sep 2024 – May 2025
+
+Built Python services for retrieval-augmented generation (RAG) experiments across 3 corpora totaling 16,000+ records
+Evaluated model relevance, latency, and response quality across 5 prompt strategies, improving top-3 precision by 20%
+Developed dashboards comparing LLM output quality, enabling 2x faster iteration across 4 experiments
+Documented AI integration best practices for internal productivity tools adopted by 2 follow-on research projects
+PROJECTS
+
+Workplace AI Console | github.com/sydneyparker/workplace-ai-console
+
+Built an employee-facing AI workflow application handling 900+ simulated interactions across 4 workflow categories
+Designed chat, autocomplete, and smart recommendation experiences, reducing average task completion time by 35%
+Implemented backend APIs for prompt history, audit logs, and user session management across 3 integrated services
+Deployed to AWS and supported multi-user testing across 30 concurrent users, sustaining <250ms p95 latency
+
+Service Mesh Integrator | github.com/sydneyparker/service-mesh-integrator
+
+Developed a Spring Boot and React platform integrating 5 internal and third-party services through unified APIs
+Built dashboards, monitoring views, and secure service coordination workflows for 3 team roles
+Improved API reliability by 28% through validation, retry handling, and structured error management
+EDUCATION
+
+B.S. in Computer Science | Drexel University | 2026
+GPA: 3.8/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2025)
+Apollo GraphQL Associate Certification (2025)

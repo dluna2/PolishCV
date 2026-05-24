@@ -1,0 +1,57 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER (NEW GRAD 2026)
+
+SUMMARY
+Full-stack software engineer (B.S. Computer Engineering 2026) with experience delivering React/TypeScript UI and Node.js/Express + Java/Spring Boot services across internships, research, and projects. Built internal support and approvals workflows and LLM-assisted features with a focus on usability, reliability, and scalable API design. Strong ownership mindset with consistent delivery in Agile environments.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React
+Backend: Node.js, Express, Spring Boot, Flask, REST APIs, GraphQL
+Datastores: PostgreSQL, MongoDB, DynamoDB
+Cloud/DevOps: AWS, Docker, Jenkins, Git, CI/CD
+Testing/Tools: Jest
+AI: GenAI, LLM integration
+Concepts: enterprise applications, scalable backend services, cloud computing
+
+EXPERIENCE
+
+Software Engineer Intern | Atlantic Harbor Systems, Remote | Jun 2025 – Sep 2025
+Technologies: React, TypeScript, Node.js, Express, REST
+- Improved internal support and approvals workflows for 450+ business team members by delivering React interfaces for a platform used across 3 departments
+- Enabled workflow state, internal knowledge search, and notification delivery by building 10 backend services in Node.js and Express handling 4,000+ daily requests
+- Improved user efficiency by 30% by integrating AI-powered suggestions and content generation into 4 key workflows using external LLM APIs
+- Increased usability and accessibility by partnering with product and design to refine 5 UX flows, improving task success rate by 18%
+- Reduced release risk by adding 47+ tests and deployment automation, cutting regression incidents by 25%
+
+AI Applications Intern | University of Miami Intelligent Systems Lab, Miami, FL | Jan 2025 – May 2025
+Technologies: Python, LLMs, retrieval pipelines
+- Improved evaluation rigor by building Python applications to assess LLM outputs across 7 model configurations for summarization, classification, and semantic search
+- Enabled document assistance prototypes by building retrieval and ranking pipelines across 11,000+ enterprise-style records
+- Increased visibility into model tradeoffs by creating dashboards comparing quality, latency, and prompt strategies, enabling 2x faster iteration across 5 experiments
+- Improved adoption readiness by sharing AI feature design recommendations with 3 faculty advisors and 9 student developers
+
+EDUCATION
+B.S. in Computer Engineering | University of Miami | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Knowledge Navigator | github.com/valeriagomez/employee-knowledge-navigator
+Technologies: React, Node.js, GraphQL, DynamoDB, LLM APIs
+- Built an employee-facing support platform handling 950+ simulated interactions across 5 support categories
+- Improved support workflows by designing chat, autocomplete, and AI-generated suggestions, cutting time-to-resolution by 39%
+- Enabled end-to-end tracking by implementing backend services for request state, user context, and audit history across 4 systems
+- Improved response quality and reliability by adding prompt evaluation and fallback handling, achieving 91% confidence threshold in testing
+
+Workflow Tracker Pro | github.com/valeriagomez/workflow-tracker-pro
+Technologies: Java, Spring Boot, React, PostgreSQL, REST
+- Built a Spring Boot + React application for service coordination, reporting, and task tracking across 5 simulated teams
+- Enabled cross-functional teams by building 13 REST APIs, dashboards, and approval workflows handling 160+ daily transitions
+- Improved reliability by 25% through validation, logging, and integration testing

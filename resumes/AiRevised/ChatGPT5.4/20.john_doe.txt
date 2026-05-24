@@ -1,0 +1,76 @@
+John Doe
+San Francisco, CA
+
+---
+
+### SUMMARY
+
+Full Stack Software Engineer with experience building scalable enterprise internal tools and AI-powered applications using React, Node.js, Spring Boot, and AWS. Proven ability to design and implement high-performance APIs, integrate LLM-driven features (chat, autocomplete, smart suggestions), and deliver end-to-end solutions that improve workflow efficiency and user productivity. Strong foundation in distributed systems, cloud infrastructure, and modern software design patterns.
+
+---
+
+### TECHNICAL SKILLS
+
+Frontend: React, TypeScript, JavaScript
+Backend: Node.js, Express, Spring Boot, FastAPI
+APIs: REST, GraphQL, Microservices Architecture
+Databases: PostgreSQL, MongoDB, DynamoDB, Redis
+Cloud & DevOps: AWS (Lambda, S3, DynamoDB), Docker, GitHub Actions
+AI/ML: Generative AI, LLM Integration, Prompt Engineering
+Languages: Python, Java, SQL
+
+---
+
+### EXPERIENCE
+
+**Software Engineering Intern**
+Cascade Harbor Systems — Portland, OR | May 2025 – Aug 2025
+
+* Designed and implemented full-stack features for an enterprise internal workflow platform used by 450+ employees, supporting request processing, approvals, and analytics dashboards
+* Built and maintained Node.js and GraphQL APIs handling 5,000+ daily workflow events, improving system responsiveness and scalability
+* Integrated LLM-powered chat, autocomplete, and content generation features into workflow forms, reducing task completion time by 28%
+* Partnered with product managers and designers to develop intuitive UX flows for 5 AI-powered features, increasing task success rate by 21%
+* Improved system reliability by implementing 40+ automated tests and CI/CD workflows (GitHub Actions), reducing production rollbacks by 24%
+
+**Application Development Intern**
+Portland Enterprise Technology Group — Portland, OR | Jan 2025 – Apr 2025
+
+* Developed backend services using Java and Spring Boot for enterprise workflow automation and reporting systems used by 250+ internal staff
+* Designed and implemented RESTful APIs and integrated 3 internal and third-party services to streamline 4 critical operational workflows
+* Built and optimized data storage solutions across MongoDB and PostgreSQL supporting 75,000+ records, improving data consistency and query performance
+* Enhanced system observability by implementing validation, structured logging, and error handling, reducing unhandled error rates by 18%
+
+---
+
+### PROJECTS
+
+**Internal Helpdesk AI**
+github.com/eliasturner/internal-helpdesk-ai
+
+* Built a full-stack AI-powered internal support tool simulating 850+ support tickets across 5 enterprise categories
+* Designed LLM-driven chat, autocomplete, and smart suggestion features, reducing average resolution time by 35%
+* Developed backend APIs for ticket lifecycle, user context, prompt logging, and 3 integrated services
+* Implemented prompt tracking and response logging pipelines to improve output quality and iteration
+* Deployed cloud-based architecture on AWS sustaining <300ms p95 latency under load
+
+**Enterprise Process Stream**
+github.com/eliasturner/enterprise-process-stream
+
+* Developed a full-stack enterprise workflow platform using React and Spring Boot supporting task management across 4 teams and 12 KPIs
+* Designed REST APIs and backend services to manage 9,000+ task records with searchable histories and analytics dashboards
+* Built data visualization features that improved operational reporting efficiency and reduced manual reporting time by 28%
+
+---
+
+### EDUCATION
+
+B.S. Software Engineering — Oregon State University (2026)
+GPA: 3.7/4.0
+Coursework: Data Structures, Algorithms, Software Architecture, Cloud Computing, Database Systems, NLP
+
+---
+
+### CERTIFICATIONS
+
+AWS Certified Solutions Architect – Associate (2025)
+Databricks Generative AI Fundamentals (2025)

@@ -1,0 +1,54 @@
+John Doe
+San Francisco, CA
+
+INTRO
+Student software engineer with experience in interfaces, APIs, automation, and AI workflow ideas. Good at collaboration, ownership, and getting projects across the line. Looking for roles where I can contribute broadly across the stack.
+
+CAPABILITIES
+building apps, integrating services, improving workflows, solving problems, writing APIs, helping users, testing, fixing bugs
+
+TECH LIST
+React Node JavaScript Java Python Spring GraphQL Next AWS GCP Docker Mongo Postgres Redis Firebase Cypress
+
+WORK HISTORY
+Northstar Logic | frontend intern
+- built workflow components
+- connected backend services
+- added recommendations
+- improved tests/accessibility
+- worked with product/design
+
+University of Minnesota Digital Services
+- internal web tools
+- scripts and APIs
+- requirement gathering
+- automated manual tasks
+
+SCHOOL
+University of Minnesota
+Computer Science
+2027 expected
+strong GPA
+
+CERTIFICATIONS
+Meta front end
+AWS academy
+etc
+
+PROJECTS
+AI Workflow Studio
+- workflow assistant
+- chat and smart suggestions
+- analytics and audit trails
+- model evaluation tools
+
+Approval Review Hub
+- review platform
+- dashboards and auth
+- performance improvements
+
+LEADERSHIP
+technical lead in student club
+- planning
+- code reviews
+- milestones

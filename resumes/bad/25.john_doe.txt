@@ -1,0 +1,51 @@
+John Doe
+San Francisco, CA
+
+WHO I AM
+Recent graduate with exposure to software engineering, cloud apps, backend APIs, and AI-powered experiences. Interested in enterprise tools, collaborative teams, and helpful products. Comfortable contributing in multiple areas depending on what is needed most.
+
+MAIN AREAS
+software internal apps APIs data cloud AI testing debugging systems communication delivery
+
+TOOLS / PLATFORMS
+JavaScript TypeScript Python Java SQL React Node Express Spring GraphQL FastAPI AWS Docker Git Mongo Dynamo Postgres Redis GitHub Actions Jest
+
+EXPERIENCE HIGHLIGHTS
+Blue Ridge Core Systems
+- built enterprise app features
+- developed services and dashboards
+- integrated AI content generation
+- worked with design and PM
+- improved release quality
+
+Queen City Enterprise Technology
+- backend services
+- API integrations
+- document and transactional databases
+- validation and logging
+
+EDUCATION
+UNC Charlotte
+Software Engineering
+2026
+GPA available if needed
+
+CERTS AND LEARNING
+AWS Solutions Architect
+Databricks GenAI
+other coursework
+
+PROJECTS
+Internal Support AI
+- support tool
+- chat and autocomplete
+- prompt logs and integrations
+- cloud hosted
+
+Enterprise Workflow Stream
+- workflow platform
+- dashboards and histories
+- analytics views
+
+EXTRA
+Can customize this resume later for a specific company or title.

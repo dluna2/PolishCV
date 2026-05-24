@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Ambitious Software Engineer and third-year student with internship and project experience creating full-stack applications, enterprise tools, and AI-enhanced features. Proficient in React, Node.js, JavaScript, Java, Python, Spring Boot, GraphQL, and NoSQL technologies. Brings strong communication, ownership, and problem-solving skills with a focus on building high-quality products that scale.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Firebase, Jest
+Concepts: LLM applications, internal tooling, API design, scalable backend services, cloud platforms, data structures, algorithms, testing, cross-functional collaboration
+
+EXPERIENCE
+
+Software Engineering Intern | Apex Lane Technologies, Remote | Jun 2025 – Aug 2025
+- Built React interfaces and reusable components for an internal productivity suite serving 300+ operations and support team members
+- Implemented Node.js backend APIs and GraphQL endpoints for search, approvals, and activity tracking handling 5,000+ daily requests
+- Added GenAI-powered smart reply and knowledge suggestion features using external LLM services, reducing average response drafting time by 40%
+- Improved reliability and developer experience by expanding test coverage from 45% to 78% and documenting 15 API contracts
+- Collaborated daily with product managers, designers, and 8 engineers to deliver 5 features on schedule across 4 sprints
+
+Backend Engineering Intern | Georgia Tech Enterprise Systems, Atlanta, GA | Jan 2025 – May 2025
+- Developed Spring Boot services for internal tools supporting workflow automation and reporting for 500+ campus users
+- Integrated PostgreSQL and MongoDB to manage 80,000+ business records and document-style entries
+- Added logging, monitoring, and input validation, reducing API error rate by 21% and improving observability across 6 services
+- Assisted with release testing and deployment coordination, enabling 3 successful zero-downtime releases
+
+EDUCATION
+B.S. in Computer Science | Georgia Institute of Technology | Expected 2027
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures and Algorithms, Objects and Design, Database Systems, Computer Networks, Artificial Intelligence, Information Visualization
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Knowledge Copilot | github.com/omarhassan/employee-knowledge-copilot
+- Built an AI-powered employee support tool handling 1,100+ simulated knowledge queries across 4 departments
+- Implemented chat, content generation, and smart recommendation workflows, improving answer relevance by 24% over keyword search
+- Developed backend APIs for source ingestion of 6,000+ documents, access control, and conversation history
+- Connected 4 third-party AI and internal service integrations to operationalize workflows at scale
+
+Unified Workflow Manager | github.com/omarhassan/unified-workflow-manager
+- Created a Spring Boot and React application coordinating approvals, task routing, and reporting for 6 simulated teams
+- Designed APIs and dashboards for multi-step internal workflow management handling 150+ daily task transitions
+- Reduced processing friction by 30% by centralizing integrations with messaging and calendar services
+
+LEADERSHIP
+Technical Project Lead | HackGT Team | Sep 2024 – Present
+- Led a student team of 5 through architecture planning, development, and final demos for full-stack applications at HackGT (1,000+ participants)
+- Coordinated task prioritization, code reviews, and milestone tracking across 2 hackathon cycles

@@ -1,0 +1,48 @@
+John Doe
+San Francisco, CA
+
+Summary
+Full-stack software engineer building employee-facing internal tools with React, TypeScript, Node.js, and SpringBoot. Shipped LLM-powered chat, autocomplete, and smart suggestions via GraphQL APIs on AWS, improving workflows for 500+ users. Experienced in Python RAG services, NoSQL data modeling, and partnering with PMs/designers to deliver on schedule.
+
+Skills
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Node.js
+Backend: SpringBoot, Spring Boot, GraphQL, REST APIs, Express
+AI: LLM integration, GenAI, retrieval-augmented generation (RAG), prompt engineering, chat interfaces, autocomplete, smart suggestions
+Data: NoSQL (MongoDB, DynamoDB), PostgreSQL
+Cloud/DevOps: AWS (Lambda, ECS, S3), Docker, CI/CD, GitHub Actions, Jest
+
+Experience
+Redwood Platforms — Software Engineering Intern (Remote)
+Jun 2025 to Aug 2025
+Built React and TypeScript features for internal employee operations portal serving 500+ users for requests, approvals, and reporting
+Developed Node.js GraphQL services processing 4,000+ daily events, powering scalable backend APIs
+Integrated LLM-based smart suggestions (GenAI) into support forms and knowledge workflows, cutting manual input time 30%
+Partnered with product managers and designers to refine UX flows across 6 screens, launching 4 user-facing improvements on schedule
+Added 60 Jest unit and integration tests in CI/CD pipeline, reducing production incidents 28%
+
+Stanford Human-Centered AI Lab — AI Research Assistant
+Sep 2024 to May 2025
+Created Python services for retrieval-augmented generation across 3 document corpora totaling 20,000+ records
+Evaluated 5 Gemini LLM configurations for summarization and Q&A, improving top-3 precision 21%
+Built lightweight dashboards to compare prompts and user feedback, enabling 3x faster experiment iteration
+Communicated technical findings to 4 faculty and 10 student collaborators; recommendations adopted for 2 follow-on projects
+Projects
+Workforce AI Assistant — github.com/hannahcho/workforce-ai-assistant
+
+Designed full-stack employee productivity tool with React frontend and Node.js backend handling 900+ simulated workflow interactions across 5 user roles
+Implemented chat, autocomplete, and smart recommendation flows, reducing average task completion time 36%
+Built backend APIs for prompt history, audit logs, and session management across 3 integrated services
+Deployed on AWS sustaining under 200ms p95 response time under 30 concurrent users
+Internal Service Orchestrator — github.com/hannahcho/internal-service-orchestrator
+
+Developed SpringBoot and React platform connecting 6 internal and third-party services through unified GraphQL APIs
+Added role-based dashboards and service monitoring with structured error handling, reducing integration failure rate 27%
+Implemented request validation and retry logic across 4 downstream services
+Education
+University of California, Berkeley — B.S. Computer Science, Expected 2026
+
+GPA 3.8/4.0 — Coursework: Data Structures, Algorithms, Databases, Distributed Systems, Machine Learning, Software Engineering
+
+Certifications
+AWS Cloud Practitioner, GraphQL Certification

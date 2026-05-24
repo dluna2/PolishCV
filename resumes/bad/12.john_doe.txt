@@ -1,0 +1,57 @@
+John Doe
+San Francisco, CA
+
+PROFILE
+Software engineering student who enjoys making products and helping teams get things done. Experience includes software, APIs, cloud, internal tools, and AI-related features. Looking for a place where I can contribute broadly rather than be boxed into one area.
+
+AREAS
+frontend | backend | cloud | AI | data | architecture | testing | collaboration | delivery
+
+STACK / TOOLBOX
+React Node JavaScript Java Python Spring GraphQL FastAPI AWS GCP Docker Git Mongo Postgres Redis Cypress Postman and more
+
+EXPERIENCE
+Longhorn Digital Systems
+- employee facing interfaces
+- APIs and resolvers
+- search and notifications
+- AI drafting and suggestions
+- faster responsiveness
+- worked in sprints
+
+UT Enterprise Apps
+- reporting and operations apps
+- data layers
+- docs and testing
+- deploy validation
+- bug triage
+
+EDUCATION
+UT Austin
+Software Engineering
+Expected grad: 2027
+Coursework in many CS areas
+
+EXTRAS
+Oracle Java
+Google Cloud
+misc learning
+
+PROJECTS
+Enterprise Request Copilot
+- request assistant
+- chat and summaries
+- logs and workflow state
+- monitoring and caching
+
+Workflow Integration Gateway
+- service layer for APIs
+- auth and validation
+- centralized business logic
+
+LEADERSHIP
+Project lead in a student group
+- planning
+- reviews
+- demos
+

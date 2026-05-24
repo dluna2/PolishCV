@@ -1,0 +1,47 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Recent Computer Science graduate with internship and project experience building employee-facing web applications, backend APIs, and AI-powered productivity features. Skilled in JavaScript, React, Node.js, Python, and Java, with hands-on experience in Spring Boot, GraphQL, NoSQL databases, and cloud platforms. Strong foundation in algorithms, scalable system design, and cross-functional collaboration.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Next.js
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jest, GitHub Actions
+Concepts: REST APIs, GraphQL APIs, GenAI, LLM integration, enterprise applications, internal tools, data structures, algorithms, testing, CI/CD
+
+EXPERIENCE
+
+Software Engineering Intern | Redwood Platforms, Remote | Jun 2025 – Aug 2025
+- Built React and TypeScript features for an internal employee operations portal serving 500+ users for requests, approvals, and reporting
+- Developed Node.js and GraphQL services powering workflow state, notifications, and searchable activity history across 4,000+ daily events
+- Integrated LLM-based smart suggestions into support forms and internal knowledge workflows, cutting manual input time by 30%
+- Partnered with product managers and designers to refine UX flows across 6 screens, launching 4 user-facing improvements on schedule
+- Added 60+ unit and integration tests that increased release confidence and reduced production incidents by 28%
+
+AI Research Assistant | Stanford Human-Centered AI Lab | Sep 2024 – May 2025
+- Prototyped Python services for retrieval-augmented generation across 3 document corpora totaling 20,000+ records
+- Evaluated model quality, latency, and relevance for summarization and Q&A across 5 model configurations, improving top-3 precision by 21%
+- Built lightweight dashboards to compare prompts, response quality, and user feedback, enabling 3x faster experiment iteration
+- Presented findings to 4 faculty members and 10 student collaborators, with recommendations adopted for 2 follow-on projects
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley | 2026
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Databases, Distributed Systems, Machine Learning, Software Engineering
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2025)
+- Apollo GraphQL Associate Certification (2025)
+
+PROJECTS
+
+Workforce AI Assistant | github.com/hannahcho/workforce-ai-assistant
+- Built a full-stack employee productivity tool handling 900+ simulated workflow interactions across 5 user roles
+- Designed chat, autocomplete, and smart recommendation flows, reducing average task completion time by 36%
+- Implemented backend APIs for prompt history, audit logs, and user session management across 3 integrated services
+- Deployed to AWS sustaining <200ms p95 response time during multi-user load testing with 30 concurrent users
+
+Internal Service Orchestrator | github.com/hannahcho/internal-service-orchestrator
+- Developed a Spring Boot and React platform connecting 6 internal and third-party services through unified APIs
+- Added role-based dashboards, service status monitoring, and structured error handling, reducing integration failure rate by 27%
+- Improved integration reliability through request validation and retry logic across 4 downstream services

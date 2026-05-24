@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Third-year Software Engineering student with internship experience building full-stack applications, scalable APIs, and AI-enhanced internal tools. Skilled in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL technologies. Strong collaborator with experience delivering polished features in fast-paced environments and a passion for creating intuitive enterprise software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API design, LLM applications, internal tools, enterprise workflows, cloud infrastructure, algorithms, testing, debugging, Agile development
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Sonoran Digital Labs, Phoenix, AZ | May 2025 – Aug 2025
+- Built employee-facing React components for a workflow platform serving 300+ users with approvals, requests, and status visibility
+- Developed Node.js APIs and GraphQL resolvers for search, notifications, task routing, and reporting processing 4,000+ daily events
+- Added AI-generated drafting and smart recommendations using external LLM services, reducing manual content creation time by 35%
+- Improved frontend responsiveness by 22% by optimizing data fetching and reducing unnecessary re-renders across 6 components
+- Collaborated with engineers, designers, and product partners to ship 5 features on time across 3 two-week sprints
+
+Software Developer Intern | ASU Enterprise Technology, Tempe, AZ | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and process automation serving 1,500+ campus administrative users
+- Integrated MongoDB and PostgreSQL for 60,000+ document-style and transactional records
+- Wrote API documentation, 30+ test cases, and onboarding guides for 3 future student developers
+- Supported deployment validation and bug triage for 2 tools used by campus administrative teams
+
+EDUCATION
+B.S. in Software Engineering | Arizona State University | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Management, Software Design, Artificial Intelligence, Web Engineering
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Workplace Request Copilot | github.com/briannayoung/workplace-request-copilot
+- Built an internal request assistant handling 700+ simulated employee requests across 4 workflow types
+- Implemented chat, summarization, and smart suggestion workflows, cutting average resolution time by 37%
+- Designed backend services for request history, prompt logging, and workflow transitions across 5 status stages
+- Added caching and monitoring features sustaining <250ms response time during 20-user concurrent load testing
+
+Integration Service Gateway | github.com/briannayoung/integration-service-gateway
+- Developed a Spring Boot service layer aggregating 5 internal and third-party APIs into a single platform
+- Added authentication, validation, and retry handling, reducing downstream error rate by 25%
+- Reduced frontend integration complexity by 38% by centralizing shared business logic and service access
+
+LEADERSHIP
+Project Coordinator | ASU Code Collective | Sep 2024 – Present
+- Coordinated a student team of 5 building internal web tools for 3 campus organizations, delivering 2 projects on schedule
+- Led sprint planning, demo prep, and technical documentation reviews across 2 full development cycles

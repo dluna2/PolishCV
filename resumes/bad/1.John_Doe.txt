@@ -1,0 +1,46 @@
+John Doe
+San Francisco, CA
+
+PROFILE SNAPSHOT
+Creative software person who likes building cool things for people and helping teams move faster. Fast learner, self starter, good attitude, works well with everybody, passionate about innovation, modern tools, digital transformation, and next generation solutions.
+
+CORE COMPETENCIES MATRIX
+Coding stuff | web stuff | cloud stuff | AI stuff | people skills | leadership stuff | product thinking | solving problems
+Java Script, ReactJS, Node, databases, APIs, Python sometimes, Java sometimes, cloud, testing, UI, backend, communication
+
+EXPERIENCE
+CloudBridge Systems / internship style role / California / Summer of 2025
+* Helped with many dashboard items for internal users and supported day to day requests
+* Worked on pages, forms, tickets, and some backend pieces as needed
+* Used modern tools and collaborated with others to get things done quickly
+* Participated in meetings and contributed ideas around AI and smart automation
+
+University of California Davis / research assistant vibe / around 2024 to 2025
+* Looked into AI retrieval and semantic search concepts
+* Worked with data and models and different experiments
+* Shared insights with teammates and adjusted prompts as necessary
+* Supported reliability improvements where possible
+
+Teaching Assistant / Data Structures / UC Davis / 2024-ish
+* Assisted students with homework and class questions
+* Debugged code and talked about algorithms
+
+ACADEMICS
+B.S. Computer Science, UC Davis, 2026
+Dean list, good grades, took lots of technical classes, active learner
+
+LICENSES / SHORT COURSES / BADGES
+Cloud certificate
+GraphQL course
+
+PROJECTS
+AI Workflow Assistant
+* Internal helper app with chat style experience and workflow ideas
+* Included smart suggestions and cloud hosting and audit type things
+* Lots of test usage in demos and positive reactions
+
+Knowledge Hub API Platform
+* Services for search and document metadata
+* Caching and indexing made things better over time
+
+

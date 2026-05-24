@@ -1,0 +1,52 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Third-year Software Engineering student with internship experience building full-stack applications, scalable APIs, and AI-enhanced workflow tools. Skilled in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL technologies. Strong communicator and problem-solver with experience collaborating across engineering, design, and product teams to deliver polished software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API design, enterprise applications, LLM applications, internal tools, cloud infrastructure, algorithms, testing, debugging, Agile development
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Riverbend Digital, Nashville, TN | May 2025 – Aug 2025
+- Built employee-facing React components for a workflow platform serving 280+ users with approvals, requests, and operational visibility
+- Developed Node.js APIs and GraphQL resolvers for search, notifications, task routing, and reporting processing 3,500+ daily events
+- Added AI-generated drafting and smart suggestions using third-party LLM APIs, reducing manual content creation time by 33%
+- Improved frontend responsiveness by 20% by optimizing data fetching and reducing unnecessary re-renders across 5 components
+- Collaborated with engineers, designers, and product stakeholders to ship 5 features on time across 3 sprints
+
+Software Developer Intern | Vanderbilt Enterprise Technology, Nashville, TN | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and process automation serving 1,200+ campus administrative users
+- Integrated MongoDB and PostgreSQL for 55,000+ document-style and transactional records
+- Wrote API documentation, 28+ test cases, and onboarding notes for 3 future student developers
+- Supported deployment validation and bug triage for 2 tools used by campus administrative teams
+
+EDUCATION
+B.S. in Software Engineering | Vanderbilt University | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Design, Artificial Intelligence, Web Development
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Workflow Request Copilot | github.com/tylermitchell/workflow-request-copilot
+- Built an internal request assistant handling 650+ simulated employee requests across 4 workflow types
+- Implemented chat, summarization, and smart suggestion workflows, reducing average resolution time by 36%
+- Designed backend services for request history, prompt logging, and workflow transitions across 5 status stages
+- Added caching and monitoring features sustaining <250ms response time during 20-user concurrent load testing
+
+Unified Service Gateway | github.com/tylermitchell/unified-service-gateway
+- Developed a Spring Boot service layer aggregating 5 internal and third-party APIs into a single platform
+- Added authentication, validation, and retry handling, reducing downstream error rate by 22%
+- Reduced frontend integration complexity by 36% by centralizing shared business logic and service access
+
+LEADERSHIP
+Engineering Lead | Vanderbilt App Builders | Sep 2024 – Present
+- Led a student team of 5 building internal tools for 3 university organizations, delivering 2 full applications on schedule
+- Coordinated sprint planning, demo preparation, and technical documentation reviews across 2 project cycles

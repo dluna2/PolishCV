@@ -1,0 +1,40 @@
+John Doe
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer focused on enterprise, employee-facing applications. Build intuitive front-end experiences with React, Node.js, and JavaScript, with backend depth in SpringBoot, GraphQL, and NoSQL. Recently integrated LLM-powered generative AI features using OpenAI APIs to automate content drafting and smart suggestions, delivering measurable productivity gains. Thrive in independent, high-autonomy environments partnering with designers, product managers, and engineers to ship high-quality tools at scale.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python
+Frontend: React, HTML5, CSS3, responsive design, UX flows, component optimization
+Backend: Node.js, SpringBoot, REST APIs, GraphQL, microservices, FastAPI
+Data & AI: NoSQL (MongoDB), PostgreSQL, Redis, LLMs, generative AI, OpenAI APIs, prompt engineering, RAG concepts
+Cloud & DevOps: AWS, GCP, Docker, Git, CI/CD, deployment validation
+Practices: scalable systems, data structures, algorithms, design patterns, testing, cross-functional collaboration, documentation
+
+WORK EXPERIENCE
+Full Stack Engineer — Longhorn Digital Systems
+Austin, TX | May 2025 – Aug 2025
+Designed and implemented intuitive UX flows for employee-facing workflow platform using React and JavaScript, serving 350+ users managing approvals and operational requests
+Developed Node.js backend services and GraphQL resolvers for search, task routing, notifications, and status tracking, processing 5,000+ daily events with attention to scalability and reliability
+Integrated generative AI capabilities by building LLM-powered drafting and smart suggestions with OpenAI APIs, reducing manual content creation time by 38%
+Optimized front-end performance through component optimization and reduced data fetching, improving page responsiveness by 20% across 7 views
+Collaborated effectively with designers and engineers in sprint planning and launch reviews, shipping 5 features across 3 sprints and communicating technical ideas to stakeholders
+
+Backend Engineer — UT Enterprise Apps
+Austin, TX | Jan 2025 – Apr 2025
+Built SpringBoot microservices for internal reporting and student operations applications, delivering enterprise tools for 2,000+ campus users
+Engineered data layers integrating PostgreSQL and MongoDB NoSQL, managing 90,000+ transactional and document-based records using modern design patterns
+Developed and maintained REST and GraphQL APIs powering UI workflows, ensuring high-quality data access for employee-facing applications
+Authored API documentation and 35+ test cases, and created onboarding notes that accelerated ramp-up for 4 student developers
+Partnered cross-functionally on deployment validation and bug triage for 3 internal tools, improving reliability for campus-wide operations
+LEADERSHIP
+Project Lead — UT App Builders
+Austin, TX | 2024 – 2025
+
+Led a team of 5 engineers developing internal tools for 3 student organizations, owning end-to-end delivery of 2 full applications on schedule
+Coordinated design reviews, sprint planning, and technical demos across 2 project cycles, influencing project direction through effective partnerships
+EDUCATION
+B.S. Software Engineering — The University of Texas at Austin
+Expected May 2027
+Relevant Coursework: Data Structures, Algorithms, Database Design, Operating Systems, Computer Networks

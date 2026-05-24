@@ -1,0 +1,62 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER INTERN / NEW GRAD (2027)
+
+SUMMARY
+Full-stack software engineer (B.S. CS expected 2027) with internship and project experience delivering React/TypeScript UI and Node.js/Express + Java/Spring Boot APIs. Built internal workflow tools, GraphQL-backed web apps, and LLM-assisted features; improved performance (22% page load reduction) through targeted frontend optimization. Strong fundamentals in systems, databases, and scalable API design; collaborative in Agile sprint environments.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express, Spring Boot, REST APIs, GraphQL
+Datastores: PostgreSQL, MongoDB, Firebase
+Cloud/DevOps: AWS, Docker, Git
+Testing/Tools: Jest, Postman
+AI: GenAI, LLM applications, prompt engineering
+Concepts: API design, internal tools, scalable systems, NoSQL, algorithms, Agile development
+
+EXPERIENCE
+
+Software Engineering Intern | NorthPeak Technologies, Bellevue, WA | Jun 2025 – Sep 2025
+Technologies: React, TypeScript, Node.js, Express, REST, Git
+- Improved internal stakeholder productivity for 150+ HR and finance users by building React interfaces for an internal workflow platform
+- Enabled approvals, notifications, and reporting workflows by implementing 12 backend API endpoints in Node.js and Express
+- Improved content authoring speed and consistency by adding AI-powered internal template generation using LLM APIs, cutting drafting time by 35%
+- Reduced page load time by 22% by optimizing frontend rendering and implementing lazy loading across 8 high-traffic components
+- Increased delivery predictability by working cross-functionally with engineering, design, and product in 2-week sprint cycles, shipping 5 features on schedule
+
+Full-Stack Developer Intern | Campus Digital Services, Seattle, WA | Jan 2025 – May 2025
+Technologies: React, GraphQL, MongoDB, Jest
+- Improved appointment and document tracking for 2,000+ students by developing web tools with React, GraphQL, and MongoDB
+- Reduced support burden by 20% by creating 8 reusable UI components and form validation patterns across workflows
+- Increased feature completeness by integrating 2 third-party calendar and notification services into backend workflows
+- Reduced regressions by writing 60+ automated tests and contributing to code reviews and deployment documentation
+
+EDUCATION
+B.S. in Computer Science | University of Washington | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures and Algorithms, Database Systems, Operating Systems, Computer Networks, Human-Computer Interaction
+
+CERTIFICATIONS
+- AWS Academy Cloud Foundations (2025)
+- Oracle Java Foundations Associate (2024)
+
+PROJECTS
+
+Enterprise Helpdesk Copilot | github.com/ethankim/helpdesk-copilot
+Technologies: React, Node.js, GraphQL, MongoDB, AWS, Docker, LLM APIs
+- Built an employee-facing support application handling 500+ simulated support tickets in demo evaluation
+- Improved support agent efficiency by implementing chat assistance, smart replies, and document summarization using LLM APIs, reducing avg resolution time by 40%
+- Enabled reliable workflows by designing backend services for ticket management, conversation history, and knowledge-base retrieval across 3 integrated data sources
+- Improved operability by deploying to AWS with containerized services maintaining 99.5% uptime during testing
+
+Team Sync Portal | github.com/ethankim/team-sync-portal
+Technologies: Java, Spring Boot, React, PostgreSQL, REST
+- Built an internal team coordination tool with Spring Boot, React, and PostgreSQL supporting 8 simulated team roles
+- Enabled task assignment, activity feeds, and reporting by implementing 15 REST API endpoints and end-to-end UI flows
+- Improved data retrieval efficiency by 28% by applying query optimization and caching
+
+LEADERSHIP
+Engineering Project Lead | UW Software Builders Club | Sep 2024 – Present
+- Improved team execution by leading 5 students building internal applications for 3 student organizations
+- Increased delivery clarity by coordinating sprint planning, task delegation, and technical design reviews across 2 project cycles

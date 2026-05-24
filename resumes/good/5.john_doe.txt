@@ -1,0 +1,55 @@
+John Doe
+San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer with experience designing and delivering enterprise internal tools and AI-enabled applications using React, Node.js, Spring Boot, GraphQL, Python, and Java on AWS and GCP. Built employee-facing workflow automation and LLM-powered features including chat interfaces, smart suggestions, and content generation used by 400+ internal users. Designed scalable REST and GraphQL APIs and NoSQL data layers handling 2,000+ daily requests with p95 <300ms. Strong foundation in data structures, algorithms, and modern design patterns. Partners effectively with product managers, designers, and engineers to ship high-quality products on time.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML/CSS
+Backend: Node.js, Express, Spring Boot, FastAPI, REST APIs, GraphQL APIs
+Data: NoSQL (MongoDB, DynamoDB), PostgreSQL, Redis, data modeling
+AI & LLMs: GenAI integration, LLM applications, prompt evaluation, RAG, semantic retrieval, content generation, smart suggestions
+Cloud & DevOps: AWS, GCP, Docker, CI/CD, Git, logging, monitoring, caching, asynchronous processing
+Practices: data structures, algorithms, design patterns, API design, testing, debugging, agile collaboration, cross-functional delivery
+
+EXPERIENCE
+
+Software Engineering Intern | Vertex Labs | Los Angeles, CA
+Jun 2025 – Sep 2025
+
+Built employee-facing features in React and Node.js for workflow automation and reporting, adopted by 400+ internal users
+Designed and implemented 9 backend REST APIs in Node.js and Python to support approvals, content updates, and system integrations, handling 2,000+ daily requests
+Integrated LLM-powered smart suggestions and content generation into internal tools using third-party LLM APIs, reducing manual data entry time by 30%
+Improved reliability and scalability with input validation, structured logging, and 50+ automated tests, reducing production bugs by 22%
+Collaborated cross-functionally across 3 teams in Agile sprints to deliver 4 features on time
+AI Applications Intern | Human-Centered Computing Lab | Los Angeles, CA
+Feb 2025 – May 2025
+
+Developed Python services to evaluate LLM outputs across 6 model configurations for summarization, classification, and semantic retrieval
+Built lightweight React interfaces to compare prompt strategies and measure answer quality, improving top-1 retrieval accuracy by 17%
+Presented technical tradeoffs, experimental design, and results to 15 faculty and student developers, influencing research direction
+PROJECTS
+
+Internal Knowledge Assistant | github.com/priyashah/internal-knowledge-assistant
+
+Designed and delivered end-to-end full-stack enterprise knowledge assistant with chat-based workflows and semantic search
+Implemented AI-generated answer suggestions using LLM APIs with RAG over 8,000+ ingested documents, achieving 88% answer relevance in evaluation
+Built backend services for document ingestion, access control, and response traceability using Node.js and NoSQL patterns
+Engineered for scale with Redis caching and asynchronous processing, sustaining p95 response time under 300ms for 1,200+ test queries across 3 simulated departments
+TaskFlow Enterprise | github.com/priyashah/taskflow-enterprise
+
+Created internal task and approvals platform using Spring Boot, React, and PostgreSQL supporting 5 team roles and 100+ simulated tasks
+Built REST APIs and role-based dashboards to manage requests across multiple teams, reducing approval cycle time by 35%
+Added analytics and reporting views to track 10+ operational KPIs for stakeholders
+EDUCATION
+B.S. Computer Science | University of Southern California | Expected 2026
+GPA: 3.7/4.0
+Relevant Coursework: Algorithms, Data Structures, Machine Learning, Natural Language Processing, Database Systems, Software Engineering, Cloud Computing
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2025)
+Microsoft Azure AI Fundamentals (2025)
+
+ACTIVITIES
+Association for Computing Machinery, Member (2023 – Present) – led 3 collaborative software projects, interview prep workshops for 200+ members

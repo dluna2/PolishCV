@@ -1,0 +1,54 @@
+John Doe
+San Francisco, CA
+
+INTRO
+Student software engineer with experience in interfaces, APIs, automation, and AI workflow ideas. Good at collaboration, ownership, and shipping projects. Interested in roles where I can contribute broadly rather than stay in one lane.
+
+CAPABILITIES
+building apps, integrating services, improving workflows, solving problems, writing APIs, helping users, fixing bugs, testing
+
+TECH OVERVIEW
+React Node JavaScript Java Python Spring GraphQL Next AWS GCP Docker Mongo Postgres Redis Firebase Cypress
+
+WORK HISTORY
+Lakeview Logic | frontend intern
+- built workflow components
+- connected backend services
+- added recommendations
+- improved tests and accessibility
+- worked with product and design
+
+Ohio State Digital Services
+- internal tools
+- scripts and APIs
+- requirement gathering
+- automation of manual tasks
+
+EDUCATION
+Ohio State University
+Computer Science
+2027 expected
+good GPA
+
+CERTS
+Meta front end
+AWS academy
+etc
+
+PROJECTS
+AI Operations Studio
+- workflow assistant
+- chat and smart suggestions
+- analytics and audit trails
+- model evaluation tooling
+
+Review and Approval Hub
+- approval platform
+- dashboards and auth
+- performance improvements
+
+LEADERSHIP
+technical lead in student club
+- planning
+- reviews
+- milestones

@@ -1,0 +1,41 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 4+ years academic and professional experience delivering scalable, enterprise applications and internal tools. Built React, Node.js, Spring Boot, and GraphQL systems powering employee-facing workflows for 400+ users. Integrated GenAI and LLM-powered features including chat interfaces, smart suggestions, and autocomplete to improve productivity and reduce manual work. Partner cross-functionally with product managers, designers, and stakeholders to ship reliable, high-quality UX and backend services on AWS. Passion for internal tooling, data-driven decisions, and end-to-end ownership.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, Next.js, HTML/CSS, Jest
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs
+AI/ML: GenAI, LLM integration, RAG, prompt engineering, OpenAI API
+Cloud & DevOps: AWS, Docker, CI/CD, GitHub Actions, Microservices
+Databases: PostgreSQL, MongoDB, DynamoDB, NoSQL, Redis
+Practices: Scalable systems, Reliability, Testing, Monitoring, Data structures, Algorithms, Agile
+EXPERIENCE
+Software Engineering Intern | Summit Grid Technologies | Remote | Jun 2025 – Aug 2025
+Owned React and TypeScript development for internal operations platform used by 400+ employees, streamlining approvals, requests, and reporting workflows
+Designed and shipped Node.js and GraphQL backend services for task routing, notifications, and workflow state management, processing 4,500+ daily events with 99.9% reliability
+Integrated GenAI and LLM-powered smart suggestions into employee-facing forms using third-party LLM APIs, reducing manual entry time by 29%
+Collaborated cross-functionally with product managers and designers to improve UX across 5 screens, driving 22% increase in feature adoption
+Led testing strategy with 50+ Jest automated tests and CI/CD release checks, improving deployment quality and cutting regression incidents by 32%
+Research Assistant | Applied Systems Lab | Colorado State University | Sep 2024 – May 2025
+Built Python services for retrieval-augmented generation experiments on 3 corpora totaling 18,000+ documents, enabling LLM evaluation at scale
+Evaluated latency, relevance, and answer quality across 6 prompt and model configurations, improving top-3 retrieval precision by 18%
+Developed internal React dashboards to compare LLM output quality and latency, enabling 2.5x faster experiment iteration across 4 research projects
+Partnered cross-functionally with 2 faculty and 5 student researchers to document GenAI integration patterns, adopted by 2 follow-on enterprise projects
+PROJECTS
+OpsFlow AI Assistant | React, Node.js, AWS, OpenAI, DynamoDB | github.com/adrianwells/opsflow-ai-assistant
+Shipped employee-facing AI workflow application handling 850+ requests across 4 workflow categories for internal workforce productivity
+Designed and implemented chat interfaces, autocomplete, and smart recommendation flows, cutting average task completion time by 34%
+Built scalable backend APIs for prompt history, audit logs, and workflow tracking across 3 integrated microservices
+Deployed on AWS with Docker, supporting 30 concurrent users and sustaining <250ms p95 latency with full monitoring and reliability
+Enterprise Connector Platform | Spring Boot, React, GraphQL, PostgreSQL | github.com/adrianwells/enterprise-connector-platform
+Led development of Spring Boot and React platform integrating 5 internal and third-party services through unified REST and GraphQL APIs
+Delivered role-based dashboards, monitoring views, and secure data exchange workflows for 3 internal team roles
+Improved integration reliability by 29% through validation logic, retry mechanisms, and structured error handling
+EDUCATION
+B.S. Computer Science | Colorado State University | May 2026
+GPA: 3.8/4.0 | Coursework: Data Structures, Algorithms, Database Systems, Distributed Computing, Machine Learning, Software Engineering
+CERTIFICATIONS
+AWS Certified Cloud Practitioner, 2025
+Neo4j Graph Data Science Fundamentals, 2025

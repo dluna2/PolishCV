@@ -1,0 +1,46 @@
+John Doe
+San Francisco, CA
+
+Software engineering student and builder of polished workflow tools, AI assisted experiences, and practical web solutions. Known for teamwork, delivery, initiative, product sense, and dependable execution under deadlines.
+
+SPECIALTIES 
+User interfaces / services / internal tools / performance / cloud / teamwork / leadership / experimentation / AI enhanced workflows
+React, JavaScript, Java, Python, data stores, APIs, Node ecosystem, assorted tooling
+
+EXPERIENCE 
+ElevateWorks / frontend internship / remote / summer 2025
++ Built responsive interfaces for workflow requests and approvals
++ Connected UI with service layers and assisted with production components
++ Added autocomplete and AI aided recommendation capabilities
++ Improved testing, accessibility, and reliability over time
+
+UCI Office of Information Technology / developer intern / 2025
++ Built campus operations tools and automation related solutions
++ Developed API and scripting functionality for routing and notifications
++ Collected stakeholder requirements and prioritized updates
++ Reduced manual effort with web based workflow automation
+
+EDUCATION
+University of California Irvine
+Software Engineering BS expected 2027
+Strong GPA and coursework across architecture, AI, databases, algorithms, HCI
+
+CERTIFICATES
+Meta front end certificate
+AWS academy architecting certificate
+
+PROJECTS 
+WorkflowGPT
++ Productivity app with chat, suggestions, session handling, and audit logs
++ External LLM integration plus evaluation tooling
+
+Review Hub
++ Peer review platform with auth, dashboards, workflows, and REST endpoints
++ Better endpoint design and query tuning improved efficiency
+
+LEADERSHIP NOTES
+HackUCI student team project manager
++ Guided planning, milestones, demos, and technical docs
+
+NOTE
+Creative layout version with icons is the main version of this resume

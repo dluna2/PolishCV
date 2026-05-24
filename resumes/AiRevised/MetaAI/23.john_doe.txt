@@ -1,0 +1,41 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER
+Full stack engineer with 4+ years academic and professional experience building scalable employee-facing applications, REST/GraphQL APIs, and GenAI-powered workflows. Delivered React/TypeScript and Node.js/Spring Boot systems serving 450+ internal users and processing 4,000+ daily requests. Integrated LLM APIs for AI-powered suggestions that improved user efficiency by 30% and led retrieval-augmented generation experiments across 11,000+ records. Strong cross-functional partner to product, design, and engineering with end-to-end ownership of reliable, high-quality software on AWS. Passionate about workforce productivity, internal tooling, and mission-critical enterprise systems.
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frontend: React, HTML/CSS, Jest
+Backend: Node.js, Express, Java, Spring Boot, REST APIs, GraphQL APIs, Flask
+AI/ML: GenAI, LLM integration, RAG, prompt engineering, semantic search, chat interfaces
+Cloud & DevOps: AWS, Docker, Jenkins, CI/CD, Git
+Databases: PostgreSQL, MongoDB, DynamoDB, NoSQL
+Practices: Scalable systems, Reliability, Testing, Monitoring, API design, Agile, Data structures, Algorithms
+EXPERIENCE
+Software Engineer Intern | Atlantic Harbor Systems | Remote | Jun 2025 – Sep 2025
+Led React and TypeScript development for internal support and approvals platform used by 450+ business team members across 3 departments
+Architected 10 Node.js and Express backend services for workflow state, internal knowledge search, and notification delivery, handling 4,000+ daily requests at 99.9% uptime
+Shipped AI-powered suggestions and content generation using external LLM APIs into 4 key workflows, improving user efficiency by 30%
+Partnered cross-functionally with product and design to refine 5 UX flows, increasing task success rate by 18%
+Drove release quality with 47+ Jest tests and CI/CD deployment automation, reducing regression incidents by 25%
+AI Applications Intern | University of Miami Intelligent Systems Lab | Miami, FL | Jan 2025 – May 2025
+Built Python services for retrieval-augmented generation experiments, evaluating LLM outputs across 7 model configurations for summarization, classification, and semantic search
+Engineered retrieval and ranking pipelines across 11,000+ enterprise-style records to prototype document assistance for internal use cases
+Developed React dashboards comparing quality, latency, and prompt strategies, enabling 2x faster iteration across 5 experiments
+Documented AI feature design recommendations adopted by 3 faculty advisors and 9 student developers for productivity tools
+PROJECTS
+Employee Knowledge Navigator | React, Node.js, GraphQL, DynamoDB, LLM APIs, AWS | github.com/valeriagomez/employee-knowledge-navigator
+Shipped employee-facing support platform handling 950+ simulated interactions across 5 internal support categories
+Designed chat, autocomplete, and AI-generated suggestions, cutting time-to-resolution by 39% for internal users
+Built scalable backend services for request state, user context, and audit history across 4 integrated systems
+Improved response quality and reliability with prompt evaluation and fallback handling, achieving 91% confidence threshold in testing
+Workflow Tracker Pro | Spring Boot, React, REST APIs, PostgreSQL | github.com/valeriagomez/workflow-tracker-pro
+Led development of Spring Boot and React application for service coordination, reporting, and task tracking across 5 simulated teams
+Delivered 13 REST APIs, dashboards, and approval workflows handling 160+ daily transitions for cross-functional teams
+Improved system reliability by 25% through validation logic, structured logging, and integration testing
+EDUCATION
+B.S. Computer Engineering | University of Miami | May 2026
+GPA: 3.7/4.0 | Coursework: Algorithms, Computer Systems, Database Systems, Cloud Computing, Machine Learning, Human Computer Interaction
+CERTIFICATIONS
+AWS Certified Developer – Associate, 2025
+Microsoft Azure AI Fundamentals, 2025

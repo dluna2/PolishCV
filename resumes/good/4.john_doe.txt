@@ -1,0 +1,61 @@
+John Doe
+San Francisco, CA
+
+FULL STACK SOFTWARE ENGINEER INTERN / NEW GRAD (2027)
+
+SUMMARY
+Full-stack software engineer (B.S. Software Engineering expected 2027) with experience delivering React/TypeScript UI and Node.js/GraphQL + Java/Spring Boot APIs across internships and projects. Built internal tools and AI-assisted UX features that streamline approvals and repetitive workflows. Strong fundamentals in scalable API development, frontend performance, and testing; collaborative with cross-functional teams.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frontend: React, React Query
+Backend: Node.js, Express, Spring Boot, REST APIs, GraphQL
+Datastores: PostgreSQL, MongoDB, Firebase
+Cloud/DevOps: AWS, Docker, Git
+Testing/Tools: Cypress, Figma
+AI: LLM-powered features
+Concepts: API development, frontend performance, scalable applications, algorithms, software testing
+
+EXPERIENCE
+
+Frontend Engineering Intern | ElevateWorks, Remote | Jun 2025 – Aug 2025
+Technologies: React, TypeScript, GraphQL
+- Improved internal request intake and approvals for 500+ employees by delivering responsive React interfaces for an employee workflow application
+- Increased feature completeness by partnering with backend engineers to integrate Node.js and GraphQL services into 8 production-ready UI components
+- Reduced repetitive user actions by 35% by implementing autocomplete and AI-assisted recommendations in 4 high-usage workflows
+- Improved frontend reliability and accessibility by contributing 40+ component tests, fixing 15 accessibility issues, and resolving 20 bug reports
+
+Software Developer Intern | UCI Office of Information Technology, Irvine, CA | Jan 2025 – May 2025
+Technologies: JavaScript, React, Firebase
+- Improved campus operations efficiency for 3,000+ students and staff by building internal tools using JavaScript, React, and Firebase
+- Enabled notifications, document routing, and activity tracking by developing 7 APIs and data-processing scripts handling 500+ daily transactions
+- Increased stakeholder alignment by gathering requirements from 6 department teams and prioritizing features based on user needs
+- Reduced manual administrative effort by 40% by automating 5 recurring workflows through web-based tools
+
+EDUCATION
+B.S. in Software Engineering | University of California, Irvine | Expected 2027
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Management, Artificial Intelligence, Human Computer Interaction
+
+CERTIFICATIONS
+- Meta Front-End Developer Professional Certificate (2025)
+- AWS Academy Cloud Architecting (2025)
+
+PROJECTS
+
+WorkflowGPT | github.com/danielnguyen/workflowgpt
+Technologies: React, Node.js, GraphQL, MongoDB, LLM services
+- Built an internal productivity application supporting 6 workflow types and 1,000+ test interactions
+- Improved usability by designing UX flows for chat, smart suggestions, and AI-generated task updates, cutting task completion time by 38%
+- Enabled secure, auditable usage by developing backend APIs for prompts, user sessions, and audit logs across 4 permission levels
+- Improved AI quality and reliability by integrating external LLM services and adding evaluation tooling, achieving 90% response accuracy in testing
+
+Review Hub | github.com/danielnguyen/review-hub
+Technologies: Java, Spring Boot, React, PostgreSQL, REST
+- Built a full-stack peer review platform supporting 100+ simulated review cycles
+- Enabled assignment and feedback workflows by implementing authentication, dashboards, and 12 REST API endpoints
+- Improved backend efficiency by 25% by optimizing endpoint design and database queries
+
+LEADERSHIP
+Project Manager | HackUCI Student Team | Sep 2024 – Present
+- Improved team execution by leading a 4-person team to plan, build, and present 2 software projects at UCI's annual hackathon (500+ participants)
+- Increased delivery clarity by coordinating milestones, demos, and technical documentation across 2 project cycles
