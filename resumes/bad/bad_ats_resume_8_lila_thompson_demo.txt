@@ -1,0 +1,57 @@
+LILA THOMPSON
+-lila.thompson@email.com 
+-linkedin.com/in/lilathompson
+-github.com/lilathompson
+
+OVERVIEW
+Recent grad seeking a role where I can contribute across the stack, support teams, build useful experiences, and continue learning. Comfortable wearing multiple hats and helping anywhere needed. Interested in innovation, user empathy, experimentation, and modern software.
+
+KNOWLEDGE 
+Front end | Back end | AI | Cloud | Dev | QA | Databases | Product | Communication | Research
+
+STACK CLOUD
+JavaScript, TypeScript, Python, Java, React, Node, Express, Spring, GraphQL, Flask, AWS, Docker, Jenkins, Mongo, Dynamo, Postgres, Git, testing items
+
+EXPERIENCE NOTES
+Harbor Digital
+Software Engineer Intern
+- built employee portal flows
+- helped with request features and support workflows
+- did some backend work
+- added AI suggestions to forms
+- worked with product/design
+- fixed bugs and contributed scripts
+
+Northeastern Data Lab
+AI Engineering Intern
+- evaluated outputs
+- built ranking/retrieval experiments
+- made dashboards
+- gave recommendations
+
+EDUCATION SECTION
+Northeastern University
+Computer Science
+2026
+solid GPA
+
+CERTIFICATION AREA
+AWS Developer Associate
+Apollo GraphQL
+online learning
+
+PROJECTS / SAMPLES
+AI Request Assistant
+- internal request automation
+- chat and autocomplete
+- integrations and analytics
+- fallback logic
+
+Team Operations Portal
+- internal app
+- APIs and dashboards
+- logs and validation
+
+VOLUNTEER
+Clubs and volunteer details available separately.
+Resume can be customized later if needed.

@@ -1,0 +1,47 @@
+ELIAS TURNER
+Portland, OR | elias.turner@email.com | linkedin.com/in/eliasturner | github.com/eliasturner
+
+SUMMARY
+Recent Software Engineering graduate with experience building cloud-based internal applications, backend APIs, and AI-powered user experiences through internships and engineering projects. Skilled in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL databases. Strong foundation in algorithms, modern design patterns, and scalable enterprise application development.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Redis, GitHub Actions, Jest
+Concepts: enterprise applications, GenAI, LLM integration, REST APIs, GraphQL APIs, cloud infrastructure, internal tools, testing, Agile development, scalable architecture
+
+EXPERIENCE
+
+Software Engineering Intern | Cascade Harbor Systems, Portland, OR | May 2025 – Aug 2025
+- Built React features for an internal enterprise application supporting employee requests, approvals, and analytics
+- Developed Node.js and GraphQL services to power dashboards, search, and workflow state updates
+- Integrated LLM-based content generation and smart suggestions into support pages and workflow forms
+- Collaborated with designers and product managers to refine intuitive UX flows for AI-powered features
+- Improved release quality through automated testing, code reviews, and deployment validation
+
+Application Development Intern | Portland Enterprise Technology Group, Portland, OR | Jan 2025 – Apr 2025
+- Developed Java and Spring Boot backend services for internal workflow automation and reporting tools
+- Integrated internal and third-party APIs to streamline operational processes and data exchange
+- Used MongoDB and PostgreSQL to support both document-based and transactional application needs
+- Added validation, error handling, and logging to improve maintainability and service reliability
+
+EDUCATION
+B.S. in Software Engineering | Oregon State University | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Systems, Cloud Computing, Natural Language Processing
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2025)
+- Databricks Generative AI Fundamentals (2025)
+
+PROJECTS
+
+Internal Helpdesk AI | github.com/eliasturner/internal-helpdesk-ai
+- Built a full-stack employee support tool using React, Node.js, GraphQL, and MongoDB
+- Designed chat, autocomplete, and smart suggestion experiences to streamline internal request workflows
+- Developed backend APIs for ticket state, user context, prompt logs, and service integrations
+- Deployed cloud-hosted services and validated reliability through load and integration testing
+
+Enterprise Process Stream | github.com/eliasturner/enterprise-process-stream
+- Created a React and Spring Boot workflow platform for internal task management, approvals, and reporting
+- Built REST APIs, dashboards, and searchable activity histories for cross-functional stakeholders
+- Improved decision-making with analytics views and summary metrics for operational teams

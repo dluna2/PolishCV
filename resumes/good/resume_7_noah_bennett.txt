@@ -1,0 +1,52 @@
+NOAH BENNETT
+Chicago, IL | noah.bennett@email.com | linkedin.com/in/noahbennett | github.com/noahbennett
+
+SUMMARY
+Third-year Computer Science student with practical experience building modern web applications, backend APIs, and AI-enabled features for internal workflow tools. Proficient in React, Node.js, JavaScript, Java, and Python, with experience in GraphQL, Spring Boot, NoSQL, and cloud deployment. Strong foundation in algorithms, system design, and cross-functional collaboration.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API development, enterprise applications, GenAI, LLMs, NoSQL databases, cloud infrastructure, Agile development, testing, debugging
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Stratus Labs, Chicago, IL | May 2025 – Aug 2025
+- Built employee-facing UI components in React for a workflow orchestration platform used by internal teams
+- Developed Node.js APIs and GraphQL resolvers to support approvals, search, and task routing
+- Added AI-generated drafting and smart recommendations to internal tools using third-party LLM APIs
+- Improved frontend performance by optimizing rendering patterns and reducing unnecessary API calls
+- Partnered with engineers, designers, and product stakeholders to ship features within sprint timelines
+
+Software Developer Intern | Midwest Innovation Center, Chicago, IL | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and request management applications
+- Integrated MongoDB and PostgreSQL data layers to support structured and semi-structured records
+- Created API documentation and test cases to improve maintainability for future student developers
+- Supported deployment and monitoring of internal tools used by campus operations teams
+
+EDUCATION
+B.S. in Computer Science | University of Illinois Chicago | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Operating Systems, Artificial Intelligence
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Ops Copilot Dashboard | github.com/noahbennett/ops-copilot-dashboard
+- Created a full-stack internal operations assistant with React, Node.js, GraphQL, and MongoDB
+- Implemented chat interfaces, summarization, and smart suggestion workflows powered by LLM APIs
+- Designed backend services for prompt storage, user sessions, and workflow state management
+- Added monitoring and caching features to improve reliability during demo-scale usage
+
+Internal API Gateway | github.com/noahbennett/internal-api-gateway
+- Built a Spring Boot service layer for aggregating internal and third-party APIs into a unified interface
+- Added authentication, request validation, and service fallback handling
+- Improved integration speed for frontend consumers by centralizing common business logic
+
+LEADERSHIP
+Engineering Lead | UIC App Development Club | Sep 2024 – Present
+- Led a team of 6 students in building internal web tools for campus organizations
+- Organized sprint planning, technical design sessions, and project demos

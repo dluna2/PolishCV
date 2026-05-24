@@ -1,0 +1,52 @@
+TYLER MITCHELL
+Nashville, TN | tyler.mitchell@email.com | linkedin.com/in/tylermitchell | github.com/tylermitchell
+
+SUMMARY
+Third-year Software Engineering student with internship experience building full-stack applications, scalable APIs, and AI-enhanced workflow tools. Skilled in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL technologies. Strong communicator and problem-solver with experience collaborating across engineering, design, and product teams to deliver polished software.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, FastAPI
+Tools: AWS, GCP, Docker, Git, MongoDB, PostgreSQL, Redis, Cypress, Postman
+Concepts: API design, enterprise applications, LLM applications, internal tools, cloud infrastructure, algorithms, testing, debugging, Agile development
+
+EXPERIENCE
+
+Full-Stack Engineering Intern | Riverbend Digital, Nashville, TN | May 2025 – Aug 2025
+- Built employee-facing React components for a workflow platform supporting approvals, requests, and operational visibility
+- Developed Node.js APIs and GraphQL resolvers for search, notifications, task routing, and reporting
+- Added AI-generated drafting and smart suggestions using third-party LLM APIs for internal productivity use cases
+- Improved frontend responsiveness by optimizing data fetching and reducing unnecessary re-renders
+- Collaborated with engineers, designers, and product stakeholders to ship features on time and at quality
+
+Software Developer Intern | Vanderbilt Enterprise Technology, Nashville, TN | Jan 2025 – Apr 2025
+- Built Spring Boot services for internal reporting and process automation applications
+- Integrated MongoDB and PostgreSQL to support document-style and transactional workflows
+- Wrote API documentation, test cases, and onboarding notes for future student developers
+- Supported deployment validation and bug triage for tools used by campus administrative teams
+
+EDUCATION
+B.S. in Software Engineering | Vanderbilt University | Expected 2027
+GPA: 3.7/4.0 | Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Design, Artificial Intelligence, Web Development
+
+CERTIFICATIONS
+- Oracle Java Foundations Associate (2025)
+- Google Cloud Digital Leader (2025)
+
+PROJECTS
+
+Workflow Request Copilot | github.com/tylermitchell/workflow-request-copilot
+- Built an internal request assistant using React, Node.js, GraphQL, and MongoDB
+- Implemented chat, summarization, and smart suggestion workflows powered by LLM APIs
+- Designed backend services for request history, prompt logging, and workflow state transitions
+- Added caching and monitoring features to improve reliability during testing and demos
+
+Unified Service Gateway | github.com/tylermitchell/unified-service-gateway
+- Developed a Spring Boot service layer to aggregate internal and third-party APIs into a single platform
+- Added authentication, validation, and retry handling for downstream services
+- Reduced frontend integration complexity by centralizing shared business logic and service access
+
+LEADERSHIP
+Engineering Lead | Vanderbilt App Builders | Sep 2024 – Present
+- Led a student team building internal tools for university organizations
+- Coordinated sprint planning, demo preparation, and technical documentation reviews

@@ -1,0 +1,47 @@
+CAMERON PRICE
+Raleigh, NC | cameron.price@email.com | linkedin.com/in/cameronprice | github.com/cameronprice
+
+SUMMARY
+Recent Computer Engineering graduate with hands-on experience building scalable web applications, backend services, and AI-powered features for internal tools. Proficient in React, Node.js, JavaScript, Python, Java, Spring Boot, GraphQL, and NoSQL systems. Strong ownership mindset with a record of delivering reliable software through internships, research, and collaborative engineering projects.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins, Jest
+Concepts: REST APIs, GraphQL, cloud computing, GenAI, LLM integration, enterprise applications, testing, CI/CD, scalable backend services
+
+EXPERIENCE
+
+Software Engineer Intern | Oakline Systems, Remote | Jun 2025 – Sep 2025
+- Developed React-based interfaces for an internal support and approvals platform serving multiple business teams
+- Built backend services in Node.js and Express for workflow state, internal knowledge search, and notification delivery
+- Integrated AI-powered suggestions and content generation into user workflows with external LLM APIs
+- Partnered with product managers and designers to improve usability, accessibility, and workflow clarity
+- Added test coverage and deployment automation in an Agile development environment
+
+AI Applications Intern | NC State Intelligent Computing Lab, Raleigh, NC | Jan 2025 – May 2025
+- Built Python applications to evaluate LLM outputs for summarization, classification, and semantic search
+- Prototyped retrieval and ranking pipelines for enterprise-style document assistance tools
+- Created dashboards to compare model quality, latency, and prompt strategies across experiments
+- Shared recommendations on safe and effective AI feature design for internal applications
+
+EDUCATION
+B.S. in Computer Engineering | North Carolina State University | 2026
+GPA: 3.7/4.0 | Relevant Coursework: Algorithms, Computer Systems, Databases, Cloud Computing, Machine Learning, Human Computer Interaction
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2025)
+- Microsoft Azure AI Fundamentals (2025)
+
+PROJECTS
+
+Employee Support Navigator | github.com/cameronprice/employee-support-navigator
+- Built an employee-facing support platform using React, Node.js, GraphQL, and DynamoDB
+- Designed chat, autocomplete, and AI-generated suggestion workflows for internal knowledge and support tasks
+- Implemented backend services for request tracking, user context, and audit history
+- Improved response quality through prompt evaluation and fallback handling for low-confidence outputs
+
+Process Tracker Studio | github.com/cameronprice/process-tracker-studio
+- Created a Spring Boot and React application for service coordination, reporting, and task tracking
+- Built REST APIs, dashboards, and approval workflows for cross-functional operational teams
+- Improved system reliability through validation, logging, and integration testing

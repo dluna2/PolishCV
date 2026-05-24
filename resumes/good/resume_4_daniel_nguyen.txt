@@ -1,0 +1,51 @@
+DANIEL NGUYEN
+Irvine, CA | daniel.nguyen@email.com | linkedin.com/in/danielnguyen | github.com/danielnguyen
+
+SUMMARY
+Third-year Software Engineering student with experience developing full-stack web applications, backend APIs, and AI-enhanced user experiences. Proficient in React, Node.js, JavaScript, Java, Spring Boot, GraphQL, and NoSQL databases. Passionate about building internal tools that improve workflows, with proven success collaborating in team-based environments and delivering polished software on schedule.
+
+SKILLS
+Languages: JavaScript, TypeScript, Java, Python, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, React Query
+Tools: Git, Docker, AWS, MongoDB, Firebase, PostgreSQL, Figma, Cypress
+Concepts: API development, frontend performance, scalable applications, LLM-powered features, cloud services, algorithms, software testing
+
+EXPERIENCE
+
+Frontend Engineering Intern | ElevateWorks, Remote | Jun 2025 – Aug 2025
+- Developed responsive React interfaces for an internal employee workflow application supporting request intake and approvals
+- Collaborated with backend engineers to integrate Node.js and GraphQL services into production-ready UI components
+- Implemented autocomplete and AI-assisted recommendation features to streamline repetitive user actions
+- Improved frontend reliability with component testing, bug triage, and accessibility fixes
+
+Software Developer Intern | UCI Office of Information Technology, Irvine, CA | Jan 2025 – May 2025
+- Built internal tools for campus operations using JavaScript, React, and Firebase
+- Developed APIs and data-processing scripts for notifications, document routing, and user activity tracking
+- Worked with stakeholders to gather requirements and prioritize features based on user needs
+- Reduced manual administrative effort by automating recurring workflows through web-based tools
+
+EDUCATION
+B.S. in Software Engineering | University of California, Irvine | Expected 2027
+GPA: 3.8/4.0 | Relevant Coursework: Data Structures, Algorithms, Software Architecture, Database Management, Artificial Intelligence, Human Computer Interaction
+
+CERTIFICATIONS
+- Meta Front-End Developer Professional Certificate (2025)
+- AWS Academy Cloud Architecting (2025)
+
+PROJECTS
+
+WorkflowGPT | github.com/danielnguyen/workflowgpt
+- Built an internal productivity application with React, Node.js, GraphQL, and MongoDB
+- Designed intuitive UX flows for chat, smart suggestions, and AI-generated task updates
+- Developed backend APIs to manage prompts, user sessions, and audit logs
+- Integrated external LLM services and added evaluation tooling for response quality and latency
+
+Review Hub | github.com/danielnguyen/review-hub
+- Created a full-stack peer review platform using Spring Boot, React, and PostgreSQL
+- Implemented authentication, dashboards, and scalable REST APIs for assignment and feedback workflows
+- Increased backend efficiency by optimizing endpoint design and database queries
+
+LEADERSHIP
+Project Manager | HackUCI Student Team | Sep 2024 – Present
+- Led a 4-person team in planning, building, and presenting software projects under tight deadlines
+- Coordinated development milestones, demos, and technical documentation

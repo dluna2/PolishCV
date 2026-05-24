@@ -1,0 +1,51 @@
+SOFIA RAMIREZ
+Austin, TX | sofia.ramirez@email.com | linkedin.com/in/sofiaramirez | github.com/sofiaramirez
+
+SUMMARY
+Recent Computer Engineering graduate with hands-on experience in frontend development, backend services, and AI integration for internal productivity tools. Skilled in React, Node.js, JavaScript, Spring Boot, GraphQL, NoSQL, and Python, with a strong foundation in algorithms and scalable system design. Effective communicator who enjoys partnering with cross-functional teams to build intuitive, high-quality products.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, Java, SQL
+Frameworks: React, Node.js, Express, Spring Boot, GraphQL, Flask
+Tools: AWS, GCP, Docker, Git, MongoDB, DynamoDB, PostgreSQL, Jenkins
+Concepts: LLM integration, prompt engineering, REST APIs, GraphQL APIs, cloud computing, testing, CI/CD, enterprise applications
+
+EXPERIENCE
+
+Software Engineer Intern | BlueOrbit Software, Remote | May 2025 – Aug 2025
+- Developed employee-facing React features for an internal resource planning platform used across 4 departments
+- Built Node.js services and GraphQL resolvers for scheduling, search, and recommendation workflows
+- Integrated generative AI capabilities for smart summaries and response drafting, improving task turnaround time by 20%
+- Collaborated with designers and product managers to refine UX flows for high-usage dashboards
+- Participated in code reviews and contributed to release testing and production support
+
+Backend Developer Intern | Civic Data Labs, Austin, TX | Jan 2025 – Apr 2025
+- Created Spring Boot APIs and service integrations for data collection and reporting tools
+- Used MongoDB and PostgreSQL to manage transactional and semi-structured data
+- Improved API reliability by implementing validation, error handling, and logging practices
+- Documented endpoints and integration patterns for internal engineering teams
+
+EDUCATION
+B.S. in Computer Engineering | The University of Texas at Austin | 2026
+GPA: 3.6/4.0 | Relevant Coursework: Algorithms, Software Design, Databases, Cloud Computing, Artificial Intelligence, Web Programming
+
+CERTIFICATIONS
+- Google Cloud Digital Leader (2025)
+- AWS Certified Cloud Practitioner (2025)
+
+PROJECTS
+
+Ops Assistant AI | github.com/sofiaramirez/ops-assistant-ai
+- Built a full-stack internal operations assistant using React, Node.js, GraphQL, and DynamoDB
+- Implemented chat interfaces, autocomplete, and smart suggestion features for employee workflows
+- Integrated third-party LLM APIs and built fallback handling for failed or low-confidence responses
+- Designed scalable backend APIs and authentication flows for multi-user access
+
+Media Metadata Explorer | github.com/sofiaramirez/media-metadata-explorer
+- Developed a React and Spring Boot application for searching, tagging, and analyzing large media metadata sets
+- Built REST APIs and backend services for ingesting and querying structured and unstructured data
+- Added analytics dashboards and filtering features to improve discoverability and usability
+
+ACTIVITIES
+Women in Computing | Member | 2023 – Present
+- Participated in technical interview preparation, peer mentorship, and collaborative project workshops
